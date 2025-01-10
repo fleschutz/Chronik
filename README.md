@@ -2,14 +2,14 @@
 
 | Jahr      | Ereignis (* = Geburt, & = Hochzeit, + = Tod, [] = Beruf, {} = Quelle) |
 | --------- | ------------------------------------------------------------ |
-| 1412      | Utz Brästel genannt Fleschutz, kauft die Güter zu "Wyler" und "Mätzlins" (jetzt: Fleschützen) vom Fürststift Kempten {[Urkunde 263](Quellen/Fürststift Kempten/Urkunde 263)} |
+| 1412      | Utz Brästel genannt Fleschutz, kauft die Güter zu "Wyler" und "Mätzlins" (jetzt: Fleschützen) vom Fürststift Kempten {[Urkunde 263](Quellen/Fürststift Kempten/Urkunde 263/)} |
 | 1480      | Jörg Fleschütz, Haldenwanger Pfarr.                          |
-| 1505      | die Fleschutzen zu Fleschützen {[Urkunde 1757](Quellen/Fürststift Kempten/Urkunde 1757)} |
-| 1516      | Frevelgerichtsbarkeit zu Fleschützen {[Urkunde 2007](Quellen/Fürststift Kempten/Urkunde 2007)} |
-| 1525      | Deutscher Bauernkrieg, 200 Allgäuer Höfe werden in Brand gesteckt {wikipedia} |
-| 1530      | Georg Fleschutz (Hofmeister) kauft Wasserrecht zu Burkarts {[Urkunde 2546](Quellen/Fürststift Kempten/Urkunde 2546)} |
-| 1540      | Georg Fleschutz [Hofmeister] kauft Haus vom Konvent {FKU2915} |
-| 1542      | Georg Fleschutz [Hofmeister] kauft 2 Häuser vom Konvent {FKU2984} |
+| 1505      | die Fleschutzen zu Fleschützen {[Urkunde 1757](Quellen/Fürststift Kempten/Urkunde 1757/)} |
+| 1516      | Frevelgerichtsbarkeit zu Fleschützen {[Urkunde 2007](Quellen/Fürststift Kempten/Urkunde 2007/)} |
+| 1525      | Deutscher Bauernkrieg, 200 Allgäuer Höfe werden in Brand gesteckt {[Wikipedia](Quellen/Wikipedia/Deutscher Bauernkrieg/)} |
+| 1530      | Georg Fleschutz (Hofmeister) kauft Wasserrecht zu Burkarts {[Urkunde 2546](Quellen/Fürststift Kempten/Urkunde 2546/)} |
+| 1540      | Georg Fleschutz (Hofmeister) kauft Haus vom Konvent {[Urkunde 2915](Quellen/Fürststift Kempten/Urkunde 2915/)} |
+| 1542      | Georg Fleschutz (Hofmeister) kauft 2 Häuser vom Konvent {[Urkunde 2984](Quellen/Fürststift Kempten/Urkunde 2984)} |
 | 1543      | Baltus Fleschutz, zum Weyler, genannt (bei den) Fleschutzen  |
 | 1544      | Georg Fleschutz, Hofmeister im Stift Kempten                 |
 | 1550      | Agatha Fleschutz verkauft ihr Gut zu Eschers (Untrasried) für 200 Gulden {[Urkunde 3316](Quellen/Fürststift Kempten/Urkunde 3316)} |
