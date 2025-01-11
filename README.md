@@ -27,13 +27,13 @@ Download als: [.DOCX](Chronik.docx) | [E-Book](Chronik.epub) | [.HTML](Chronik.h
 
 | Vorname(n)       | Ereignis (* = Geburt, & = Hochzeit, + = Tod, [] = Beruf, {} = Quelle)                                                              |
 | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| Baltasar         | & Ursula Scheider, +1646 {[Kirchenbuch](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-S/?pg=1)} (vermutlich verwandt) |
+| Baltasar         | & Ursula Schneider, +1646 {[Kirchenbuch](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-S/?pg=1)} (vermutlich verwandt) |
 |                  |                                                                                                                                    |
 | **Georg**        | &1649 mit Sabina Brenberg(+1652) &1654 mit Maria Heslin in Börwang [Hauptmann und Wirt] {[Kirchenbuch](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-H/?pg=11)} (vermutlich verwandt) |
 |                  |                                                                                                                                    |
 | **Johann Georg** | &1663 mit Maria Briechler in Börwang {[Kirchenbuch](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-H/?pg=19)} |
 | Maria            | *1649 in Börwang {[Kirchenbuch](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-1/?pg=10)} (vermutlich verwandt) |
-| Catharina        | *1651 in B. +1654 {[Kirchenbuch](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-1/?pg=25) (vermutlich verwandt)  |
+| Catharina        | *1651 in B. +1654 {[Kirchenbuch](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-1/?pg=25)} (vermutlich verwandt)  |
 | Ursula           |   |
 | Elisabeth        |   |
 | Regina           |   |
