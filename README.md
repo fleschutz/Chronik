@@ -1,4 +1,4 @@
-# Chronik der Familie 'Fleschutz'
+# Chronik der Familie Fleschutz
 
 | Jahr      | Ereignis (* = Geburt, & = Hochzeit, + = Tod, [] = Beruf, {} = Quelle) |
 | --------- | ------------------------------------------------------------ |
