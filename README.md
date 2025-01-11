@@ -31,5 +31,25 @@ Download als: [.DOCX](Chronik.docx) | [E-Book](Chronik.epub) | [.HTML](Chronik.h
 |                  |                                                                                                                                    |
 | **Georg**        | &1649 mit Sabina Brenberg(+1652) &1654 mit Maria Heslin in Börwang [Hauptmann und Wirt] {[Kirchenbuch](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-H/?pg=11)} (vermutlich verwandt) |
 |                  |                                                                                                                                    |
-| **Johann Georg** | &1663 mit Maria Briechler {[Kirchenbuch](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-H/?pg=19)} |
-| Maria            | *1649 in Börwang (vermutlich verwandt)                                                                                             |
+| **Johann Georg** | &1663 mit Maria Briechler in Börwang {[Kirchenbuch](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-H/?pg=19)} |
+| Maria            | *1649 in Börwang {[Kirchenbuch](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-1/?pg=10)} (vermutlich verwandt) |
+| Catharina        | *1651 in B. +1654 {[Kirchenbuch](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-1/?pg=25) (vermutlich verwandt)  |
+| Ursula           |   |
+| Elisabeth        |   |
+| Regina           |   |
+| Sabina           |   |
+|                  |   |
+| Sabina           | *1664 in Börwang (Haldenwang) |
+| Roman            | *1665 in B. |
+| Rosina           | *1666 in B. |
+| Ferdinand        | *1667 in B. |
+| Anna             | *1669 in B. |
+| Barbara          | *1670 in B. |
+| Franz            | *1671 in B. | 
+| Maria            | *1673 in B. |
+| Maria            | *1675 in B. |
+| Franz            | *1677 in B. |
+| Anna             | *1679 in B. |
+| **Mang**         | *1680 in B., &1717 Anna Maria Geiger in B. |
+| Josef            | *1681 in B. |
+| Georg            | *1683 in B. |
