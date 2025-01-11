@@ -2,7 +2,7 @@
 
 | Jahr      | Ereignis (* = Geburt, & = Hochzeit, + = Tod, [] = Beruf, {} = Quelle) |
 | --------- | ------------------------------------------------------------ |
-| 1412      | Utz Brästel genannt Fleschutz, kauft die Güter zu "Wyler" und "Mätzlins" (jetzt: Fleschützen) vom Fürststift Kempten { [Urkunde 263](Quellen/Fürststift Kempten/Urkunde 263/) } |
+| 1412      | Utz Brästel genannt Fleschutz, kauft die Güter zu "Wyler" und "Mätzlins" (jetzt: Fleschützen) vom Fürststift Kempten {[Urkunde 263](Quellen/Fürststift_Kempten/Urkunde_263/)} |
 | 1480      | Jörg Fleschütz, Haldenwanger Pfarr.                          |
 | 1505      | die Fleschutzen zu Fleschützen {[Urkunde 1757](Quellen/Fürststift Kempten/Urkunde 1757/)} |
 | 1516      | Frevelgerichtsbarkeit zu Fleschützen {[Urkunde 2007](Quellen/Fürststift Kempten/Urkunde 2007/)} |
