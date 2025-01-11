@@ -1,5 +1,7 @@
 # Chronik der Familie Fleschutz
 
+Download als: [E-Book](README.epub) | [HTML-Seite](README.html) | [PDF](README.pdf) | [RTF](README.rtf)
+
 | Jahr      | Ereignis (* = Geburt, & = Hochzeit, + = Tod, [] = Beruf, {} = Quelle) |
 | --------- | ------------------------------------------------------------ |
 | 1412      | Utz Brästel genannt Fleschutz, kauft die Güter zu "Wyler" und "Mätzlins" (jetzt: Fleschützen) vom Fürststift Kempten {[Urkunde 263](Quellen/Fuerststift_Kempten/Urkunde_263/)} |
@@ -23,3 +25,11 @@
 | 1666      | Baltasar Fleschutz, Bauschreiber im Stift Kempten            |
 | 1686      | Georg Fleschutz zu Haubensteig kauft Weiderecht im Stadtallmey {[Urkunde 1127](Quellen/Fuerststift_Kempten/Urkunde_1127/)} |
 
+| Vorname(n)       | Ereignis (* = Geburt, & = Hochzeit, + = Tod, [] = Beruf, {} = Quelle)                                                              |
+| ---------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| Baltasar         | & Ursula Scheider, +1646 {[Kirchenbuch](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-S/?pg=1)} (vermutlich verwandt) |
+|                  |                                                                                                                                    |
+| **Georg**        | &1649 mit Sabina Brenberg(+1652) &1654 mit Maria Heslin in Börwang (vermutlich verwandt) [Hauptmann und Wirt] {[Kirchenbuch](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-H/?pg=11)} |
+|                  |                                                                                                                                    |
+| **Johann Georg** | &1663 mit Maria Briechler {[Kirchenbuch](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-H/?pg=19)} |
+| Maria            | *1649 in Börwang (vermutlich verwandt)                                                                                             |
