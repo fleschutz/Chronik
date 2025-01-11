@@ -1,6 +1,6 @@
 # Chronik der Familie Fleschutz
 
-Download als: [E-Book](README.epub) | [HTML-Seite](README.html) | [PDF](README.pdf) | [RTF](README.rtf)
+Download als: [E-Book](Chronik.epub) | [HTML-Seite](Chronik.html) | [PDF](Chronik.pdf) | [RTF](Chronik.rtf)
 
 | Jahr      | Ereignis (* = Geburt, & = Hochzeit, + = Tod, [] = Beruf, {} = Quelle) |
 | --------- | ------------------------------------------------------------ |
