@@ -29,8 +29,10 @@ Download als: [.DOCX](Chronik.docx) | [E-Book](Chronik.epub) | [.HTML](Chronik.h
 | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
 | Baltasar         | & Ursula Schneider, +1646 {[Kirchenbuch](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-S/?pg=1)} (vermutlich verwandt) |
 |                  |                                                                                                                                    |
+| *Baltasars Kind:*|   |
 | **Georg**        | &1649 mit Sabina Brenberg(+1652) &1654 mit Maria Heslin in Börwang [Hauptmann und Wirt] {[Kirchenbuch](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-H/?pg=11)} (vermutlich verwandt) |
 |                  |                                                                                                                                    |
+| *Georgs Kinder:* |   |
 | **Johann Georg** | &1663 mit Maria Briechler in Börwang {[Kirchenbuch](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-H/?pg=19)} |
 | Maria            | *1649 in Börwang {[Kirchenbuch](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-1/?pg=10)} (vermutlich verwandt) |
 | Catharina        | *1651 in B. +1654 {[Kirchenbuch](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-1/?pg=25)} (vermutlich verwandt)  |
@@ -39,6 +41,7 @@ Download als: [.DOCX](Chronik.docx) | [E-Book](Chronik.epub) | [.HTML](Chronik.h
 | Regina           |   |
 | Sabina           |   |
 |                  |   |
+| *Johann Georgs Kinder:* |   |
 | Sabina           | *1664 in Börwang (Haldenwang) |
 | Roman            | *1665 in B. |
 | Rosina           | *1666 in B. |
@@ -54,6 +57,7 @@ Download als: [.DOCX](Chronik.docx) | [E-Book](Chronik.epub) | [.HTML](Chronik.h
 | Josef            | *1681 in B. |
 | Georg            | *1683 in B. |
 |                  |   |
+| *Mangs Kinder:*  |   |
 | Anna             | *1718 in Börwang (Haldenwang) {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/3-T/?pg=34)}  |
 | Anna Maria       | *1719 in B. |
 | Ferdinand        | *1721 in B. |
@@ -64,7 +68,8 @@ Download als: [.DOCX](Chronik.docx) | [E-Book](Chronik.epub) | [.HTML](Chronik.h
 | Anna Barbara     | *23.03.1758 in Weizenried 79 (Untrasried, Schindele-Hof) &23.05.1793 mit Prack … |
 | Jakob            | *23.07.1760 in W., +01.08.1760 (nur 9 Tage) |
 | **Leonhard**     | *04.11.1761 in W, &11.7.1785 mit Maria Adelheid Waldmann, +09.03.1814 [Bauer] |
-
+| Dominik          | *08.10.1762 in W. +1762 |
+| Maria Anna       |
 
 Danksagung
 ----------
