@@ -29,10 +29,10 @@ Download als: [.DOCX](Chronik.docx) | [E-Book](Chronik.epub) | [.HTML](Chronik.h
 | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
 | Baltasar         | & Ursula Schneider, +1646 {[Kirchenbuch](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-S/?pg=1)} (vermutlich verwandt) |
 |                  |                                                                                                                                    |
-| *Baltasars Kind:*|   |
+|                  | *Kind von Baltasar:*  |
 | **Georg**        | &1649 mit Sabina Brenberg(+1652) &1654 mit Maria Heslin in Börwang [Hauptmann und Wirt] {[Kirchenbuch](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-H/?pg=11)} (vermutlich verwandt) |
 |                  |                                                                                                                                    |
-| *Georgs Kinder:* |   |
+|                  | *Kinder von Georg & Sabina / Maria:*   |
 | **Johann Georg** | &1663 mit Maria Briechler in Börwang {[Kirchenbuch](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-H/?pg=19)} |
 | Maria            | *1649 in Börwang {[Kirchenbuch](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-1/?pg=10)} (vermutlich verwandt) |
 | Catharina        | *1651 in B. +1654 {[Kirchenbuch](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-1/?pg=25)} (vermutlich verwandt)  |
@@ -41,7 +41,7 @@ Download als: [.DOCX](Chronik.docx) | [E-Book](Chronik.epub) | [.HTML](Chronik.h
 | Regina           |   |
 | Sabina           |   |
 |                  |   |
-| *Johann Georgs Kinder:* |   |
+|                  | *Kinder von Johann Georg & Maria:*    |
 | Sabina           | *1664 in Börwang (Haldenwang) |
 | Roman            | *1665 in B. |
 | Rosina           | *1666 in B. |
@@ -57,7 +57,7 @@ Download als: [.DOCX](Chronik.docx) | [E-Book](Chronik.epub) | [.HTML](Chronik.h
 | Josef            | *1681 in B. |
 | Georg            | *1683 in B. |
 |                  |   |
-| *Mangs Kinder:*  |   |
+|                  | *Kinder von Mang & Anna Maria:*   |
 | Anna             | *1718 in Börwang (Haldenwang) {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/3-T/?pg=34)}  |
 | Anna Maria       | *1719 in B. |
 | Ferdinand        | *1721 in B. |
@@ -65,11 +65,27 @@ Download als: [.DOCX](Chronik.docx) | [E-Book](Chronik.epub) | [.HTML](Chronik.h
 | **Josef**        | *1725 in B.,  &11.08.1757 Anastasia Trunzer in Untrasried, +06.04.1773 in Waizenried (Untrasried) |
 | Dominik          | *1726 in B.  |
 |                  |   |
+|                  | *Kinder von Josef & Anastasia:*      |
 | Anna Barbara     | *23.03.1758 in Weizenried 79 (Untrasried, Schindele-Hof) &23.05.1793 mit Prack … |
 | Jakob            | *23.07.1760 in W., +01.08.1760 (nur 9 Tage) |
 | **Leonhard**     | *04.11.1761 in W, &11.7.1785 mit Maria Adelheid Waldmann, +09.03.1814 [Bauer] |
 | Dominik          | *08.10.1762 in W. +1762 |
-| Maria Anna       |
+| Maria Anna       | *18.07.1764 in W. &04.02.1788 mit Stehele … nach Mittelberg |
+| Sabina           | *26.10.1765 in W. +04.01.1766 (nur 10 Tage) |
+| Jakob            | *06.07.1768 in W. |
+| Afra             | *06.08.1769 in W. +10.09.1769 |
+| Theodor          | *08.11.1770 |
+| Anna Maria       | *31.12.1772 in W. +18.08.1773 |
+| -                | '+23.10.1773 (notgetauft) |
+| Josef            | *16.02.1775 in W. +09.03.1775 |
+| Franz Josef      | *14.02.1776 |
+|                  |    |
+|                  | *Kinder von Leonhard & Maria:*    |
+| Johann Georg     | *07.07.1786 in Weizenried 79 (Untrasried), +13.07.1786 |
+| Anna Maria       | *29.08.1787 in W. +04.09.1787 (nur 6 Tage) |
+| -                | '+24.09.1788 (notgetauft)      |
+| Genovefa         | *03.01.1790 in W. +09.01.1790 (nur 6 Tage) |
+| **Johann Georg** | *20.04.1791 in W.,  & mit Maurus ... & mit Kreszentia Reichart, +06.06.1865 [Bauer] |
 
 Danksagung
 ----------
