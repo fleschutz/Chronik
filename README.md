@@ -53,3 +53,19 @@ Download als: [.DOCX](Chronik.docx) | [E-Book](Chronik.epub) | [.HTML](Chronik.h
 | **Mang**         | *1680 in B., &1717 Anna Maria Geiger in B. |
 | Josef            | *1681 in B. |
 | Georg            | *1683 in B. |
+|                  |   |
+| Anna             | *1718 in Börwang (Haldenwang) {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/3-T/?pg=34)}  |
+| Anna Maria       | *1719 in B. |
+| Ferdinand        | *1721 in B. |
+| Johannes?        | *1723 in B. |
+| **Josef**        | *1725 in B.,  &11.08.1757 Anastasia Trunzer in Untrasried, +06.04.1773 in Waizenried (Untrasried) |
+| Dominik          | *1726 in B.  |
+|                  |   |
+| Anna Barbara     | *23.03.1758 in Weizenried 79 (Untrasried, Schindele-Hof) &23.05.1793 mit Prack … |
+| Jakob            | *23.07.1760 in W., +01.08.1760 (nur 9 Tage) |
+| **Leonhard**     | *04.11.1761 in W, &11.7.1785 mit Maria Adelheid Waldmann, +09.03.1814 [Bauer] |
+
+
+Danksagung
+----------
+Vielen Dank an Karl Fleschutz und an seinen Vater für ihre wertvolle Chronik. Vielen Dank an Bernhard für die Sterbebilder und an Jörg für den Hinweis zu Matricula Online.
