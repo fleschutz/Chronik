@@ -66,7 +66,7 @@ Download als: [.DOCX](Chronik.docx) | [E-Book](Chronik.epub) | [.HTML](Chronik.h
 | Dominik          | *1726 in B.  |
 |                  |                                                                                  |
 |                  | **Kinder von Josef & Anastasia:**                                                |
-| Anna Barbara     | *23.03.1758 in Weizenried 79 (Untrasried, Schindele-Hof) &23.05.1793 mit Prack {[Familienbuch](https://data.matricula-online.eu/de/deutschland/augsburg/untrasried/16-FB/?pg=99)} |
+| Anna Barbara     | *23.03.1758 in Weizenried 79 bei Untrasried (jetzt Schindele-Hof) &23.05.1793 mit Prack {[Familienbuch](https://data.matricula-online.eu/de/deutschland/augsburg/untrasried/16-FB/?pg=99)} |
 | Jakob            | *23.07.1760 in W., +01.08.1760 mit nur 9 Tagen                                   |
 | **Leonhard**     | *04.11.1761 in W, &11.7.1785 mit Maria Adelheid Waldmann, +09.03.1814 [Bauer]    |
 | Dominik          | *08.10.1762 in W. +1762                                                          |
@@ -110,7 +110,7 @@ Download als: [.DOCX](Chronik.docx) | [E-Book](Chronik.epub) | [.HTML](Chronik.h
 | Johann Heinrich  | *27.04.1837 in W. &21.2.1881 in Altdorf mit Maria Anna T. (2 Monate Hof, Trübsinn) |
 |                  |                             |
 |                  | **Kind von Theresia**:      |
-| **Johann Georg** | *09.05.1868 in Ostenried 71 (Untrasried) +05.01.1933 & Apollonia Mayr *09.02.1870 +08.12.1957 [Bauer] |
+| **Johann Georg** | *09.05.1868 in Ostenried 71 bei Untrasried +05.01.1933 & Apollonia Mayr *09.02.1870 +08.12.1957 [Bauer] |
 |                  |                                                 |
 |                  | **Kinder von Johann Georg & Apollonia:**        |
 | **Johann**       | *30.12.1895 in Ostenried +29.05.1955 in Albrechts & Sophie Hartmann *23.03.1904 +30.09.1977 [Bauer] |
