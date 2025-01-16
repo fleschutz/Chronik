@@ -29,10 +29,10 @@ Download als: [.DOCX](Chronik.docx) | [E-Book](Chronik.epub) | [.HTML](Chronik.h
 | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
 | Baltasar         | & Ursula Schneider, +1646 {[Kirchenbuch](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-S/?pg=1)} (vermutlich verwandt) |
 |                  |                                                                                                                                    |
-|                  | *Kind von Baltasar:*  |
+|                  | **Kind von Baltasar:**  |
 | **Georg**        | &1649 mit Sabina Brenberg(+1652) &1654 mit Maria Heslin in Börwang [Hauptmann und Wirt] {[Kirchenbuch](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-H/?pg=11)} (vermutlich verwandt) |
 |                  |                                                                                                                                    |
-|                  | *Kinder von Georg & Sabina / Maria:*   |
+|                  | **Kinder von Georg & Sabina / Maria:**   |
 | **Johann Georg** | &1663 mit Maria Briechler in Börwang {[Kirchenbuch](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-H/?pg=19)} |
 | Maria            | *1649 in Börwang {[Kirchenbuch](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-1/?pg=10)} (vermutlich verwandt) |
 | Catharina        | *1651 in B. +1654 {[Kirchenbuch](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-1/?pg=25)} (vermutlich verwandt)  |
@@ -40,9 +40,9 @@ Download als: [.DOCX](Chronik.docx) | [E-Book](Chronik.epub) | [.HTML](Chronik.h
 | Elisabeth        | *1656 in B. (vermutlich verwandt)  |
 | Regina           | *1657 in B. (vermutlich verwandt)  |
 | Sabina           | *1659 in B. (vermutlich verwandt)  |
-|                  |   |
-|                  | *Kinder von Johann Georg & Maria:*    |
-| Sabina           | *1664 in Börwang (Haldenwang) |
+|                  |                                         |
+|                  | **Kinder von Johann Georg & Maria:**    |
+| Sabina           | *1664 in Börwang (Haldenwang)           |
 | Roman            | *1665 in B. |
 | Rosina           | *1666 in B. |
 | Ferdinand        | *1667 in B. |
@@ -57,7 +57,7 @@ Download als: [.DOCX](Chronik.docx) | [E-Book](Chronik.epub) | [.HTML](Chronik.h
 | Josef            | *1681 in B. |
 | Georg            | *1683 in B. |
 |                  |   |
-|                  | *Kinder von Mang & Anna Maria:*   |
+|                  | **Kinder von Mang & Anna Maria:**   |
 | Anna             | *1718 in Börwang (Haldenwang) {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/3-T/?pg=34)}  |
 | Anna Maria       | *1719 in B. |
 | Ferdinand        | *1721 in B. |
@@ -65,7 +65,7 @@ Download als: [.DOCX](Chronik.docx) | [E-Book](Chronik.epub) | [.HTML](Chronik.h
 | **Josef**        | *1725 in B.,  &11.08.1757 Anastasia Trunzer in Untrasried, +06.04.1773 in Waizenried (Untrasried) |
 | Dominik          | *1726 in B.  |
 |                  |   |
-|                  | *Kinder von Josef & Anastasia:*      |
+|                  | **Kinder von Josef & Anastasia:**      |
 | Anna Barbara     | *23.03.1758 in Weizenried 79 (Untrasried, Schindele-Hof) &23.05.1793 mit Prack … |
 | Jakob            | *23.07.1760 in W., +01.08.1760 (nur 9 Tage) |
 | **Leonhard**     | *04.11.1761 in W, &11.7.1785 mit Maria Adelheid Waldmann, +09.03.1814 [Bauer] |
@@ -80,7 +80,7 @@ Download als: [.DOCX](Chronik.docx) | [E-Book](Chronik.epub) | [.HTML](Chronik.h
 | Josef            | *16.02.1775 in W. +09.03.1775 |
 | Franz Josef      | *14.02.1776 |
 |                  |    |
-|                  | *Kinder von Leonhard & Maria:*    |
+|                  | **Kinder von Leonhard & Maria:**    |
 | Johann Georg     | *07.07.1786 in Weizenried 79 (Untrasried), +13.07.1786 |
 | Anna Maria       | *29.08.1787 in W. +04.09.1787 (nur 6 Tage) |
 | -                | '+24.09.1788 (notgetauft)      |
@@ -92,7 +92,7 @@ Download als: [.DOCX](Chronik.docx) | [E-Book](Chronik.epub) | [.HTML](Chronik.h
 | Johann Baptist   | *23.06.1799 in W., +13.02.1875 in Engetried & Maria Kreszenz Epp *10.09.1798 +06.12.1862 |
 | Maria Anna       | *16.07.1805 in W., +1.7.1810 mit nur 5 Jahren | 
 |                  |                             |
-|                  | *Kinder von Johann Georg:*  |
+|                  | **Kinder von Johann Georg:**  |
 | Franz Xaver      | *03.02.1818 in Weizenried 79 (Untrasried), +06.02.1818 |
 | Maria Anna       | *12.10.1819 in W., +14.07.1867 in Kraftisried? | 
 | Karolina         | *16.03.1821 in W. |
@@ -115,8 +115,17 @@ Download als: [.DOCX](Chronik.docx) | [E-Book](Chronik.epub) | [.HTML](Chronik.h
 |                  | **Kinder von Johann Georg & Apollonia:**        |
 | **Johann**       | *30.12.1895 in Ostenried +29.05.1955 in Albrechts & Sophie Hartmann *23.03.1904 +30.09.1977 [Bauer] |
 | Maria            | *25.01.1897 in Ostenried +05.01.1990 |
-
-
+| Theresia         | *27.04.1902 in Ostenried +25.06.1987 & Johann Kustermann |
+| Georg            | *19.04.1903 in Ostenried +19.04.1903 |
+| Johann Georg     | *13.08.1906 in Albrechts +09.05.1935 |
+| Theodor          | *10.12.1907 in Albrechts +28.09.1942 bei Leningrad, Russland {Sterbebild} |
+|                  |                                                   |
+|                  | **Kinder von Johann & Sophie:**                   |
+| Georg            | *21.01.1935 in Albrechts 12 (Günzach) +19.03.1935 |
+| Amalie Maria Anna| *20.02.1936 in A.                                |
+| Apollonia Theresia| *29.05.1937 in A.                               |
+| Johann           | *05.12.1938 in A. & Rosmarie Höbel *18.12.1947 [Bauer] | 
+| Theodor Konrad   | *12.11.1942 in A. & Sigrun Friede *01.04.1949 in Radolfzell [Molkerei-Meister] |
 
 Danksagung
 ----------
