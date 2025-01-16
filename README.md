@@ -27,13 +27,13 @@ Download als: [.DOCX](Chronik.docx) | [E-Book](Chronik.epub) | [.HTML](Chronik.h
 
 | Vorname(n)       | Ereignis (* = Geburt, & = Hochzeit, + = Tod, [] = Beruf, {} = Quelle)                                                              |
 | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| Baltasar         | & Ursula Schneider, +1646 (vermutlich verwandt) {[Kirchenbuch](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-S/?pg=1)}  |
+| Baltasar         | & Ursula Schneider, +1646 (vermutlich verwandt) {[Sterberegister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-S/?pg=1)}  |
 |                  |                                                                                                                                    |
 |                  | **Kind von Baltasar:**  |
-| **Georg**        | &1649 mit Sabina Brenberg(+1652) &1654 mit Maria Heslin in Börwang [Hauptmann und Wirt] (vermutlich verwandt) {[Kirchenbuch](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-H/?pg=11)}  |
+| **Georg**        | &1649 mit Sabina Brenberg(+1652) &1654 mit Maria Heslin in Börwang [Hauptmann und Wirt] (vermutlich verwandt) {[Hochzeitsregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-H/?pg=11)}  |
 |                  |                                                                                                                                    |
 |                  | **Kinder von Georg & Sabina / Maria:**   |
-| **Johann Georg** | &1663 mit Maria Briechler in Börwang {[Kirchenbuch](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-H/?pg=19)} |
+| **Johann Georg** | &1663 mit Maria Briechler in Börwang {[Hochzeitsregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-H/?pg=19)} |
 | Maria            | *1649 in Börwang (vermutlich verwandt) {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-1/?pg=10)}  |
 | Catharina        | *1651 in B. +1654 (vermutlich verwandt) {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-1/?pg=25)}   |
 | Ursula           | *1655 in B. (vermutlich verwandt) {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-1/?pg=41)}   |
