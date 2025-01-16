@@ -66,8 +66,8 @@ Download als: [.DOCX](Chronik.docx) | [E-Book](Chronik.epub) | [.HTML](Chronik.h
 | Dominik          | *1726 in B.  |
 |                  |                                                                                  |
 |                  | **Kinder von Josef & Anastasia:**                                                |
-| Anna Barbara     | *23.03.1758 in Weizenried 79 (Untrasried, Schindele-Hof) &23.05.1793 mit Prack … |
-| Jakob            | *23.07.1760 in W., +01.08.1760 nach nur 9 Tagen                                  |
+| Anna Barbara     | *23.03.1758 in Weizenried 79 (Untrasried, Schindele-Hof) &23.05.1793 mit Prack {[Familienbuch](https://data.matricula-online.eu/de/deutschland/augsburg/untrasried/16-FB/?pg=99)} |
+| Jakob            | *23.07.1760 in W., +01.08.1760 mit nur 9 Tagen                                   |
 | **Leonhard**     | *04.11.1761 in W, &11.7.1785 mit Maria Adelheid Waldmann, +09.03.1814 [Bauer]    |
 | Dominik          | *08.10.1762 in W. +1762                                                          |
 | Maria Anna       | *18.07.1764 in W. &04.02.1788 mit Stehele … nach Mittelberg                      |
@@ -81,7 +81,7 @@ Download als: [.DOCX](Chronik.docx) | [E-Book](Chronik.epub) | [.HTML](Chronik.h
 | Franz Josef      | *14.02.1776                                                                      |
 |                  |                                                                                  |
 |                  | **Kinder von Leonhard & Maria:**                                                 |
-| Johann Georg     | *07.07.1786 in Weizenried 79 (Untrasried), +13.07.1786 |
+| Johann Georg     | *07.07.1786 in Weizenried 79 bei Untrasried, +13.07.1786 {[Familienbuch](https://data.matricula-online.eu/de/deutschland/augsburg/untrasried/16-FB/?pg=99)} |
 | Anna Maria       | *29.08.1787 in W. +04.09.1787 (nur 6 Tage) |
 | -                | '+24.09.1788 (notgetauft)      |
 | Genovefa         | *03.01.1790 in W. +09.01.1790 (nur 6 Tage) |
