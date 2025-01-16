@@ -34,12 +34,12 @@ Download als: [.DOCX](Chronik.docx) | [E-Book](Chronik.epub) | [.HTML](Chronik.h
 |                  |                                                                                                                                    |
 |                  | **Kinder von Georg & Sabina / Maria:**   |
 | **Johann Georg** | &1663 mit Maria Briechler in Börwang {[Kirchenbuch](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-H/?pg=19)} |
-| Maria            | *1649 in Börwang {[Kirchenbuch](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-1/?pg=10)} (vermutlich verwandt) |
-| Catharina        | *1651 in B. +1654 {[Kirchenbuch](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-1/?pg=25)} (vermutlich verwandt)  |
-| Ursula           | *1655 in B. (vermutlich verwandt)  |
-| Elisabeth        | *1656 in B. (vermutlich verwandt)  |
-| Regina           | *1657 in B. (vermutlich verwandt)  |
-| Sabina           | *1659 in B. (vermutlich verwandt)  |
+| Maria            | *1649 in Börwang {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-1/?pg=10)} (vermutlich verwandt) |
+| Catharina        | *1651 in B. +1654 {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-1/?pg=25)} (vermutlich verwandt)  |
+| Ursula           | *1655 in B. {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-1/?pg=41)} (vermutlich verwandt)  |
+| Elisabeth        | *1656 in B. {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-1/?pg=45)} (vermutlich verwandt)  |
+| Regina           | *1657 in B. {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-1/?pg=51)} (vermutlich verwandt)  |
+| Sabina           | *1659 in B. {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-1/?pg=57)} (vermutlich verwandt)  |
 |                  |                                         |
 |                  | **Kinder von Johann Georg & Maria:**    |
 | Sabina           | *1664 in Börwang (Haldenwang)           |
