@@ -4,9 +4,9 @@ Download als: [.DOCX](Chronik.docx) | [E-Book](Chronik.epub) | [.HTML](Chronik.h
 
 | Jahr      | Ereignis (* = Geburt, & = Hochzeit, + = Tod, [] = Beruf, {} = Quelle) |
 | --------- | ------------------------------------------------------------ |
-| 1412      | Utz Brästel genannt Fläschüzen, kauft die Güter zu "Wyler" und "Mätzlins" (jetzt Fleschützen bei Börwang) vom Fürststift Kempten {[Urkunde 263](Quellen/Fuerststift_Kempten/Urkunde_263/)}, erste urkundliche Erwähnung von Fleschutz |
-| 1480      | Jörg Fleschütz, Haldenwanger Pfarr.                          |
-| 1505      | die Fleschutzen zu Fleschützen {[Urkunde 1757](Quellen/Fuerststift_Kempten/Urkunde_1757/)} |
+| 1412      | Utz Brästel genannt Fläschüzen, kauft die Güter zu "Wyler" und "Mätzlins" (jetzt Fleschützen bei Börwang) vom Fürststift Kempten {[Urkunde 263](Quellen/Fuerststift_Kempten/Urkunde_263/)}, erste urkundliche Erwähnung von Fleschutz     |
+| 1480      | Jörg Fleschütz, Haldenwanger Pfarr.                                                                                             |
+| 1505      | Vergleich zwischen Hans Johann Fleschutz und Hans Caspar Laubenberg {[Urkunde 1757](Quellen/Fuerststift_Kempten/Urkunde_1757/)} |
 | 1516      | Frevelgerichtsbarkeit zu Fleschützen {[Urkunde 2007](Quellen/Fuerststift_Kempten/Urkunde_2007/)} |
 | 1525      | Deutscher Bauernkrieg, 200 Allgäuer Höfe werden in Brand gesteckt {[Wikipedia](Quellen/Wikipedia/Deutscher_Bauernkrieg/)} |
 | 1530      | Georg Fleschutz (Hofmeister) kauft Wasserrecht zu Burkarts {[Urkunde 2546](Quellen/Fuerststift_Kempten/Urkunde_2546/)} |
