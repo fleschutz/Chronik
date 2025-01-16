@@ -93,13 +93,13 @@ Download als: [.DOCX](Chronik.docx) | [E-Book](Chronik.epub) | [.HTML](Chronik.h
 | Maria Anna       | *16.07.1805 in W., +1.7.1810 mit nur 5 Jahren | 
 |                  |                             |
 |                  | **Kinder von Johann Georg:**  |
-| Franz Xaver      | *03.02.1818 in Weizenried 79 (Untrasried), +06.02.1818 |
+| Franz Xaver      | *03.02.1818 in Weizenried 79 bei Untrasried, +06.02.1818 mit nur 3 Tagen {[Familienbuch](https://data.matricula-online.eu/de/deutschland/augsburg/untrasried/16-FB/?pg=99)} |
 | Maria Anna       | *12.10.1819 in W., +14.07.1867 in Kraftisried? | 
-| Karolina         | *16.03.1821 in W. |
-| Franz Xaver      | *13.05.1822 in W. +19.05.1822 |
-| Johann Georg     | *14.08.1823 in W. +24.04.1830 |
-| Johann ?         | *02.08.1824 in W. +28.08.1824 | 
-| Ignaz            | *31.07.1825 in W. +17.09.1825 |
+| Karolina         | *16.03.1821 in W.                              |
+| Franz Xaver      | *13.05.1822 in W. +19.05.1822 mit nur 6 Tagen  |
+| Johann Georg     | *14.08.1823 in W. +24.04.1830                  |
+| Johann ?         | *02.08.1824 in W. +28.08.1824 mit nur 1 Monat  | 
+| Ignaz            | *31.07.1825 in W. +17.09.1825 mit nur 46 Tagen |
 | M. Josefa        | *31.10.1826 in W. |
 | Johannes Chrysostomus | *09.02.1828 in W. +1907 in Obg. &24.11.1862 Maria Antonia Schindele (zog als Privatier nach Obg.) |
 | Johann L.        | *24.06.1829 in W. +02.03.1830 |
