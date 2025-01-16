@@ -64,23 +64,23 @@ Download als: [.DOCX](Chronik.docx) | [E-Book](Chronik.epub) | [.HTML](Chronik.h
 | Johannes?        | *1723 in B. |
 | **Josef**        | *1725 in B.,  &11.08.1757 Anastasia Trunzer in Untrasried, +06.04.1773 in Waizenried (Untrasried) |
 | Dominik          | *1726 in B.  |
-|                  |   |
-|                  | **Kinder von Josef & Anastasia:**      |
+|                  |                                                                                  |
+|                  | **Kinder von Josef & Anastasia:**                                                |
 | Anna Barbara     | *23.03.1758 in Weizenried 79 (Untrasried, Schindele-Hof) &23.05.1793 mit Prack … |
-| Jakob            | *23.07.1760 in W., +01.08.1760 (nur 9 Tage) |
-| **Leonhard**     | *04.11.1761 in W, &11.7.1785 mit Maria Adelheid Waldmann, +09.03.1814 [Bauer] |
-| Dominik          | *08.10.1762 in W. +1762 |
-| Maria Anna       | *18.07.1764 in W. &04.02.1788 mit Stehele … nach Mittelberg |
-| Sabina           | *26.10.1765 in W. +04.01.1766 (nur 10 Tage) |
-| Jakob            | *06.07.1768 in W. |
-| Afra             | *06.08.1769 in W. +10.09.1769 |
-| Theodor          | *08.11.1770 |
-| Anna Maria       | *31.12.1772 in W. +18.08.1773 |
-| -                | '+23.10.1773 (notgetauft) |
-| Josef            | *16.02.1775 in W. +09.03.1775 |
-| Franz Josef      | *14.02.1776 |
-|                  |    |
-|                  | **Kinder von Leonhard & Maria:**    |
+| Jakob            | *23.07.1760 in W., +01.08.1760 nach nur 9 Tagen                                  |
+| **Leonhard**     | *04.11.1761 in W, &11.7.1785 mit Maria Adelheid Waldmann, +09.03.1814 [Bauer]    |
+| Dominik          | *08.10.1762 in W. +1762                                                          |
+| Maria Anna       | *18.07.1764 in W. &04.02.1788 mit Stehele … nach Mittelberg                      |
+| Sabina           | *26.10.1765 in W. +04.01.1766 mit nur 2 Monaten                                  |
+| Jakob            | *06.07.1768 in W.                                                                |
+| Afra             | *06.08.1769 in W. +10.09.1769 mit nur 1 Monat                                    |
+| Theodor          | *08.11.1770                                                                      |
+| Anna Maria       | *31.12.1772 in W. +18.08.1773 mit nur 7 Monaten                                  |
+| -                | '+23.10.1773 (notgetauft)                                                        |
+| Josef            | *16.02.1775 in W. +09.03.1775 mit nur 21 Tagen                                   |
+| Franz Josef      | *14.02.1776                                                                      |
+|                  |                                                                                  |
+|                  | **Kinder von Leonhard & Maria:**                                                 |
 | Johann Georg     | *07.07.1786 in Weizenried 79 (Untrasried), +13.07.1786 |
 | Anna Maria       | *29.08.1787 in W. +04.09.1787 (nur 6 Tage) |
 | -                | '+24.09.1788 (notgetauft)      |
