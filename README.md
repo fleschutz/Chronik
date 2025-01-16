@@ -4,7 +4,7 @@ Download als: [.DOCX](Chronik.docx) | [E-Book](Chronik.epub) | [.HTML](Chronik.h
 
 | Jahr      | Ereignis (* = Geburt, & = Hochzeit, + = Tod, [] = Beruf, {} = Quelle) |
 | --------- | ------------------------------------------------------------ |
-| 1412      | Utz Brästel genannt Fleschutz, kauft die Güter zu "Wyler" und "Mätzlins" (jetzt Fleschützen bei Börwang) vom Fürststift Kempten {[Urkunde 263](Quellen/Fuerststift_Kempten/Urkunde_263/)}, erste urkundliche Erwähnung von Fleschutz |
+| 1412      | Utz Brästel genannt Fläschüzen, kauft die Güter zu "Wyler" und "Mätzlins" (jetzt Fleschützen bei Börwang) vom Fürststift Kempten {[Urkunde 263](Quellen/Fuerststift_Kempten/Urkunde_263/)}, erste urkundliche Erwähnung von Fleschutz |
 | 1480      | Jörg Fleschütz, Haldenwanger Pfarr.                          |
 | 1505      | die Fleschutzen zu Fleschützen {[Urkunde 1757](Quellen/Fuerststift_Kempten/Urkunde_1757/)} |
 | 1516      | Frevelgerichtsbarkeit zu Fleschützen {[Urkunde 2007](Quellen/Fuerststift_Kempten/Urkunde_2007/)} |
