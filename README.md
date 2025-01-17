@@ -1,11 +1,13 @@
 # Chronik der Familie Fleschutz
 
-Download als: [.DOCX](Chronik.docx) | [E-Book](Chronik.epub) | [.HTML](Chronik.html) | [.PDF](Chronik.pdf) | [.RTF](Chronik.rtf)
+Auch verfügbar als: [.DOCX](Chronik.docx) | [E-Book](Chronik.epub) | [.HTML](Chronik.html) | [.ODT](Chronik.odt) |  [.OPML](Chronik.opml) |  [.PDF](Chronik.pdf) | [.RTF](Chronik.rtf) | [.TEX](Chronik.tex)
 
-| Jahr      | Ereignis (* = Geburt, & = Hochzeit, + = Tod, [] = Beruf, {} = Quelle) |
+**Legende:** * = Geburt, & = Hochzeit, + = Tod, [] = Beruf, {} = Quelle
+
+| Jahr      | Ereignis                                                     |
 | --------- | ------------------------------------------------------------ |
-| 1412      | Utz Brästel genannt Fläschüzen, kauft die Güter zu "Wyler" und "Mätzlins" (jetzt Fleschützen bei Börwang) vom Fürststift Kempten {[Urkunde 263](Quellen/Fuerststift_Kempten/Urkunde_263/)}, erste urkundliche Erwähnung von Fleschutz     |
-| 1480      | Jörg Fleschütz, Haldenwanger Pfarr.                                                                                             |
+| 1412      | Utz Brästel genannt Fläschüzen, kauft die Güter zu "Wyler" und "Mätzlins" (jetzt Fleschützen bei Börwang) vom Fürststift Kempten {[Urkunde 263](Quellen/Fuerststift_Kempten/Urkunde_263/)}, erste urkundliche Erwähnung von Fleschutz |
+| 1480      | Jörg Fleschütz, Haldenwanger Pfarr.                          |
 | 1505      | Vergleich zwischen Hans Johann Fleschutz und Hans Caspar Laubenberg {[Urkunde 1757](Quellen/Fuerststift_Kempten/Urkunde_1757/)} |
 | 1516      | Frevelgerichtsbarkeit zu Fleschützen {[Urkunde 2007](Quellen/Fuerststift_Kempten/Urkunde_2007/)} |
 | 1525      | Deutscher Bauernkrieg, 200 Allgäuer Höfe werden in Brand gesteckt {[Wikipedia](Quellen/Wikipedia/Deutscher_Bauernkrieg/)} |
@@ -25,7 +27,7 @@ Download als: [.DOCX](Chronik.docx) | [E-Book](Chronik.epub) | [.HTML](Chronik.h
 | 1666      | Baltasar Fleschutz, Bauschreiber im Stift Kempten            |
 | 1686      | Georg Fleschutz zu Haubensteig kauft Weiderecht im Stadtallmey {[Urkunde 1127](Quellen/Fuerststift_Kempten/Urkunde_1127/)} |
 
-| Vorname(n)       | Ereignis (* = Geburt, & = Hochzeit, + = Tod, [] = Beruf, {} = Quelle)                                                              |
+| Vorname(n)       | Ereignis                                                              |
 | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
 | Baltasar         | & Ursula Schneider, +1646 (vermutlich verwandt) {[Sterberegister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-S/?pg=1)}  |
 |                  |                                                                                                                                    |
@@ -48,7 +50,7 @@ Download als: [.DOCX](Chronik.docx) | [E-Book](Chronik.epub) | [.HTML](Chronik.h
 | Ferdinand        | *1667 in B. |
 | Anna             | *1669 in B. |
 | Barbara          | *1670 in B. |
-| Franz            | *1671 in B. | 
+| Franz            | *1671 in B. |
 | Maria            | *1673 in B. |
 | Maria            | *1675 in B. |
 | Franz            | *1677 in B. |
@@ -88,24 +90,24 @@ Download als: [.DOCX](Chronik.docx) | [E-Book](Chronik.epub) | [.HTML](Chronik.h
 | **Johann Georg** | *20.04.1791 in W.,  & mit Maurus ... & mit Kreszentia Reichart, +06.06.1865 [Bauer] |
 | M. Afra          | *05.08.1794 in W. |
 | Ulrich           | *04.07.1796 in W. +17.09.1861 in Burg & mit Creszentia Hartmann, *25.12.1791 |
-| Franziska        | *03.10.1797 in W. | 
+| Franziska        | *03.10.1797 in W. |
 | Johann Baptist   | *23.06.1799 in W., +13.02.1875 in Engetried & Maria Kreszenz Epp *10.09.1798 +06.12.1862 |
-| Maria Anna       | *16.07.1805 in W., +1.7.1810 mit nur 5 Jahren | 
+| Maria Anna       | *16.07.1805 in W., +1.7.1810 mit nur 5 Jahren |
 |                  |                             |
 |                  | **Kinder von Johann Georg:**  |
 | Franz Xaver      | *03.02.1818 in Weizenried 79 bei Untrasried, +06.02.1818 mit nur 3 Tagen {[Familienbuch](https://data.matricula-online.eu/de/deutschland/augsburg/untrasried/16-FB/?pg=99)} |
-| Maria Anna       | *12.10.1819 in W., +14.07.1867 in Kraftisried? | 
+| Maria Anna       | *12.10.1819 in W., +14.07.1867 in Kraftisried? |
 | Karolina         | *16.03.1821 in W.                              |
 | Franz Xaver      | *13.05.1822 in W. +19.05.1822 mit nur 6 Tagen  |
 | Johann Georg     | *14.08.1823 in W. +24.04.1830                  |
-| Johann ?         | *02.08.1824 in W. +28.08.1824 mit nur 1 Monat  | 
+| Johann ?         | *02.08.1824 in W. +28.08.1824 mit nur 1 Monat  |
 | Ignaz            | *31.07.1825 in W. +17.09.1825 mit nur 46 Tagen |
 | M. Josefa        | *31.10.1826 in W. |
 | Johannes Chrysostomus | *09.02.1828 in W. +1907 in Obg. &24.11.1862 Maria Antonia Schindele (zog als Privatier nach Obg.) |
 | Johann L.        | *24.06.1829 in W. +02.03.1830 |
 | **Theresia**     | *01.06.1831 in W. +25.11.1901 in Ostenried 71 (Untrasried) [Privatiere] {Sterbebild} |
-| Theodor          | *20.10.1832 in W. +1915 in Albrechts | 
-| Alois            | *24.03.1834 | 
+| Theodor          | *20.10.1832 in W. +1915 in Albrechts |
+| Alois            | *24.03.1834 |
 | Johann Georg     | *19.11.1835 in W. +03.04.1880 in Ostenried 71 |
 | Johann Heinrich  | *27.04.1837 in W. &21.2.1881 in Altdorf mit Maria Anna T. (2 Monate Hof, Trübsinn) |
 |                  |                             |
@@ -124,7 +126,7 @@ Download als: [.DOCX](Chronik.docx) | [E-Book](Chronik.epub) | [.HTML](Chronik.h
 | Georg            | *21.01.1935 in Albrechts 12 (Günzach) +19.03.1935 |
 | Amalie Maria Anna| *20.02.1936 in A.                                |
 | Apollonia Theresia| *29.05.1937 in A.                               |
-| Johann           | *05.12.1938 in A. & Rosmarie Höbel *18.12.1947 [Bauer] | 
+| Johann           | *05.12.1938 in A. & Rosmarie Höbel *18.12.1947 [Bauer] |
 | Theodor Konrad   | *12.11.1942 in A. & Sigrun Friede *01.04.1949 in Radolfzell [Molkerei-Meister] |
 
 Danksagung
