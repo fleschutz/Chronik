@@ -84,9 +84,9 @@ Auch verfügbar als: [.DOCX](Chronik.docx), [E-Book](Chronik.epub),  [.HTML](Chr
 |                  |                                                                                  |
 |                  | **Leonhard & Maria's Kinder:**                                                   |
 | Johann Georg     | *07.07.1786 in Waizenried 79 bei Untrasried, +13.07.1786 {[Familienbuch](https://data.matricula-online.eu/de/deutschland/augsburg/untrasried/16-FB/?pg=99)} |
-| Anna Maria       | *29.08.1787 in W. +04.09.1787 (nur 6 Tage) |
+| Anna Maria       | *29.08.1787 in W. +04.09.1787 mit nur 6 Tagen |
 | -                | '+24.09.1788 (notgetauft)      |
-| Genovefa         | *03.01.1790 in W. +09.01.1790 (nur 6 Tage) |
+| Genovefa         | *03.01.1790 in W. +09.01.1790 mit nur 6 Tagen |
 | **Johann Georg** | *20.04.1791 in W.,  & mit Maurus ... & mit Kreszentia Reichart, +06.06.1865 [Bauer] |
 | M. Afra          | *05.08.1794 in W. |
 | Ulrich           | *04.07.1796 in W. +17.09.1861 in Burg & mit Creszentia Hartmann, *25.12.1791 |
@@ -105,7 +105,7 @@ Auch verfügbar als: [.DOCX](Chronik.docx), [E-Book](Chronik.epub),  [.HTML](Chr
 | M. Josefa        | *31.10.1826 in W. |
 | Johannes Chrysostomus | *09.02.1828 in W. +1907 in Obg. &24.11.1862 Maria Antonia Schindele (zog als Privatier nach Obg.) |
 | Johann L.        | *24.06.1829 in W. +02.03.1830 |
-| **Theresia**     | *01.06.1831 in W. +25.11.1901 in Ostenried 71 bei Untrasried [Privatiere] {[Sterbebild](Quellen/Sterbebilder/1831_Theresia)} |
+| **Theresia**     | *01.06.1831 in W. [Privatiere] +25.11.1901 in Ostenried 71 bei Untrasried {[Sterbebild](Quellen/Sterbebilder/1831_Theresia)} |
 | Theodor          | *20.10.1832 in W. +1915 in Albrechts |
 | Alois            | *24.03.1834 |
 | Johann Georg     | *19.11.1835 in W. +03.04.1880 in Ostenried 71 |
@@ -118,16 +118,16 @@ Auch verfügbar als: [.DOCX](Chronik.docx), [E-Book](Chronik.epub),  [.HTML](Chr
 | **Johann**       | *30.12.1895 in Ostenried [Bauer] +29.05.1955 in Albrechts {[Sterbebild](Quellen/Sterbebilder/1895_Johann)} & Sophie Hartmann *23.03.1904 +30.09.1977 {[Sterbebild](Quellen/Sterbebilder/1904_Sophie)} |
 | Maria            | *25.01.1897 in O. +05.01.1990 |
 | Theresia         | *27.04.1902 in O. +25.06.1987 & Johann Kustermann |
-| Georg            | *19.04.1903 in O. +19.04.1903 |
+| Georg            | *19.04.1903 in O. +19.04.1903 mit nur 1 Tag |
 | Johann Georg     | *13.08.1906 in Albrechts bei Günzach +09.05.1935 |
-| Theodor          | *10.12.1907 in A. 💥 +28.09.1942 bei Leningrad, Russland [Obergefreiter] {[Sterbebild](Quellen/Sterbebilder/1907_Theodor.jpg)} |
+| Theodor          | *10.12.1907 in A. [Soldat] 💥 +28.09.1942 bei Leningrad, Russland {[Sterbebild](Quellen/Sterbebilder/1907_Theodor.jpg)} |
 |                  |                                                   |
 |                  | **Johann & Sophie's Kinder:**                     |
 | Georg            | *21.01.1935 in Albrechts 12 bei Günzach, +19.03.1935 |
 | Amalie Maria Anna| *20.02.1936 in A.                                |
 | Apollonia Theresia| *29.05.1937 in A.                               |
-| Johann           | *05.12.1938 in A. & Rosmarie Höbel *18.12.1947 [Bauer] |
-| Theodor Konrad   | *12.11.1942 in A. & Sigrun Friede *01.04.1949 in Radolfzell [Molkerei-Meister] |
+| Johann           | *05.12.1938 in A. [Bauer] & Rosmarie Höbel *18.12.1947 |
+| Theodor Konrad   | *12.11.1942 in A. [Molkerei-Meister] & Sigrun Friede *01.04.1949 in Radolfzell |
 
 Danksagung
 ----------
