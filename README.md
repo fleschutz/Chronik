@@ -61,7 +61,7 @@ Auch verfügbar als: [.DOCX](Chronik.docx), [E-Book](Chronik.epub),  [.HTML](Chr
 |                  |   |
 |                  | **Mang & Anna Maria's Kinder:**   |
 | Anna             | *1718 in Börwang bei Haldenwang {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/3-T/?pg=34)}  |
-| Anna Maria       | *1719 in B. |
+| Anna Maria       | *1719 in B. {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/3-T/?pg=36)} |
 | Ferdinand        | *1721 in B. {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/3-T/?pg=42)} |
 | Johannes?        | *1723 in B. {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/3-T/?pg=45)} |
 | **Josef**        | *1725 in B.,  &11.08.1757 Anastasia Trunzer in Untrasried, +06.04.1773 in Waizenried bei Untrasried {[Hochzeitsregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/3-T/?pg=50)} |
