@@ -32,7 +32,7 @@ Auch verfügbar als: [.DOCX](Chronik.docx), [E-Book](Chronik.epub),  [.HTML](Chr
 | Baltasar         | & Ursula Schneider, +1646 (vermutlich verwandt) {[Sterberegister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-S/?pg=1)}  |
 |                  |                                                                                                                                    |
 |                  | **Kind von Baltasar:**  |
-| **Georg**        | &1649 mit Sabina Brenberg(+1652) &1654 mit Maria Heslin in Börwang [Hauptmann und Wirt] (vermutlich verwandt) {[Hochzeitsregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-H/?pg=11)} {[Sterberegister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-S/?pg=9)}  |
+| **Georg**        | &1649 mit Sabina Brenberg(+1652) &1654 mit Maria Heslin in Börwang [Hauptmann und Wirt] (vermutlich verwandt) {[Sterberegister Sabina](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-S/?pg=9)} {[Hochzeitsregister mit Maria](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-H/?pg=11)}   |
 |                  |                                                                                                                                    |
 |                  | **Kinder von Georg & Sabina / Maria:**   |
 | **Johann Georg** | &1663 mit Maria Briechler in Börwang bei Haldenwang {[Hochzeitsregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-H/?pg=19)} |
