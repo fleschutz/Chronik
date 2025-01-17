@@ -85,7 +85,7 @@ Auch verfügbar als: [.DOCX](Chronik.docx), [E-Book](Chronik.epub),  [.HTML](Chr
 |                  | **Leonhard & Maria's Kinder:**                                                   |
 | Johann Georg     | *07.07.1786 in Waizenried 79 bei Untrasried, +13.07.1786 {[Familienbuch](https://data.matricula-online.eu/de/deutschland/augsburg/untrasried/16-FB/?pg=99)} |
 | Anna Maria       | *29.08.1787 in W. +04.09.1787 mit nur 6 Tagen |
-| -                | '+24.09.1788 (notgetauft)      |
+| -                | +24.09.1788 (notgetauft)      |
 | Genovefa         | *03.01.1790 in W. +09.01.1790 mit nur 6 Tagen |
 | **Johann Georg** | *20.04.1791 in W.,  & mit Maurus ... & mit Kreszentia Reichart, +06.06.1865 [Bauer] |
 | M. Afra          | *05.08.1794 in W. |
