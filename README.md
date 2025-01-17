@@ -34,7 +34,7 @@ Auch verfügbar als: [.DOCX](Chronik.docx), [E-Book](Chronik.epub),  [.HTML](Chr
 |                  | **Baltasar & Ursula's Kind:**  |
 | **Georg**        | &1649 mit Sabina Brenberg(+1652) &1654 mit Maria Heslin in Börwang [Hauptmann und Wirt] (vermutlich verwandt) {[Sterberegister Sabina](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-S/?pg=9)} {[Hochzeitsregister mit Maria](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-H/?pg=11)}   |
 |                  |                                                                                                                                    |
-|                  | **Georg & Sabina / Maria's Kinder:**   |
+|                  | **Georg & Sabina & Maria's Kinder:**   |
 | **Johann Georg** | &1663 mit Maria Briechler in Börwang bei Haldenwang {[Hochzeitsregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-H/?pg=19)} |
 | Maria            | *1649 in B. (vermutlich verwandt) {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-1/?pg=10)}  |
 | Catharina        | *1651 in B. +1654 (vermutlich verwandt) {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-1/?pg=25)}   |
@@ -94,7 +94,7 @@ Auch verfügbar als: [.DOCX](Chronik.docx), [E-Book](Chronik.epub),  [.HTML](Chr
 | Johann Baptist   | *23.06.1799 in W., +13.02.1875 in Engetried & Maria Kreszenz Epp *10.09.1798 +06.12.1862 |
 | Maria Anna       | *16.07.1805 in W., +1.7.1810 mit nur 5 Jahren |
 |                  |                             |
-|                  | **Johann Georg & Maurus / Kreszentia's Kinder:**  |
+|                  | **Johann Georg & Maurus & Kreszentia's Kinder:**  |
 | Franz Xaver      | *03.02.1818 in Waizenried 79 bei Untrasried, +06.02.1818 mit nur 3 Tagen {[Familienbuch](https://data.matricula-online.eu/de/deutschland/augsburg/untrasried/16-FB/?pg=99)} |
 | Maria Anna       | *12.10.1819 in W., +14.07.1867 in Kraftisried? |
 | Karolina         | *16.03.1821 in W.                              |
