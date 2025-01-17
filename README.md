@@ -64,11 +64,11 @@ Auch verfügbar als: [.DOCX](Chronik.docx), [E-Book](Chronik.epub),  [.HTML](Chr
 | Anna Maria       | *1719 in B. {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/3-T/?pg=36)} |
 | Ferdinand        | *1721 in B. {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/3-T/?pg=42)} |
 | Johannes?        | *1723 in B. {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/3-T/?pg=45)} |
-| **Josef**        | *1725 in B.,  &11.08.1757 Anastasia Trunzer in Untrasried, +06.04.1773 in Waizenried bei Untrasried {[Hochzeitsregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/3-T/?pg=50)} |
+| **Josef**        | *1725 in B.,  &11.08.1757 Anastasia Trunzer in Untrasried, +06.04.1773 (böses Fieber) in Waizenried bei Untrasried {[Hochzeitsregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/3-T/?pg=50)} |
 | Dominik          | *1726 in B. {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/3-T/?pg=54)} |
 |                  |                                                                                  |
-|                  | **Josef & Anastasia's Kinder:**                                                |
-| Anna Barbara     | *23.03.1758 in Waizenried 79 bei Untrasried (jetzt Schindele-Hof) &23.05.1793 mit Prack {[Familienbuch](https://data.matricula-online.eu/de/deutschland/augsburg/untrasried/16-FB/?pg=99)} |
+|                  | **Josef & Anastasia's Kinder:** {[Familienbuch](https://data.matricula-online.eu/de/deutschland/augsburg/untrasried/16-FB/?pg=99)} |
+| Anna Barbara     | *23.03.1758 in Waizenried 79 bei Untrasried (jetzt Schindele-Hof) &23.05.1793 mit Prack  |
 | Jakob            | *23.07.1760 in W., +01.08.1760 mit nur 9 Tagen                                   |
 | **Leonhard**     | *04.11.1761 in W, &11.7.1785 mit Maria Adelheid Waldmann, +09.03.1814 [Bauer]    |
 | Dominik          | *08.10.1762 in W. +1762                                                          |
