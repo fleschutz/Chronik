@@ -26,7 +26,7 @@ Auch verfügbar als: [.DOCX](Chronik.docx), [E-Book](Chronik.epub),  [.HTML](Chr
 | 1618-1648 | 💥 Dreißigjähriger Krieg, dadurch Hungersnöte und Seuchen. In Teilen Süddeutschlands überlebte nur ein Drittel der Bevölkerung {[Wikipedia](Quellen/Wikipedia/Dreissigjaehriger_Krieg)} |
 | 1658      | Hans Georg Fleschutz verkauft Baind zu Dickenbühl {[Urkunde 5642](Quellen/Fuerststift_Kempten/Urkunde_5642/)} |
 | 1666      | Baltasar Fleschutz, Bauschreiber im Stift Kempten            |
-| 1686      | Georg Fleschutz zu Haubensteig kauft Weiderecht im Stadtallmey {[Urkunde 1127](Quellen/Fuerststift_Kempten/Urkunde_1127/)} |
+| 1686      | Georg Fleschutz zu Haubensteig kauft Weiderecht im Stadtallmey {[Akte 1127](Quellen/Fuerststift_Kempten/Akte_1127/)} |
 
 | Vorname(n)       | Ereignis                                                              |
 | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
