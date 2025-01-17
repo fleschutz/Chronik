@@ -12,6 +12,7 @@ Auch verfügbar als: [.DOCX](Chronik.docx), [E-Book](Chronik.epub),  [.HTML](Chr
 | 1516      | Frevelgerichtsbarkeit zu Fleschützen {[Urkunde 2007](Quellen/Fuerststift_Kempten/Urkunde_2007/)} |
 | 1525      | 💥 Deutscher Bauernkrieg, 200 Allgäuer Höfe wurden in Brand gesteckt {[Wikipedia](Quellen/Wikipedia/Deutscher_Bauernkrieg/)} |
 | 1530      | Georg Fleschutz (Hofmeister) kauft Wasserrecht zu Burkarts {[Urkunde 2546](Quellen/Fuerststift_Kempten/Urkunde_2546/)} |
+| 1531      | Georg Fleschutz (Hofmeister) kauft 2 Jauchert Acker {[Urkunde 2566](Quellen/Fuerststift_Kempten/Urkunde_2566/)} |
 | 1540      | Georg Fleschutz (Hofmeister) kauft Haus vom Konvent {[Urkunde 2915](Quellen/Fuerststift_Kempten/Urkunde_2915/)} |
 | 1542      | Georg Fleschutz (Hofmeister) kauft 2 Häuser vom Konvent {[Urkunde 2984](Quellen/Fuerststift_Kempten/Urkunde_2984)} |
 | 1543      | Baltus Fleschutz, zum Weyler, genannt (bei den) Fleschutzen  |
