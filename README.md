@@ -32,11 +32,11 @@ Auch verfügbar als: [.DOCX](Chronik.docx), [E-Book](Chronik.epub),  [.HTML](Chr
 | Baltasar         | & Ursula Schneider, +1646 (vermutlich verwandt) {[Sterberegister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-S/?pg=1)}  |
 |                  |                                                                                                                                    |
 |                  | **Kind von Baltasar:**  |
-| **Georg**        | &1649 mit Sabina Brenberg(+1652) &1654 mit Maria Heslin in Börwang [Hauptmann und Wirt] (vermutlich verwandt) {[Hochzeitsregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-H/?pg=11)}  |
+| **Georg**        | &1649 mit Sabina Brenberg(+1652) &1654 mit Maria Heslin in Börwang [Hauptmann und Wirt] (vermutlich verwandt) {[Hochzeitsregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-H/?pg=11)} {[Sterberegister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-S/?pg=9)}  |
 |                  |                                                                                                                                    |
 |                  | **Kinder von Georg & Sabina / Maria:**   |
-| **Johann Georg** | &1663 mit Maria Briechler in Börwang {[Hochzeitsregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-H/?pg=19)} |
-| Maria            | *1649 in Börwang (vermutlich verwandt) {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-1/?pg=10)}  |
+| **Johann Georg** | &1663 mit Maria Briechler in Börwang bei Haldenwang {[Hochzeitsregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-H/?pg=19)} |
+| Maria            | *1649 in B. (vermutlich verwandt) {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-1/?pg=10)}  |
 | Catharina        | *1651 in B. +1654 (vermutlich verwandt) {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-1/?pg=25)}   |
 | Ursula           | *1655 in B. (vermutlich verwandt) {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-1/?pg=41)}   |
 | Elisabeth        | *1656 in B. (vermutlich verwandt) {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-1/?pg=45)}   |
@@ -44,28 +44,28 @@ Auch verfügbar als: [.DOCX](Chronik.docx), [E-Book](Chronik.epub),  [.HTML](Chr
 | Sabina           | *1659 in B. (vermutlich verwandt) {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-1/?pg=57)}   |
 |                  |                                         |
 |                  | **Kinder von Johann Georg & Maria:**    |
-| Sabina           | *1664 in Börwang (Haldenwang)           |
-| Roman            | *1665 in B. |
-| Rosina           | *1666 in B. |
-| Ferdinand        | *1667 in B. |
-| Anna             | *1669 in B. |
-| Barbara          | *1670 in B. |
-| Franz            | *1671 in B. |
-| Maria            | *1673 in B. |
-| Maria            | *1675 in B. |
-| Franz            | *1677 in B. |
-| Anna             | *1679 in B. |
-| **Mang**         | *1680 in B., &1717 Anna Maria Geiger in B. |
-| Josef            | *1681 in B. |
-| Georg            | *1683 in B. |
+| Sabina           | *1664 in Börwang bei Haldenwang {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-1/?pg=72)} |
+| Roman            | *1665 in B. {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-1/?pg=75)} |
+| Rosina           | *1666 in B. {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-1/?pg=78)} |
+| Ferdinand        | *1667 in B. {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-1/?pg=80)} |
+| Anna             | *1669 in B. {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-2/?pg=4)}|
+| Barbara          | *1670 in B. {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-2/?pg=7)} |
+| Franz            | *1671 in B. {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/2-T/?pg=4)}|
+| Maria            | *1673 in B. {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/2-T/?pg=7)} |
+| Maria            | *1675 in B. {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/2-T/?pg=9)} |
+| Franz            | *1677 in B. {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/2-T/?pg=12)} |
+| Anna             | *1679 in B. {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/2-T/?pg=15)} |
+| **Mang**         | *1680 in B., &1717 in B. mit Anna Maria Geiger {[Hochzeitsregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/2-T/?pg=12)} |
+| Josef            | *1681 in B. {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/2-T/?pg=19)} |
+| Georg            | *1683 in B. {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/2-T/?pg=22)} |
 |                  |   |
 |                  | **Kinder von Mang & Anna Maria:**   |
 | Anna             | *1718 in Börwang (Haldenwang) {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/3-T/?pg=34)}  |
 | Anna Maria       | *1719 in B. |
-| Ferdinand        | *1721 in B. |
-| Johannes?        | *1723 in B. |
-| **Josef**        | *1725 in B.,  &11.08.1757 Anastasia Trunzer in Untrasried, +06.04.1773 in Waizenried (Untrasried) |
-| Dominik          | *1726 in B.  |
+| Ferdinand        | *1721 in B. {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/3-T/?pg=42)} |
+| Johannes?        | *1723 in B. {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/3-T/?pg=45)} |
+| **Josef**        | *1725 in B.,  &11.08.1757 Anastasia Trunzer in Untrasried, +06.04.1773 in Waizenried bei Untrasried {[Hochzeitsregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/3-T/?pg=50)} |
+| Dominik          | *1726 in B. {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/3-T/?pg=54)} |
 |                  |                                                                                  |
 |                  | **Kinder von Josef & Anastasia:**                                                |
 | Anna Barbara     | *23.03.1758 in Weizenried 79 bei Untrasried (jetzt Schindele-Hof) &23.05.1793 mit Prack {[Familienbuch](https://data.matricula-online.eu/de/deutschland/augsburg/untrasried/16-FB/?pg=99)} |
