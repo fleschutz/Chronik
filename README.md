@@ -123,7 +123,7 @@ Auch verfügbar als: [.DOCX](Chronik.docx), [E-Book](Chronik.epub),  [.HTML](Chr
 | Theodor          | *10.12.1907 in A. [Soldat im 💥 2. Weltkrieg] +28.09.1942 bei Leningrad, Russland {[Sterbebild](Quellen/Sterbebilder/1907_Theodor.jpg)} |
 |                  |                                                   |
 |                  | **Johann & Sophie's Kinder:**                     |
-| Georg            | *21.01.1935 in Albrechts 12 bei Günzach, +19.03.1935 |
+| Georg            | *21.01.1935 in Albrechts 12 bei Günzach, +19.03.1935 mit nur 2 Monaten |
 | Amalie Maria Anna| *20.02.1936 in A.                                |
 | Apollonia Theresia| *29.05.1937 in A.                               |
 | Johann           | *05.12.1938 in A. [Bauer] & Rosmarie Höbel *18.12.1947 |
