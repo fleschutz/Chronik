@@ -120,7 +120,7 @@ Auch verfügbar als: [.DOCX](Chronik.docx), [E-Book](Chronik.epub),  [.HTML](Chr
 | Theresia         | *27.04.1902 in Ostenried +25.06.1987 & Johann Kustermann |
 | Georg            | *19.04.1903 in Ostenried +19.04.1903 |
 | Johann Georg     | *13.08.1906 in Albrechts +09.05.1935 |
-| Theodor          | *10.12.1907 in Albrechts +28.09.1942 bei Leningrad, Russland {[Sterbebild](Quellen/Sterbebilder/1907_Theodor.jpg)} |
+| Theodor          | *10.12.1907 in Albrechts 💥 +28.09.1942 bei Leningrad, Russland [Obergefreiter] {[Sterbebild](Quellen/Sterbebilder/1907_Theodor.jpg)} |
 |                  |                                                   |
 |                  | **Kinder von Johann & Sophie:**                   |
 | Georg            | *21.01.1935 in Albrechts 12 bei Günzach, +19.03.1935 |
