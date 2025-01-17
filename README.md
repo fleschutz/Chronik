@@ -60,7 +60,7 @@ Auch verfügbar als: [.DOCX](Chronik.docx), [E-Book](Chronik.epub),  [.HTML](Chr
 | Georg            | *1683 in B. {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/2-T/?pg=22)} |
 |                  |   |
 |                  | **Kinder von Mang & Anna Maria:**   |
-| Anna             | *1718 in Börwang (Haldenwang) {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/3-T/?pg=34)}  |
+| Anna             | *1718 in Börwang bei Haldenwang {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/3-T/?pg=34)}  |
 | Anna Maria       | *1719 in B. |
 | Ferdinand        | *1721 in B. {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/3-T/?pg=42)} |
 | Johannes?        | *1723 in B. {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/3-T/?pg=45)} |
@@ -68,7 +68,7 @@ Auch verfügbar als: [.DOCX](Chronik.docx), [E-Book](Chronik.epub),  [.HTML](Chr
 | Dominik          | *1726 in B. {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/3-T/?pg=54)} |
 |                  |                                                                                  |
 |                  | **Kinder von Josef & Anastasia:**                                                |
-| Anna Barbara     | *23.03.1758 in Weizenried 79 bei Untrasried (jetzt Schindele-Hof) &23.05.1793 mit Prack {[Familienbuch](https://data.matricula-online.eu/de/deutschland/augsburg/untrasried/16-FB/?pg=99)} |
+| Anna Barbara     | *23.03.1758 in Waizenried 79 bei Untrasried (jetzt Schindele-Hof) &23.05.1793 mit Prack {[Familienbuch](https://data.matricula-online.eu/de/deutschland/augsburg/untrasried/16-FB/?pg=99)} |
 | Jakob            | *23.07.1760 in W., +01.08.1760 mit nur 9 Tagen                                   |
 | **Leonhard**     | *04.11.1761 in W, &11.7.1785 mit Maria Adelheid Waldmann, +09.03.1814 [Bauer]    |
 | Dominik          | *08.10.1762 in W. +1762                                                          |
@@ -83,7 +83,7 @@ Auch verfügbar als: [.DOCX](Chronik.docx), [E-Book](Chronik.epub),  [.HTML](Chr
 | Franz Josef      | *14.02.1776                                                                      |
 |                  |                                                                                  |
 |                  | **Kinder von Leonhard & Maria:**                                                 |
-| Johann Georg     | *07.07.1786 in Weizenried 79 bei Untrasried, +13.07.1786 {[Familienbuch](https://data.matricula-online.eu/de/deutschland/augsburg/untrasried/16-FB/?pg=99)} |
+| Johann Georg     | *07.07.1786 in Waizenried 79 bei Untrasried, +13.07.1786 {[Familienbuch](https://data.matricula-online.eu/de/deutschland/augsburg/untrasried/16-FB/?pg=99)} |
 | Anna Maria       | *29.08.1787 in W. +04.09.1787 (nur 6 Tage) |
 | -                | '+24.09.1788 (notgetauft)      |
 | Genovefa         | *03.01.1790 in W. +09.01.1790 (nur 6 Tage) |
@@ -95,7 +95,7 @@ Auch verfügbar als: [.DOCX](Chronik.docx), [E-Book](Chronik.epub),  [.HTML](Chr
 | Maria Anna       | *16.07.1805 in W., +1.7.1810 mit nur 5 Jahren |
 |                  |                             |
 |                  | **Kinder von Johann Georg:**  |
-| Franz Xaver      | *03.02.1818 in Weizenried 79 bei Untrasried, +06.02.1818 mit nur 3 Tagen {[Familienbuch](https://data.matricula-online.eu/de/deutschland/augsburg/untrasried/16-FB/?pg=99)} |
+| Franz Xaver      | *03.02.1818 in Waizenried 79 bei Untrasried, +06.02.1818 mit nur 3 Tagen {[Familienbuch](https://data.matricula-online.eu/de/deutschland/augsburg/untrasried/16-FB/?pg=99)} |
 | Maria Anna       | *12.10.1819 in W., +14.07.1867 in Kraftisried? |
 | Karolina         | *16.03.1821 in W.                              |
 | Franz Xaver      | *13.05.1822 in W. +19.05.1822 mit nur 6 Tagen  |
@@ -105,25 +105,25 @@ Auch verfügbar als: [.DOCX](Chronik.docx), [E-Book](Chronik.epub),  [.HTML](Chr
 | M. Josefa        | *31.10.1826 in W. |
 | Johannes Chrysostomus | *09.02.1828 in W. +1907 in Obg. &24.11.1862 Maria Antonia Schindele (zog als Privatier nach Obg.) |
 | Johann L.        | *24.06.1829 in W. +02.03.1830 |
-| **Theresia**     | *01.06.1831 in W. +25.11.1901 in Ostenried 71 (Untrasried) [Privatiere] {Sterbebild} |
+| **Theresia**     | *01.06.1831 in W. +25.11.1901 in Ostenried 71 bei Untrasried [Privatiere] {[Sterbebild](Quellen/Sterbebilder/1831_Theresia)} |
 | Theodor          | *20.10.1832 in W. +1915 in Albrechts |
 | Alois            | *24.03.1834 |
 | Johann Georg     | *19.11.1835 in W. +03.04.1880 in Ostenried 71 |
 | Johann Heinrich  | *27.04.1837 in W. &21.2.1881 in Altdorf mit Maria Anna T. (2 Monate Hof, Trübsinn) |
 |                  |                             |
 |                  | **Kind von Theresia**:      |
-| **Johann Georg** | *09.05.1868 in Ostenried 71 bei Untrasried +05.01.1933 & Apollonia Mayr *09.02.1870 +08.12.1957 [Bauer] |
+| **Johann Georg** | *09.05.1868 in Ostenried 71 bei Untrasried [Bauer] +05.01.1933 {[Sterbebild](Quellen/Sterbebilder/1868_Georg.jpg)} & Apollonia Mayr *09.02.1870 +08.12.1957 {[Sterbebild](Quellen/Sterbebilder/1870_Apollonia.jpg)} |
 |                  |                                                 |
 |                  | **Kinder von Johann Georg & Apollonia:**        |
-| **Johann**       | *30.12.1895 in Ostenried +29.05.1955 in Albrechts & Sophie Hartmann *23.03.1904 +30.09.1977 [Bauer] |
+| **Johann**       | *30.12.1895 in Ostenried [Bauer] +29.05.1955 in Albrechts {[Sterbebild](Quellen/Sterbebilder/1895_Johann)} & Sophie Hartmann *23.03.1904 +30.09.1977 {[Sterbebild](Quellen/Sterbebilder/1904_Sophie)} |
 | Maria            | *25.01.1897 in Ostenried +05.01.1990 |
 | Theresia         | *27.04.1902 in Ostenried +25.06.1987 & Johann Kustermann |
 | Georg            | *19.04.1903 in Ostenried +19.04.1903 |
 | Johann Georg     | *13.08.1906 in Albrechts +09.05.1935 |
-| Theodor          | *10.12.1907 in Albrechts +28.09.1942 bei Leningrad, Russland {Sterbebild} |
+| Theodor          | *10.12.1907 in Albrechts +28.09.1942 bei Leningrad, Russland {[Sterbebild](Quellen/Sterbebilder/1907_Theodor.jpg)} |
 |                  |                                                   |
 |                  | **Kinder von Johann & Sophie:**                   |
-| Georg            | *21.01.1935 in Albrechts 12 (Günzach) +19.03.1935 |
+| Georg            | *21.01.1935 in Albrechts 12 bei Günzach, +19.03.1935 |
 | Amalie Maria Anna| *20.02.1936 in A.                                |
 | Apollonia Theresia| *29.05.1937 in A.                               |
 | Johann           | *05.12.1938 in A. & Rosmarie Höbel *18.12.1947 [Bauer] |
