@@ -1,8 +1,7 @@
-# Chronik der Familie Fleschutz
+Chronik der Familie Fleschutz
+=============================
 
-Auch verfügbar als: [.DOCX](Chronik.docx), [E-Book](Chronik.epub),  [.HTML](Chronik.html), [.ODT](Chronik.odt),  [.OPML](Chronik.opml), [.PDF](Chronik.pdf), [.RTF](Chronik.rtf), [.TEX](Chronik.tex)
-
-**Legende:** * = Geburt, & = Hochzeit, + = Tod, [] = Beruf, {} = Quelle
+**Legende:** * = Geburt, & = Hochzeit, + = Tod, [] = Beruf, {} = Quelle. Die Chronik ist auch verfügbar als: [.DOCX](Chronik.docx), [E-Book](Chronik.epub),  [.HTML](Chronik.html), [.ODT](Chronik.odt),  [.OPML](Chronik.opml), [.PDF](Chronik.pdf), [.RTF](Chronik.rtf), [.TEX](Chronik.tex)
 
 | Jahr      | Ereignis                                                     |
 | --------- | ------------------------------------------------------------ |
