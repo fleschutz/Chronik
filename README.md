@@ -82,8 +82,8 @@ Chronik der Familie Fleschutz
 | Josef            | *16.02.1775 in W. +09.03.1775 mit nur 21 Tagen                                   |
 | Franz Josef      | *14.02.1776                                                                      |
 |                  |                                                                                  |
-|                  | **Leonhard & Maria's Kinder:**                                                   |
-| Johann Georg     | *07.07.1786 in Waizenried 79 bei Untrasried, +13.07.1786 {[Familienbuch](https://data.matricula-online.eu/de/deutschland/augsburg/untrasried/16-FB/?pg=99)} |
+|                  | **Leonhard & Maria's Kinder:** {[Familienbuch](https://data.matricula-online.eu/de/deutschland/augsburg/untrasried/16-FB/?pg=99)} |
+| Johann Georg     | *07.07.1786 in Waizenried 79 bei Untrasried, +13.07.1786  |
 | Anna Maria       | *29.08.1787 in W. +04.09.1787 mit nur 6 Tagen |
 | -                | +24.09.1788 (notgetauft)      |
 | Genovefa         | *03.01.1790 in W. +09.01.1790 mit nur 6 Tagen |
@@ -94,8 +94,8 @@ Chronik der Familie Fleschutz
 | Johann Baptist   | *23.06.1799 in W., +13.02.1875 in Engetried & Maria Kreszenz Epp *10.09.1798 +06.12.1862 |
 | Maria Anna       | *16.07.1805 in W., +1.7.1810 mit nur 5 Jahren |
 |                  |                             |
-|                  | **Johann Georg & Maurus & Kreszentia's Kinder:**  |
-| Franz Xaver      | *03.02.1818 in Waizenried 79 bei Untrasried, +06.02.1818 mit nur 3 Tagen {[Familienbuch](https://data.matricula-online.eu/de/deutschland/augsburg/untrasried/16-FB/?pg=99)} |
+|                  | **Johann Georg & Maurus & Kreszentia's Kinder:** {[Familienbuch](https://data.matricula-online.eu/de/deutschland/augsburg/untrasried/16-FB/?pg=99)}  |
+| Franz Xaver      | *03.02.1818 in Waizenried 79 bei Untrasried, +06.02.1818 mit nur 3 Tagen  |
 | Maria Anna       | *12.10.1819 in W., +14.07.1867 in Kraftisried? |
 | Karolina         | *16.03.1821 in W.                              |
 | Franz Xaver      | *13.05.1822 in W. +19.05.1822 mit nur 6 Tagen  |
@@ -111,7 +111,7 @@ Chronik der Familie Fleschutz
 | Johann Georg     | *19.11.1835 in W. +03.04.1880 in Ostenried 71 |
 | Johann Heinrich  | *27.04.1837 in W. &21.2.1881 in Altdorf mit Maria Anna T. (2 Monate Hof, Trübsinn) |
 |                  |                             |
-|                  | **Theresia & Xaver Prinz's Kind**:      |
+|                  | **Theresia & Xaver Prinz's Kind**: {[Familienbuch](https://data.matricula-online.eu/de/deutschland/augsburg/untrasried/16-FB/?pg=99)}     |
 | **Johann Georg** | *09.05.1868 in Ostenried 71 bei Untrasried [Bauer] +05.01.1933 {[Sterbebild](Quellen/Sterbebilder/1868_Georg.jpg)} & Apollonia Mayr *09.02.1870 +08.12.1957 {[Sterbebild](Quellen/Sterbebilder/1870_Apollonia.jpg)} |
 |                  |                                                 |
 |                  | **Johann Georg & Apollonia's Kinder:**        |
