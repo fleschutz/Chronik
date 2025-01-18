@@ -67,8 +67,8 @@ Chronik der Familie Fleschutz
 | **Josef**        | *1725 in B.,  &11.08.1757 Anastasia Trunzer in Untrasried, +06.04.1773 (böses Fieber) in Waizenried bei Untrasried {[Hochzeitsregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/3-T/?pg=50)} |
 | Dominik          | *1726 in B. {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/3-T/?pg=54)} |
 |                  |                                                                                  |
-|                  | **Josef & Anastasia's Kinder:** {[Familienbuch](https://data.matricula-online.eu/de/deutschland/augsburg/untrasried/16-FB/?pg=99)} |
-| Anna Barbara     | *23.03.1758 in Waizenried 79 bei Untrasried (jetzt Schindele-Hof) &23.05.1793 mit Prack  |
+|                  | **Josef & Anastasia's Kinder:** (auf Hof in Waizenried 79 bei Untrasried, jetzt Schindele-Hof) {[Familienbuch](https://data.matricula-online.eu/de/deutschland/augsburg/untrasried/16-FB/?pg=99)} |
+| Anna Barbara     | *23.03.1758 in W. &23.05.1793 mit Prack  |
 | Jakob            | *23.07.1760 in W., +01.08.1760 mit nur 9 Tagen                                   |
 | **Leonhard**     | *04.11.1761 in W, &11.7.1785 mit Maria Adelheid Waldmann, +09.03.1814 [Bauer]    |
 | Dominik          | *08.10.1762 in W. +1762                                                          |
@@ -82,8 +82,8 @@ Chronik der Familie Fleschutz
 | Josef            | *16.02.1775 in W. +09.03.1775 mit nur 21 Tagen                                   |
 | Franz Josef      | *14.02.1776                                                                      |
 |                  |                                                                                  |
-|                  | **Leonhard & Maria's Kinder:** {[Familienbuch](https://data.matricula-online.eu/de/deutschland/augsburg/untrasried/16-FB/?pg=99)} |
-| Johann Georg     | *07.07.1786 in Waizenried 79 bei Untrasried, +13.07.1786  |
+|                  | **Leonhard & Maria's Kinder:** (auf Hof in Waizenried 79 bei Untrasried, jetzt Schindele-Hof) {[Familienbuch](https://data.matricula-online.eu/de/deutschland/augsburg/untrasried/16-FB/?pg=99)} |
+| Johann Georg     | *07.07.1786 in W., +13.07.1786  |
 | Anna Maria       | *29.08.1787 in W. +04.09.1787 mit nur 6 Tagen |
 | -                | +24.09.1788 (notgetauft)      |
 | Genovefa         | *03.01.1790 in W. +09.01.1790 mit nur 6 Tagen |
@@ -94,8 +94,8 @@ Chronik der Familie Fleschutz
 | Johann Baptist   | *23.06.1799 in W., +13.02.1875 in Engetried & Maria Kreszenz Epp *10.09.1798 +06.12.1862 |
 | Maria Anna       | *16.07.1805 in W., +1.7.1810 mit nur 5 Jahren |
 |                  |                             |
-|                  | **Johann Georg & Maurus & Kreszentia's Kinder:** {[Familienbuch](https://data.matricula-online.eu/de/deutschland/augsburg/untrasried/16-FB/?pg=99)}  |
-| Franz Xaver      | *03.02.1818 in Waizenried 79 bei Untrasried, +06.02.1818 mit nur 3 Tagen  |
+|                  | **Johann Georg & Maurus & Kreszentia's Kinder:** (auf Hof in Waizenried 79 bei Untrasried, jetzt Schindele-Hof) {[Familienbuch](https://data.matricula-online.eu/de/deutschland/augsburg/untrasried/16-FB/?pg=99)}  |
+| Franz Xaver      | *03.02.1818 in W., +06.02.1818 mit nur 3 Tagen  |
 | Maria Anna       | *12.10.1819 in W., +14.07.1867 in Kraftisried? |
 | Karolina         | *16.03.1821 in W.                              |
 | Franz Xaver      | *13.05.1822 in W. +19.05.1822 mit nur 6 Tagen  |
@@ -122,8 +122,8 @@ Chronik der Familie Fleschutz
 | Johann Georg     | *13.08.1906 in Albrechts bei Günzach +09.05.1935 |
 | Theodor          | *10.12.1907 in A. [Soldat im 💥 2. Weltkrieg] +28.09.1942 bei Leningrad, Russland {[Sterbebild](Quellen/Sterbebilder/1907_Theodor.jpg)} |
 |                  |                                                   |
-|                  | **Johann & Sophie's Kinder:**                     |
-| Georg            | *21.01.1935 in Albrechts 12 bei Günzach, +19.03.1935 mit nur 2 Monaten |
+|                  | **Johann & Sophie's Kinder:** (auf Hof in Albrechts 12 bei Günzach)                    |
+| Georg            | *21.01.1935 in A., +19.03.1935 mit nur 2 Monaten |
 | Amalie Maria Anna| *20.02.1936 in A.                                |
 | Apollonia Theresia| *29.05.1937 in A.                               |
 | Johann           | *05.12.1938 in A. [Bauer] & Rosmarie Höbel *18.12.1947 |
