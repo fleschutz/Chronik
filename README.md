@@ -132,4 +132,4 @@ Auch verfügbar als: [.DOCX](Chronik.docx), [E-Book](Chronik.epub),  [.HTML](Chr
 
 Danksagung
 ----------
-Vielen Dank an Karl Fleschutz und an seinen Vater für ihre wertvolle Chronik. Vielen Dank an Bernhard für die Sterbebilder und an Jörg für den Hinweis zu Matricula Online.
+Vielen Dank an Karl Fleschutz und an seinen Großvater für ihre Ahnenforschung und ihre Chronik der Familie Fleschutz in Burg. Vielen Dank an Bernhard für die Sterbebilder und an Jörg für den Hinweis zu Matricula Online.
