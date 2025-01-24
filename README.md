@@ -23,10 +23,10 @@ Chronik der Familie Fleschutz (1412-1942)
 | 1565      | Christoph Fleschutz kauft ein Haus mit Taferngerechtigkeit {[Urkunde 3800](Quellen/Fuerststift_Kempten/Urkunde_3800)} |
 | 1565      | Balthus Fleschutz zu Fleschützen bekommt Zinsbrief von Lukas Haini zu Bachtels {[Urkunde 3778](Quellen/Fuerststift_Kempten/Urkunde_3778)} |
 | 1618-1648 | 💥 Dreißigjähriger Krieg, dadurch Hungersnöte und Seuchen. In Teilen Süddeutschlands überlebte nur ein Drittel der Bevölkerung {[Wikipedia](Quellen/Wikipedia/Dreissigjaehriger_Krieg)} |
-| 1658      | Hans Georg Fleschutz verkauft Baind zu Dickenbühl {[Urkunde 5642](Quellen/Fuerststift_Kempten/Urkunde_5642/)} |
-| 1666      | Baltasar Fleschutz, Bauschreiber im Stift Kempten            |
-| 1686      | Georg Fleschutz zu Haubensteig kauft Weiderecht im Stadtallmey {[Akte 1127](Quellen/Fuerststift_Kempten/Akte_1127/)} |
-| 1791      | ![Karte](Quellen/Fuerststift_Kempten/1791_Karte.jpg) [Karte des Territoriums der Fürstabtei Kempten](Quellen/Fuerststift_Kempten/1791_Karte.jpg)                          |
+| 1658      | Hans Georg Fleschutz verkauft Baind zu Dickenbühl {[Urkunde 5642](Quellen/Fuerststift_Kempten/Urkunde_5642/)}                            |
+| 1666      | Baltasar Fleschutz, Bauschreiber im Stift Kempten                                                                                        |
+| 1686      | Georg Fleschutz zu Haubensteig kauft Weiderecht im Stadtallmey {[Akte 1127](Quellen/Fuerststift_Kempten/Akte_1127/)}                     |
+| 1791      | ![Karte](Quellen/Fuerststift_Kempten/1791_Karte.jpg) (Karte von 1791 des Territoriums der Fürstabtei Kempten)                            |
 
 | Vorname(n)       | Ereignis                                                              |
 | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
