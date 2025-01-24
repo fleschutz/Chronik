@@ -1,7 +1,7 @@
 Chronik der Familie Fleschutz (1412-1942)
 =========================================
 
-**Auch verfügbar als:** [.DOCX](Export/Chronik.docx), [.EPUB (E-Book)](Export/Chronik.epub),  [.HTML](Export/Chronik.html), [.ODT](Export/Chronik.odt),  [.OPML](Export/Chronik.opml), [.PDF](Export/Chronik.pdf),[.RST](Export/Chronik.rst), [.RTF](Export/Chronik.rtf), [.TEX](Export/Chronik.tex), [.TEXTILE](Export/Chronik.textile), [.WIKI](Export/Chronik.wiki) - **Legende:** * = Geburt, ⚭ = Hochzeit, † = Tod, 🔨 = Beruf, 💥 = Krieg, {} = Quelle. 
+**Auch verfügbar als:** [.DOCX](Export/Chronik.docx), [.EPUB (E-Book)](Export/Chronik.epub),  [.HTML](Export/Chronik.html), [.ODT](Export/Chronik.odt),  [.OPML](Export/Chronik.opml), [.PDF](Export/Chronik.pdf), [.RST](Export/Chronik.rst), [.RTF](Export/Chronik.rtf), [.TEX](Export/Chronik.tex), [.TEXTILE](Export/Chronik.textile), [.WIKI](Export/Chronik.wiki) - **Legende:** * = Geburt, ⚭ = Hochzeit, † = Tod, 🔨 = Beruf, 💥 = Krieg, {} = Quelle. 
 
 | Jahr      | Ereignis                                                     |
 | --------- | ------------------------------------------------------------ |
