@@ -105,7 +105,7 @@ Chronik der Familie Fleschutz (1412-1942)
 | M. Josefa        | *31.10.1826 in W. |
 | Johannes Chrysostomus | *09.02.1828 in W. †1907 in Obg. ⚭24.11.1862 Maria Antonia Schindele (zog als Privatier nach Obg.) |
 | Johann L.        | *24.06.1829 in W. †02.03.1830 |
-| **Theresia**     | *01.06.1831 in W. 🔨Privatiere †25.11.1901 in Ostenried 71 bei Untrasried {[Sterbebild](Quellen/Sterbebilder/1831_Theresia)} |
+| **Theresia**     | *01.06.1831 in W. 🔨Privatiere †25.11.1901 in Ostenried 71 bei Untrasried {[Sterbebild](Quellen/Sterbebilder/1831_Theresia.jpg)} |
 | Theodor          | *20.10.1832 in W. †1915 in Albrechts |
 | Alois            | *24.03.1834 |
 | Johann Georg     | *19.11.1835 in W. †03.04.1880 in Ostenried 71 |
