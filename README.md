@@ -1,7 +1,7 @@
 Chronik der Familie Fleschutz
 =============================
 
-**Auch verfügbar als:** [.DOCX](Chronik.docx), [E-Book](Chronik.epub),  [.HTML](Chronik.html), [.ODT](Chronik.odt),  [.OPML](Chronik.opml), [.PDF](Chronik.pdf), [.RTF](Chronik.rtf), [.TEX](Chronik.tex) - **Legende:** * = Geburt, ⚭ = Hochzeit, † = Tod, ⚒ = Beruf, {} = Quelle. 
+**Auch verfügbar als:** [.DOCX](Chronik.docx), [E-Book](Chronik.epub),  [.HTML](Chronik.html), [.ODT](Chronik.odt),  [.OPML](Chronik.opml), [.PDF](Chronik.pdf), [.RTF](Chronik.rtf), [.TEX](Chronik.tex) - **Legende:** * = Geburt, ⚭ = Hochzeit, † = Tod, 🔨 = Beruf, 💥 = Krieg, {} = Quelle. 
  
 | Jahr      | Ereignis                                                     |
 | --------- | ------------------------------------------------------------ |
@@ -32,7 +32,7 @@ Chronik der Familie Fleschutz
 | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
 | **Baltasar**     | ⚭ Ursula Schneider, †1646 (vermutlich verwandt) {[Sterberegister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-S/?pg=1)}  |
 |                  |                                                                                                                                    |
-| **Georg**        | ⚒ Hauptmann und Wirt ⚭ 1649 mit Sabina Brenberg(+1652) ⚭ 1654 mit Maria Heslin in Börwang (vermutlich verwandt) {[Sterberegister Sabina](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-S/?pg=9)} {[Hochzeitsregister mit Maria](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-H/?pg=11)}   |
+| **Georg**        | 🔨Hauptmann und Wirt ⚭ 1649 mit Sabina Brenberg(+1652) ⚭ 1654 mit Maria Heslin in Börwang (vermutlich verwandt) {[Sterberegister Sabina](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-S/?pg=9)} {[Hochzeitsregister mit Maria](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-H/?pg=11)}   |
 |                  |                                                                                                                                    |
 |                  | **Georg & Sabina & Maria's Kinder:**   |
 | **Johann Georg** | ⚭1663 mit Maria Briechler in Börwang bei Haldenwang {[Hochzeitsregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-H/?pg=19)} |
@@ -64,7 +64,7 @@ Chronik der Familie Fleschutz
 | Anna Maria       | *1719 in B. {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/3-T/?pg=36)} |
 | Ferdinand        | *1721 in B. {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/3-T/?pg=42)} |
 | Johannes?        | *1723 in B. {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/3-T/?pg=45)} |
-| **Josef**        | *1725 in B. ⚒ Bauer +06.04.1773 (böses Fieber) in Waizenried bei Untrasried ⚭ 11.08.1757 Anastasia Trunzer in Untrasried {[Hochzeitsregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/3-T/?pg=50)} |
+| **Josef**        | *1725 in B. 🔨Bauer +06.04.1773 (böses Fieber) in Waizenried bei Untrasried ⚭ 11.08.1757 Anastasia Trunzer in Untrasried {[Hochzeitsregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/3-T/?pg=50)} |
 | Dominik          | *1726 in B. {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/3-T/?pg=54)} |
 |                  |                                                                                  |
 |                  | **Josef & Anastasia's Kinder:** (auf Hof in Waizenried 79 bei Untrasried, jetzt Schindele-Hof) {[Familienbuch](https://data.matricula-online.eu/de/deutschland/augsburg/untrasried/16-FB/?pg=99)} |
