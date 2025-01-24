@@ -1,8 +1,8 @@
 Chronik der Familie Fleschutz
 =============================
 
-**Auch verfügbar als:** [.DOCX](Chronik.docx), [E-Book](Chronik.epub),  [.HTML](Chronik.html), [.ODT](Chronik.odt),  [.OPML](Chronik.opml), [.PDF](Chronik.pdf), [.RTF](Chronik.rtf), [.TEX](Chronik.tex) - **Legende:** * = Geburt, ⚭ = Hochzeit, † = Tod, 🔨 = Beruf, 💥 = Krieg, {} = Quelle. 
- 
+**Auch verfügbar als:** [.DOCX](Export/Chronik.docx), [E-Book](Export/Chronik.epub),  [.HTML](Export/Chronik.html), [.ODT](Export/Chronik.odt),  [.OPML](Export/Chronik.opml), [.PDF](Export/Chronik.pdf), [.RTF](Export/Chronik.rtf), [.TEX](Export/Chronik.tex) - **Legende:** * = Geburt, ⚭ = Hochzeit, † = Tod, 🔨 = Beruf, 💥 = Krieg, {} = Quelle. 
+
 | Jahr      | Ereignis                                                     |
 | --------- | ------------------------------------------------------------ |
 | 1412      | Utz Brästel genannt Fläschuz, kauft die Güter zu "Wyler" und "Mätzlins" (jetzt Fleschützen bei Börwang) vom Fürststift Kempten {[Urkunde 263](Quellen/Fuerststift_Kempten/Urkunde_263/)} (erste urkundliche Erwähnung) |
