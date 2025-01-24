@@ -112,10 +112,10 @@ Chronik der Familie Fleschutz
 | Johann Heinrich  | *27.04.1837 in W. ⚭21.2.1881 in Altdorf mit Maria Anna T. (2 Monate Hof, Trübsinn) |
 |                  |                             |
 |                  | **Theresia & Xaver Prinz's Kind**: {[Familienbuch](https://data.matricula-online.eu/de/deutschland/augsburg/untrasried/16-FB/?pg=99)}     |
-| **Johann Georg** | *09.05.1868 in Ostenried 71 bei Untrasried ⚒Bauer †05.01.1933 {[Sterbebild](Quellen/Sterbebilder/1868_Georg.jpg)} ⚭ Apollonia Mayr *09.02.1870 +08.12.1957 {[Sterbebild](Quellen/Sterbebilder/1870_Apollonia.jpg)} |
+| **Johann Georg** | *09.05.1868 in Ostenried 71 bei Untrasried 🔨Bauer †05.01.1933 {[Sterbebild](Quellen/Sterbebilder/1868_Georg.jpg)} ⚭ Apollonia Mayr *09.02.1870 +08.12.1957 {[Sterbebild](Quellen/Sterbebilder/1870_Apollonia.jpg)} |
 |                  |                                                 |
 |                  | **Johann Georg & Apollonia's Kinder:**        |
-| **Johann**       | *30.12.1895 in Ostenried ⚒Bauer †29.05.1955 in Albrechts {[Sterbebild](Quellen/Sterbebilder/1895_Johann)} ⚭ Sophie Hartmann *23.03.1904 †30.09.1977 {[Sterbebild](Quellen/Sterbebilder/1904_Sophie)} |
+| **Johann**       | *30.12.1895 in Ostenried 🔨Bauer †29.05.1955 in Albrechts {[Sterbebild](Quellen/Sterbebilder/1895_Johann)} ⚭ Sophie Hartmann *23.03.1904 †30.09.1977 {[Sterbebild](Quellen/Sterbebilder/1904_Sophie)} |
 | Maria            | *25.01.1897 in O. †05.01.1990 |
 | Theresia         | *27.04.1902 in O. †25.06.1987 ⚭Johann Kustermann |
 | Georg            | *19.04.1903 in O. †19.04.1903 mit nur 1 Tag |
