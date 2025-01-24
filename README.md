@@ -64,7 +64,7 @@ Chronik der Familie Fleschutz
 | Anna Maria       | *1719 in B. {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/3-T/?pg=36)} |
 | Ferdinand        | *1721 in B. {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/3-T/?pg=42)} |
 | Johannes?        | *1723 in B. {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/3-T/?pg=45)} |
-| **Josef**        | *1725 in B. 🔨Bauer +06.04.1773 an böses Fieber in Waizenried bei Untrasried ⚭11.08.1757 Anastasia Trunzer in Untrasried {[Hochzeitsregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/3-T/?pg=50)} |
+| **Josef**        | *1725 in B. 🔨Bauer +06.04.1773 an böses Fieber in Waizenried bei Untrasried ⚭11.08.1757 Anastasia Trunzer in Untrasried {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/3-T/?pg=50)} |
 | Dominik          | *1726 in B. {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/3-T/?pg=54)} |
 |                  |                                                                                  |
 |                  | **Josef & Anastasia's Kinder:** (auf Hof in Waizenried 79 bei Untrasried, jetzt Schindele-Hof) {[Familienbuch](https://data.matricula-online.eu/de/deutschland/augsburg/untrasried/16-FB/?pg=99)} |
