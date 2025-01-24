@@ -34,8 +34,8 @@ Chronik der Familie Fleschutz
 |                  |                                                                                                                                    |
 | **Georg**        | 🔨Hauptmann und Wirt ⚭1649 Sabina Brenberg(+1652) ⚭1654 Maria Heslin in Börwang {[Sterberegister Sabina](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-S/?pg=9)} {[Hochzeitsregister mit Maria](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-H/?pg=11)} (vermutlich verwandt)  |
 |                  |                                                                                                                                    |
-|                  | **Georg & Sabina & Maria's Kinder:**   |
-| **Johann Georg** | ⚭1663 mit Maria Briechler in Börwang bei Haldenwang {[Hochzeitsregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-H/?pg=19)} |
+|                  | **Georg & Sabina & Maria's Kinder:** (in Börwang bei Haldenwang)  |
+| **Johann Georg** | ⚭1663 Maria Briechler in B. {[Hochzeitsregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-H/?pg=19)} |
 | Maria            | *1649 in B. {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-1/?pg=10)} (vermutlich verwandt) |
 | Catharina        | *1651 in B. +1654 {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-1/?pg=25)} (vermutlich verwandt)  |
 | Ursula           | *1655 in B. {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-1/?pg=41)}  (vermutlich verwandt) |
@@ -43,8 +43,8 @@ Chronik der Familie Fleschutz
 | Regina           | *1657 in B. {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-1/?pg=51)} (vermutlich verwandt)  |
 | Sabina           | *1659 in B. {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-1/?pg=57)} (vermutlich verwandt)  |
 |                  |                                         |
-|                  | **Johann Georg & Maria's Kinder:**    |
-| Sabina           | *1664 in Börwang bei Haldenwang {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-1/?pg=72)} |
+|                  | **Johann Georg & Maria's Kinder:** (in Börwang bei Haldenwang)   |
+| Sabina           | *1664 in B. {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-1/?pg=72)} |
 | Roman            | *1665 in B. {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-1/?pg=75)} |
 | Rosina           | *1666 in B. {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-1/?pg=78)} |
 | Ferdinand        | *1667 in B. {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-1/?pg=80)} |
@@ -59,8 +59,8 @@ Chronik der Familie Fleschutz
 | Josef            | *1681 in B. {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/2-T/?pg=19)} |
 | Georg            | *1683 in B. {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/2-T/?pg=22)} |
 |                  |   |
-|                  | **Mang & Anna Maria's Kinder:**   |
-| Anna             | *1718 in Börwang bei Haldenwang {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/3-T/?pg=34)}  |
+|                  | **Mang & Anna Maria's Kinder:** (in Börwang bei Haldenwang)  |
+| Anna             | *1718 in B. {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/3-T/?pg=34)}  |
 | Anna Maria       | *1719 in B. {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/3-T/?pg=36)} |
 | Ferdinand        | *1721 in B. {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/3-T/?pg=42)} |
 | Johannes?        | *1723 in B. {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/3-T/?pg=45)} |
@@ -91,12 +91,12 @@ Chronik der Familie Fleschutz
 | M. Afra          | *05.08.1794 in W. |
 | Ulrich           | *04.07.1796 in W. †17.09.1861 in Burg ⚭Creszentia Hartmann, *25.12.1791 |
 | Franziska        | *03.10.1797 in W. |
-| Johann Baptist   | *23.06.1799 in W., †13.02.1875 in Engetried ⚭ Maria Kreszenz Epp *10.09.1798 †06.12.1862 |
-| Maria Anna       | *16.07.1805 in W., †1.7.1810 mit nur 5 Jahren |
+| Johann Baptist   | *23.06.1799 in W. †13.02.1875 in Engetried ⚭ Maria Kreszenz Epp *10.09.1798 †06.12.1862 |
+| Maria Anna       | *16.07.1805 in W. †1.7.1810 mit nur 5 Jahren |
 |                  |                             |
 |                  | **Johann Georg & Maurus & Kreszentia's Kinder:** (auf Hof in Waizenried 79 bei Untrasried, jetzt Schindele-Hof) {[Familienbuch](https://data.matricula-online.eu/de/deutschland/augsburg/untrasried/16-FB/?pg=99)}  |
-| Franz Xaver      | *03.02.1818 in W., †06.02.1818 mit nur 3 Tagen  |
-| Maria Anna       | *12.10.1819 in W., †14.07.1867 in Kraftisried? |
+| Franz Xaver      | *03.02.1818 in W. †06.02.1818 mit nur 3 Tagen  |
+| Maria Anna       | *12.10.1819 in W. †14.07.1867 in Kraftisried? |
 | Karolina         | *16.03.1821 in W.                              |
 | Franz Xaver      | *13.05.1822 in W. †19.05.1822 mit nur 6 Tagen  |
 | Johann Georg     | *14.08.1823 in W. †24.04.1830                  |
