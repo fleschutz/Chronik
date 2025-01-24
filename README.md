@@ -55,7 +55,7 @@ Chronik der Familie Fleschutz
 | Maria            | *1675 in B. {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/2-T/?pg=9)} |
 | Franz            | *1677 in B. {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/2-T/?pg=12)} |
 | Anna             | *1679 in B. {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/2-T/?pg=15)} |
-| **Mang**         | *1680 in B., ⚭1717 in B. mit Anna Maria Geiger {[Hochzeitsregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/2-T/?pg=12)} |
+| **Mang**         | *1680 in B., ⚭1717 Anna Maria Geiger in B. {[Hochzeitsregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/2-T/?pg=12)} |
 | Josef            | *1681 in B. {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/2-T/?pg=19)} |
 | Georg            | *1683 in B. {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/2-T/?pg=22)} |
 |                  |   |
