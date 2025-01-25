@@ -1,7 +1,7 @@
 Chronik der Familie Fleschutz (1412-1942)
 =========================================
 
-**Auch verfügbar als:** [.DOCX](Export/Chronik.docx), [.EPUB (E-Book)](Export/Chronik.epub),  [.HTML](Export/Chronik.html), [.ODT](Export/Chronik.odt),  [.OPML](Export/Chronik.opml), [.PDF](Export/Chronik.pdf), [.RST](Export/Chronik.rst), [.RTF](Export/Chronik.rtf), [.TEX](Export/Chronik.tex), [.TEXTILE](Export/Chronik.textile), [.WIKI](Export/Chronik.wiki) - **Legende:** * = Geburt, ⚭ = Hochzeit, † = Tod, 🔨 = Beruf, 💥 = Krieg, {} = Quelle. 
+**Legende:** * = Geburt, ⚭ = Hochzeit, † = Tod, 🔨 = Beruf, 💥 = Krieg, {} = Quelle - auch verfügbar als: [.DOCX](Export/Chronik.docx), [.EPUB (E-Book)](Export/Chronik.epub),  [.HTML](Export/Chronik.html), [.ODT](Export/Chronik.odt),  [.OPML](Export/Chronik.opml), [.PDF](Export/Chronik.pdf), [.RST](Export/Chronik.rst), [.RTF](Export/Chronik.rtf), [.TEX](Export/Chronik.tex), [.TEXTILE](Export/Chronik.textile), [.WIKI](Export/Chronik.wiki). 
 
 | Jahr      | Ereignis                                                     |
 | --------- | ------------------------------------------------------------ |
@@ -120,7 +120,10 @@ Chronik der Familie Fleschutz (1412-1942)
 | Theresia         | *27.04.1902 in O. †25.06.1987 ⚭Johann Kustermann |
 | Georg            | *19.04.1903 in O. †19.04.1903 mit nur 1 Tag |
 | Johann Georg     | *13.08.1906 in A. †09.05.1935 |
-| Theodor          | *10.12.1907 in A. 🔨Soldat im 💥 2. Weltkrieg †28.09.1942 bei Leningrad, Russland {[Sterbebild](Quellen/Sterbebilder/1907_Theodor.jpg)} |
+| Theodor          | *10.12.1907 in A. 🔨Soldat †28.09.1942 bei Leningrad, Russland {[Sterbebild](Quellen/Sterbebilder/1907_Theodor.jpg)} |
+|                  |                                                   |
+|                  | 1914-1918 💥 1. Weltkrieg {[Wikipedia](Quellen/Wikipedia/Erster_Weltkrieg.pdf)}          |
+|                  | 1939-1945 💥 2. Weltkrieg {[Wikipedia](Quellen/Wikipedia/Zweiter_Weltkrieg.pdf)}         |
 |                  |                                                   |
 |                  | **Johann & Sophie's Kinder:** (auf Hof in Albrechts 12 bei Günzach)                    |
 | Georg            | *21.01.1935 in A., †19.03.1935 mit nur 2 Monaten |
