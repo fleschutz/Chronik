@@ -9,7 +9,7 @@ Chronik der Familie Fleschutz (1412-1942)
 | 1480      | Jörg Fleschütz, Haldenwanger Pfarr.                          |
 | 1505      | Vergleich zwischen Hans Johann Fleschutz und Hans Caspar Laubenberg {[Urkunde 1757](Quellen/Fuerststift_Kempten/Urkunde_1757/)} |
 | 1516      | Frevelgerichtsbarkeit zu Fleschützen {[Urkunde 2007](Quellen/Fuerststift_Kempten/Urkunde_2007/)} |
-| 1525      | 💥 Deutscher Bauernkrieg, 200 Allgäuer Höfe wurden in Brand gesteckt {[Wikipedia](Quellen/Wikipedia/Deutscher_Bauernkrieg/)} |
+| 1525      | 💥 Deutscher Bauernkrieg, 200 Allgäuer Höfe wurden in Brand gesteckt {[Wikipedia](Quellen/Wikipedia/Deutscher_Bauernkrieg.pdf)} |
 | 1530      | Georg Fleschutz (Hofmeister) kauft Wasserrecht zu Burkarts {[Urkunde 2546](Quellen/Fuerststift_Kempten/Urkunde_2546/)} |
 | 1531      | Georg Fleschutz (Hofmeister) kauft 2 Jauchert Acker {[Urkunde 2566](Quellen/Fuerststift_Kempten/Urkunde_2566/)} |
 | 1540      | Georg Fleschutz (Hofmeister) kauft Haus vom Konvent {[Urkunde 2915](Quellen/Fuerststift_Kempten/Urkunde_2915/)} |
@@ -22,7 +22,7 @@ Chronik der Familie Fleschutz (1412-1942)
 | 1564      | Baltasar Fleschutz (Scholare) will Priester werden           |
 | 1565      | Christoph Fleschutz kauft ein Haus mit Taferngerechtigkeit {[Urkunde 3800](Quellen/Fuerststift_Kempten/Urkunde_3800)} |
 | 1565      | Balthus Fleschutz zu Fleschützen bekommt Zinsbrief von Lukas Haini zu Bachtels {[Urkunde 3778](Quellen/Fuerststift_Kempten/Urkunde_3778)} |
-| 1618-1648 | 💥 Dreißigjähriger Krieg, dadurch Hungersnöte und Seuchen. In Teilen Süddeutschlands überlebte nur ein Drittel der Bevölkerung {[Wikipedia](Quellen/Wikipedia/Dreissigjaehriger_Krieg)} |
+| 1618-1648 | 💥 Dreißigjähriger Krieg, dadurch Hungersnöte und Seuchen. In Teilen Süddeutschlands überlebte nur ein Drittel der Bevölkerung {[Wikipedia](Quellen/Wikipedia/Dreissigjaehriger_Krieg.pdf)} |
 | 1658      | Hans Georg Fleschutz verkauft Baind zu Dickenbühl {[Urkunde 5642](Quellen/Fuerststift_Kempten/Urkunde_5642/)}                            |
 | 1666      | Baltasar Fleschutz, Bauschreiber im Stift Kempten                                                                                        |
 | 1686      | Georg Fleschutz zu Haubensteig kauft Weiderecht im Stadtallmey {[Akte 1127](Quellen/Fuerststift_Kempten/Akte_1127/)}                     |
