@@ -1,7 +1,7 @@
 <span id="header-n0"></span>
-= Chronik der Familie Fleschutz =
+= Chronik der Familie Fleschutz (1412-1942) =
 
-'''Auch verfügbar als:''' [[Export/Chronik.docx|.DOCX]], [[Export/Chronik.epub|E-Book]], [[Export/Chronik.html|.HTML]], [[Export/Chronik.odt|.ODT]], [[Export/Chronik.opml|.OPML]], [[Export/Chronik.pdf|.PDF]], [[Export/Chronik.rtf|.RTF]], [[Export/Chronik.tex|.TEX]] - '''Legende:''' * = Geburt, ⚭ = Hochzeit, † = Tod, 🔨 = Beruf, 💥 = Krieg, {} = Quelle. 
+'''Legende:''' * = Geburt, ⚭ = Hochzeit, † = Tod, 🔨 = Beruf, 💥 = Krieg, {} = Quelle. Die Chronik ist auch verfügbar in den Dateiformaten: [[Export/Chronik.docx|.DOCX]], [[Export/Chronik.epub|.EPUB (E-Book)]], [[Export/Chronik.html|.HTML]], [[Export/Chronik.odt|.ODT]], [[Export/Chronik.opml|.OPML]], [[Export/Chronik.pdf|.PDF]], [[Export/Chronik.rst|.RST]], [[Export/Chronik.rtf|.RTF]], [[Export/Chronik.tex|.TEX]], [[Export/Chronik.textile|.TEXTILE]], [[Export/Chronik.wiki|.WIKI]]. 
 
 {| class="wikitable"
 |-
@@ -21,7 +21,7 @@
 | Frevelgerichtsbarkeit zu Fleschützen {[[Quellen/Fuerststift_Kempten/Urkunde_2007/|Urkunde 2007]]}
 |-
 | 1525
-| 💥 Deutscher Bauernkrieg, 200 Allgäuer Höfe wurden in Brand gesteckt {[[Quellen/Wikipedia/Deutscher_Bauernkrieg/|Wikipedia]]}
+| 💥 Deutscher Bauernkrieg, 200 Allgäuer Höfe wurden in Brand gesteckt {[[Quellen/Wikipedia/Deutscher_Bauernkrieg.pdf|Wikipedia]]}
 |-
 | 1530
 | Georg Fleschutz (Hofmeister) kauft Wasserrecht zu Burkarts {[[Quellen/Fuerststift_Kempten/Urkunde_2546/|Urkunde 2546]]}
@@ -60,7 +60,7 @@
 | Balthus Fleschutz zu Fleschützen bekommt Zinsbrief von Lukas Haini zu Bachtels {[[Quellen/Fuerststift_Kempten/Urkunde_3778|Urkunde 3778]]}
 |-
 | 1618-1648
-| 💥 Dreißigjähriger Krieg, dadurch Hungersnöte und Seuchen. In Teilen Süddeutschlands überlebte nur ein Drittel der Bevölkerung {[[Quellen/Wikipedia/Dreissigjaehriger_Krieg|Wikipedia]]}
+| 💥 Dreißigjähriger Krieg, dadurch Hungersnöte und Seuchen. In Teilen Süddeutschlands überlebte nur ein Drittel der Bevölkerung {[[Quellen/Wikipedia/Dreissigjaehriger_Krieg.pdf|Wikipedia]]}
 |-
 | 1658
 | Hans Georg Fleschutz verkauft Baind zu Dickenbühl {[[Quellen/Fuerststift_Kempten/Urkunde_5642/|Urkunde 5642]]}
@@ -72,7 +72,7 @@
 | Georg Fleschutz zu Haubensteig kauft Weiderecht im Stadtallmey {[[Quellen/Fuerststift_Kempten/Akte_1127/|Akte 1127]]}
 |-
 | 1791
-| [[Quellen/Fuerststift_Kempten/1791_Karte.jpg|Karte des Territoriums der Fürstabtei Kempten]]
+| [[File:C:\Repos\Chronik\Quellen\Fuerststift_Kempten\1791_Karte.jpg|fig:]] (Karte von 1791 des Territoriums der Fürstabtei Kempten)
 |}
 
 {| class="wikitable"
@@ -306,7 +306,7 @@
 | *24.06.1829 in W. †02.03.1830
 |-
 | '''Theresia'''
-| *01.06.1831 in W. 🔨Privatiere †25.11.1901 in Ostenried 71 bei Untrasried {[[Quellen/Sterbebilder/1831_Theresia|Sterbebild]]}
+| *01.06.1831 in W. 🔨Privatiere †25.11.1901 in Ostenried 71 bei Untrasried {[[Quellen/Sterbebilder/1831_Theresia.jpg|Sterbebild]]}
 |-
 | Theodor
 | *20.10.1832 in W. †1915 in Albrechts
@@ -327,16 +327,16 @@
 | '''Theresia &amp; Xaver Prinz's Kind''': {[https://data.matricula-online.eu/de/deutschland/augsburg/untrasried/16-FB/?pg=99 Familienbuch]}
 |-
 | '''Johann Georg'''
-| *09.05.1868 in Ostenried 71 bei Untrasried ⚒Bauer †05.01.1933 {[[Quellen/Sterbebilder/1868_Georg.jpg|Sterbebild]]} ⚭ Apollonia Mayr *09.02.1870 +08.12.1957 {[[Quellen/Sterbebilder/1870_Apollonia.jpg|Sterbebild]]}
+| *09.05.1868 in Ostenried 71 bei Untrasried 🔨Bauer †05.01.1933 {[[Quellen/Sterbebilder/1868_Georg.jpg|Sterbebild]]} ⚭ Apollonia Mayr *09.02.1870 +08.12.1957 {[[Quellen/Sterbebilder/1870_Apollonia.jpg|Sterbebild]]}
 |-
 |
 |
 |-
 |
-| '''Johann Georg &amp; Apollonia's Kinder:'''
+| '''Johann Georg &amp; Apollonia's Kinder:''' (zuerst in Ostenried 71 bei Untrasried, dann in Albrechts 12 bei Günzach)
 |-
 | '''Johann'''
-| *30.12.1895 in Ostenried ⚒Bauer †29.05.1955 in Albrechts {[[Quellen/Sterbebilder/1895_Johann|Sterbebild]]} ⚭ Sophie Hartmann *23.03.1904 †30.09.1977 {[[Quellen/Sterbebilder/1904_Sophie|Sterbebild]]}
+| *30.12.1895 in O. 🔨Bauer †29.05.1955 in Albrechts {[[Quellen/Sterbebilder/1895_Johann|Sterbebild]]} ⚭ Sophie Hartmann *23.03.1904 †30.09.1977 {[[Quellen/Sterbebilder/1904_Sophie.jpg|Sterbebild]]}
 |-
 | Maria
 | *25.01.1897 in O. †05.01.1990
@@ -348,10 +348,19 @@
 | *19.04.1903 in O. †19.04.1903 mit nur 1 Tag
 |-
 | Johann Georg
-| *13.08.1906 in Albrechts bei Günzach †09.05.1935
+| *13.08.1906 in A. †09.05.1935
 |-
 | Theodor
-| *10.12.1907 in A. 🔨Soldat im 💥 2. Weltkrieg †28.09.1942 bei Leningrad, Russland {[[Quellen/Sterbebilder/1907_Theodor.jpg|Sterbebild]]}
+| *10.12.1907 in A. 🔨Soldat †28.09.1942 bei Leningrad, Russland {[[Quellen/Sterbebilder/1907_Theodor.jpg|Sterbebild]]}
+|-
+|
+|
+|-
+|
+| 1914-1918 💥 1. Weltkrieg {[[Quellen/Wikipedia/Erster_Weltkrieg.pdf|Wikipedia]]}
+|-
+|
+| 1939-1945 💥 2. Weltkrieg {[[Quellen/Wikipedia/Zweiter_Weltkrieg.pdf|Wikipedia]]}
 |-
 |
 |
@@ -375,7 +384,12 @@
 | *12.11.1942 in A. 🔨Molkerei-Meister ⚭Sigrun Friede *01.04.1949 in Radolfzell
 |}
 
-<span id="header-n373"></span>
+<span id="header-n382"></span>
 == Danksagung ==
 
-Vielen Dank an Karl Fleschutz und an seinen Großvater für ihre Ahnenforschung und ihre Chronik der Familie Fleschutz in Burg. Vielen Dank an Bernhard für die Sterbebilder und an Jörg für den Hinweis zu Matricula Online.
+Vielen, vielen Dank an alle die bei dieser Chronik mitgeholfen haben:
+
+* An Karl Fleschutz und seinen Großvater für ihre Ahnenforschung und ihre Chronik der Familie Fleschutz in Burg.
+* An das Team von Matricula Online, die alle Kirchenbücher im süddeutschen Raum eingescannt haben.
+* An Bernhard für die Sterbebilder und an Jörg für den Hinweis zu Matricula Online.
+* An Andrea für das schwierige Entziffern der Handschriften.

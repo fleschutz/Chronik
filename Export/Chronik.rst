@@ -1,14 +1,16 @@
 .. _header-n0:
 
-Chronik der Familie Fleschutz
-=============================
+Chronik der Familie Fleschutz (1412-1942)
+=========================================
 
-**Auch verfügbar als:** `.DOCX <Export/Chronik.docx>`__,
-`E-Book <Export/Chronik.epub>`__, `.HTML <Export/Chronik.html>`__,
+**Legende:** \* = Geburt, ⚭ = Hochzeit, † = Tod, 🔨 = Beruf, 💥 = Krieg,
+{} = Quelle. Die Chronik ist auch verfügbar in den Dateiformaten:
+`.DOCX <Export/Chronik.docx>`__, `.EPUB
+(E-Book) <Export/Chronik.epub>`__, `.HTML <Export/Chronik.html>`__,
 `.ODT <Export/Chronik.odt>`__, `.OPML <Export/Chronik.opml>`__,
-`.PDF <Export/Chronik.pdf>`__, `.RTF <Export/Chronik.rtf>`__,
-`.TEX <Export/Chronik.tex>`__ - **Legende:** \* = Geburt, ⚭ = Hochzeit,
-† = Tod, 🔨 = Beruf, 💥 = Krieg, {} = Quelle.
+`.PDF <Export/Chronik.pdf>`__, `.RST <Export/Chronik.rst>`__,
+`.RTF <Export/Chronik.rtf>`__, `.TEX <Export/Chronik.tex>`__,
+`.TEXTILE <Export/Chronik.textile>`__, `.WIKI <Export/Chronik.wiki>`__.
 
 +-----------+---------------------------------------------------------+
 | Jahr      | Ereignis                                                |
@@ -30,8 +32,8 @@ Chronik der Familie Fleschutz
 +-----------+---------------------------------------------------------+
 | 1525      | 💥 Deutscher Bauernkrieg, 200 Allgäuer Höfe wurden in   |
 |           | Brand gesteckt                                          |
-|           | {`W                                                     |
-|           | ikipedia <Quellen/Wikipedia/Deutscher_Bauernkrieg/>`__} |
+|           | {`Wiki                                                  |
+|           | pedia <Quellen/Wikipedia/Deutscher_Bauernkrieg.pdf>`__} |
 +-----------+---------------------------------------------------------+
 | 1530      | Georg Fleschutz (Hofmeister) kauft Wasserrecht zu       |
 |           | Burkarts {`Urkunde                                      |
@@ -80,8 +82,8 @@ Chronik der Familie Fleschutz
 | 1618-1648 | 💥 Dreißigjähriger Krieg, dadurch Hungersnöte und       |
 |           | Seuchen. In Teilen Süddeutschlands überlebte nur ein    |
 |           | Drittel der Bevölkerung                                 |
-|           | {`Wi                                                    |
-|           | kipedia <Quellen/Wikipedia/Dreissigjaehriger_Krieg>`__} |
+|           | {`Wikipe                                                |
+|           | dia <Quellen/Wikipedia/Dreissigjaehriger_Krieg.pdf>`__} |
 +-----------+---------------------------------------------------------+
 | 1658      | Hans Georg Fleschutz verkauft Baind zu Dickenbühl       |
 |           | {`Urkunde                                               |
@@ -93,8 +95,8 @@ Chronik der Familie Fleschutz
 |           | Stadtallmey {`Akte                                      |
 |           | 1127 <Quellen/Fuerststift_Kempten/Akte_1127/>`__}       |
 +-----------+---------------------------------------------------------+
-| 1791      | `Karte des Territoriums der Fürstabtei                  |
-|           | Kempten <Quellen/Fuerststift_Kempten/1791_Karte.jpg>`__ |
+| 1791      | |image3| (Karte von 1791 des Territoriums der           |
+|           | Fürstabtei Kempten)                                     |
 +-----------+---------------------------------------------------------+
 
 +-----------------------+---------------------------------------------+
@@ -394,8 +396,8 @@ Chronik der Familie Fleschutz
 +-----------------------+---------------------------------------------+
 | **Theresia**          | \*01.06.1831 in W. 🔨Privatiere †25.11.1901 |
 |                       | in Ostenried 71 bei Untrasried              |
-|                       | {`Sterbebi                                  |
-|                       | ld <Quellen/Sterbebilder/1831_Theresia>`__} |
+|                       | {`Sterbebild <                              |
+|                       | Quellen/Sterbebilder/1831_Theresia.jpg>`__} |
 +-----------------------+---------------------------------------------+
 | Theodor               | \*20.10.1832 in W. †1915 in Albrechts       |
 +-----------------------+---------------------------------------------+
@@ -415,7 +417,7 @@ Chronik der Familie Fleschutz
 |                       | hland/augsburg/untrasried/16-FB/?pg=99>`__} |
 +-----------------------+---------------------------------------------+
 | **Johann Georg**      | \*09.05.1868 in Ostenried 71 bei Untrasried |
-|                       | ⚒Bauer †05.01.1933                          |
+|                       | 🔨Bauer †05.01.1933                         |
 |                       | {`Sterbebil                                 |
 |                       | d <Quellen/Sterbebilder/1868_Georg.jpg>`__} |
 |                       | ⚭ Apollonia Mayr \*09.02.1870 +08.12.1957   |
@@ -425,14 +427,16 @@ Chronik der Familie Fleschutz
 |                       |                                             |
 +-----------------------+---------------------------------------------+
 |                       | **Johann Georg & Apollonia's Kinder:**      |
+|                       | (zuerst in Ostenried 71 bei Untrasried,     |
+|                       | dann in Albrechts 12 bei Günzach)           |
 +-----------------------+---------------------------------------------+
-| **Johann**            | \*30.12.1895 in Ostenried ⚒Bauer            |
-|                       | †29.05.1955 in Albrechts                    |
+| **Johann**            | \*30.12.1895 in O. 🔨Bauer †29.05.1955 in   |
+|                       | Albrechts                                   |
 |                       | {`Sterbe                                    |
 |                       | bild <Quellen/Sterbebilder/1895_Johann>`__} |
 |                       | ⚭ Sophie Hartmann \*23.03.1904 †30.09.1977  |
-|                       | {`Sterbe                                    |
-|                       | bild <Quellen/Sterbebilder/1904_Sophie>`__} |
+|                       | {`Sterbebild                                |
+|                       |  <Quellen/Sterbebilder/1904_Sophie.jpg>`__} |
 +-----------------------+---------------------------------------------+
 | Maria                 | \*25.01.1897 in O. †05.01.1990              |
 +-----------------------+---------------------------------------------+
@@ -442,14 +446,22 @@ Chronik der Familie Fleschutz
 | Georg                 | \*19.04.1903 in O. †19.04.1903 mit nur 1    |
 |                       | Tag                                         |
 +-----------------------+---------------------------------------------+
-| Johann Georg          | \*13.08.1906 in Albrechts bei Günzach       |
-|                       | †09.05.1935                                 |
+| Johann Georg          | \*13.08.1906 in A. †09.05.1935              |
 +-----------------------+---------------------------------------------+
-| Theodor               | \*10.12.1907 in A. 🔨Soldat im 💥 2.        |
-|                       | Weltkrieg †28.09.1942 bei Leningrad,        |
-|                       | Russland                                    |
+| Theodor               | \*10.12.1907 in A. 🔨Soldat †28.09.1942 bei |
+|                       | Leningrad, Russland                         |
 |                       | {`Sterbebild                                |
 |                       | <Quellen/Sterbebilder/1907_Theodor.jpg>`__} |
++-----------------------+---------------------------------------------+
+|                       |                                             |
++-----------------------+---------------------------------------------+
+|                       | 1914-1918 💥 1. Weltkrieg                   |
+|                       | {`Wikipedia <                               |
+|                       | Quellen/Wikipedia/Erster_Weltkrieg.pdf>`__} |
++-----------------------+---------------------------------------------+
+|                       | 1939-1945 💥 2. Weltkrieg                   |
+|                       | {`Wikipedia <Q                              |
+|                       | uellen/Wikipedia/Zweiter_Weltkrieg.pdf>`__} |
 +-----------------------+---------------------------------------------+
 |                       |                                             |
 +-----------------------+---------------------------------------------+
@@ -470,12 +482,24 @@ Chronik der Familie Fleschutz
 |                       | ⚭Sigrun Friede \*01.04.1949 in Radolfzell   |
 +-----------------------+---------------------------------------------+
 
-.. _header-n373:
+.. _header-n382:
 
 Danksagung
 ----------
 
-Vielen Dank an Karl Fleschutz und an seinen Großvater für ihre
-Ahnenforschung und ihre Chronik der Familie Fleschutz in Burg. Vielen
-Dank an Bernhard für die Sterbebilder und an Jörg für den Hinweis zu
-Matricula Online.
+Vielen, vielen Dank an alle die bei dieser Chronik mitgeholfen haben:
+
+- An Karl Fleschutz und seinen Großvater für ihre Ahnenforschung und
+  ihre Chronik der Familie Fleschutz in Burg.
+
+- An das Team von Matricula Online, die alle Kirchenbücher im
+  süddeutschen Raum eingescannt haben.
+
+- An Bernhard für die Sterbebilder und an Jörg für den Hinweis zu
+  Matricula Online.
+
+- An Andrea für das schwierige Entziffern der Handschriften.
+
+.. |image1| image:: C:\Repos\Chronik\Quellen\Fuerststift_Kempten\1791_Karte.jpg
+.. |image2| image:: C:\Repos\Chronik\Quellen\Fuerststift_Kempten\1791_Karte.jpg
+.. |image3| image:: C:\Repos\Chronik\Quellen\Fuerststift_Kempten\1791_Karte.jpg
