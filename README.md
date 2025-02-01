@@ -134,7 +134,7 @@ Chronik der Familie Fleschutz (1412-1942)
 
 Danksagung
 ----------
-Vielen Dank an alle, die bei dieser Chronik mitgeholfen haben:
+Vielen, vielen Dank an alle die bei dieser Chronik mitgeholfen haben:
 
 * An Karl Fleschutz und seinen Großvater für ihre Ahnenforschung und ihre Chronik der Familie Fleschutz in Burg.
 * An das Team von Matricula Online, die alle Kirchenbücher im süddeutschen Raum eingescannt haben.
