@@ -91,7 +91,7 @@ Chronik der Familie Fleschutz (1412-1942)
 | M. Afra          | *05.08.1794 in W. |
 | Ulrich           | *04.07.1796 in W. †17.09.1861 in Burg ⚭Creszentia Hartmann, *25.12.1791 |
 | Franziska        | *03.10.1797 in W. |
-| Johann Baptist   | *23.06.1799 in W. †13.02.1875 in Engetried ⚭ Maria Kreszenz Epp *10.09.1798 †06.12.1862 |
+| Johann Baptist   | *23.06.1799 in W. †13.02.1875 in Engetried ⚭ Maria Kreszenz Epp (*10.09.1798 †06.12.1862) |
 | Maria Anna       | *16.07.1805 in W. †1.7.1810 mit nur 5 Jahren |
 |                  |                             |
 |                  | **Johann Georg & Maurus & Kreszentia's Kinder:** (auf Hof in Waizenried 79 bei Untrasried, jetzt Schindele-Hof) {[Familienbuch](https://data.matricula-online.eu/de/deutschland/augsburg/untrasried/16-FB/?pg=99)}  |
