@@ -18,7 +18,7 @@ E-Books) <Export/Chronik.epub>`__, `.HTML <Export/Chronik.html>`__,
 +===========+=========================================================+
 | 1412      | Utz Brästel genannt Fläschuz, kauft die Güter zu        |
 |           | "Wyler" und "Mätzlins" (jetzt Fleschützen bei Börwang)  |
-|           | vom Fürststift Kempten {`Urkunde                        |
+|           | vom Fürststift Kempten {`Brief & Urkunde                |
 |           | 263 <Quellen/Fuerststift_Kempten/Urkunde_263/>`__}      |
 |           | (erste urkundliche Erwähnung)                           |
 +-----------+---------------------------------------------------------+
@@ -47,15 +47,13 @@ E-Books) <Export/Chronik.epub>`__, `.HTML <Export/Chronik.html>`__,
 |           | {`Urkunde                                               |
 |           | 2984 <Quellen/Fuerststift_Kempten/Urkunde_2984>`__}     |
 +-----------+---------------------------------------------------------+
-| 1537      | |image5| (aus {`Allgäuer Geschichtsfreund, Kempter      |
-|           | Wappen und                                              |
-|           | Zeich                                                   |
-|           | en <Quellen/Allgaeuer_Geschichtsfreund/Wappen.pdf>`__}) |
+| 1537      | |image5| {`Allgäuer Geschichtsfreund, Kempter Wappen    |
+|           | und                                                     |
+|           | Zeic                                                    |
+|           | hen <Quellen/Allgaeuer_Geschichtsfreund/Wappen.pdf>`__} |
 +-----------+---------------------------------------------------------+
 | 1543      | Baltus Fleschutz, zum Weyler, genannt (bei den)         |
 |           | Fleschutzen                                             |
-+-----------+---------------------------------------------------------+
-| 1544      | Georg Fleschutz, Hofmeister im Stift Kempten            |
 +-----------+---------------------------------------------------------+
 | 1550      | Agatha Fleschutz verkauft ihr Gut zu Eschers            |
 |           | (Untrasried) für 200 Gulden {`Urkunde                   |
@@ -96,10 +94,10 @@ E-Books) <Export/Chronik.epub>`__, `.HTML <Export/Chronik.html>`__,
 |           | Stadtallmey {`Akte                                      |
 |           | 1127 <Quellen/Fuerststift_Kempten/Akte_1127/>`__}       |
 +-----------+---------------------------------------------------------+
-| 1791      | |image6| (Karte des Territoriums der Fürstabtei Kempten |
+| 1791      | |image6| Karte des Territoriums der Fürstabtei Kempten  |
 |           | von 1791                                                |
-|           | {`Wik                                                   |
-|           | ipedia <Quellen/Wikipedia/Fuerststift_Kempten.pdf>`__}) |
+|           | {`Wi                                                    |
+|           | kipedia <Quellen/Wikipedia/Fuerststift_Kempten.pdf>`__} |
 +-----------+---------------------------------------------------------+
 
 +-----------------------+---------------------------------------------+
@@ -488,18 +486,18 @@ E-Books) <Export/Chronik.epub>`__, `.HTML <Export/Chronik.html>`__,
 |                       | ⚭Sigrun Friede \*01.04.1949 in Radolfzell   |
 +-----------------------+---------------------------------------------+
 
-.. _header-n376:
+.. _header-n373:
 
 Danksagung
 ----------
 
-Vielen, vielen Dank an alle die bei dieser Chronik mitgeholfen haben:
+Herzlichen Dank an alle die bei dieser Chronik mitgeholfen haben:
 
 - An Karl Fleschutz und seinen Großvater für ihre Ahnenforschung und
   ihre Chronik der Familie Fleschutz in Burg.
 
-- An das Team von Matricula Online, die alle Kirchenbücher im
-  süddeutschen Raum eingescannt haben.
+- An `Matricula Online <https://data.matricula-online.eu/de/>`__, die
+  die vielen Kirchenbücher in Europa eingescannt haben.
 
 - An Bernhard für die Sterbebilder und an Jörg für den Hinweis zu
   Matricula Online.
