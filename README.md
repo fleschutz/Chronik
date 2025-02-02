@@ -5,7 +5,7 @@ Chronik der Familie Fleschutz (1412-1942)
 
 | Jahr      | Ereignis                                                     |
 | --------- | ------------------------------------------------------------ |
-| 1412      | Utz Brästel genannt Fläschuz, kauft die Güter zu "Wyler" und "Mätzlins" (jetzt Fleschützen bei Börwang) vom Fürststift Kempten {[Urkunde 263](Quellen/Fuerststift_Kempten/Urkunde_263/)} (erste urkundliche Erwähnung) |
+| 1412      | Utz Brästel genannt Fläschuz, kauft die Güter zu "Wyler" und "Mätzlins" (jetzt Fleschützen bei Börwang) vom Fürststift Kempten {[Brief & Urkunde 263](Quellen/Fuerststift_Kempten/Urkunde_263/)} (erste urkundliche Erwähnung) |
 | 1480      | Jörg Fleschütz, Haldenwanger Pfarr.                          |
 | 1505      | Vergleich zwischen Hans Johann Fleschutz und Hans Caspar Laubenberg {[Urkunde 1757](Quellen/Fuerststift_Kempten/Urkunde_1757/)} |
 | 1516      | Frevelgerichtsbarkeit zu Fleschützen {[Urkunde 2007](Quellen/Fuerststift_Kempten/Urkunde_2007/)} |
@@ -13,7 +13,6 @@ Chronik der Familie Fleschutz (1412-1942)
 | 1530      | Georg Fleschutz (Hofmeister) kauft Wasserrecht zu Burkarts {[Urkunde 2546](Quellen/Fuerststift_Kempten/Urkunde_2546/)}, 1 Jahr später kauft er 2 Jauchert Acker {[Urkunde 2566](Quellen/Fuerststift_Kempten/Urkunde_2566/)}, 1540 kauft er ein Haus vom Konvent {[Urkunde 2915](Quellen/Fuerststift_Kempten/Urkunde_2915/)} und 1542 kauft er weitere 2 Häuser vom Konvent {[Urkunde 2984](Quellen/Fuerststift_Kempten/Urkunde_2984)} |
 | 1537      | ![Wappen](Quellen/Allgaeuer_Geschichtsfreund/Bildausschnitt.jpg) (aus {[Allgäuer Geschichtsfreund, Kempter Wappen und Zeichen](Quellen/Allgaeuer_Geschichtsfreund/Wappen.pdf)}) |
 | 1543      | Baltus Fleschutz, zum Weyler, genannt (bei den) Fleschutzen  |
-| 1544      | Georg Fleschutz, Hofmeister im Stift Kempten                 |
 | 1550      | Agatha Fleschutz verkauft ihr Gut zu Eschers (Untrasried) für 200 Gulden {[Urkunde 3316](Quellen/Fuerststift_Kempten/Urkunde_3316)} |
 | 1550-1743 | Güter und Untertanen zu Fleschützen {[Akte 1913](Quellen/Fuerststift_Kempten/Akte_1913)} |
 | 1554      | Georg Fleschutz (in Schwarzen) wegen verliehener Wirtschaftsgerechtsame {[Urkunde 3495](Quellen/Fuerststift_Kempten/Urkunde_3495/)} und {[Urkunde 3499](Quellen/Fuerststift_Kempten/Urkunde_3499)} |
