@@ -1,17 +1,15 @@
-h1. Chronik der Familie Fleschutz
+h1. Chronik der Familie Fleschutz (1412&#45;1942)
 
-*Auch verfügbar als:* ".DOCX":Export/Chronik.docx, "E&#45;Book":Export/Chronik.epub, ".HTML":Export/Chronik.html, ".ODT":Export/Chronik.odt, ".OPML":Export/Chronik.opml, ".PDF":Export/Chronik.pdf, ".RTF":Export/Chronik.rtf, ".TEX":Export/Chronik.tex &#45; *Legende:* &#42; = Geburt, ⚭ = Hochzeit, † = Tod, 🔨 = Beruf, 💥 = Krieg, {} = Quelle. 
+*Legende:* &#42; = Geburt, ⚭ = Hochzeit, † = Tod, 🔨 = Beruf, 💥 = Krieg, {} = Quelle. Die Chronik ist auch verfügbar im Format: ".DOCX":Export/Chronik.docx, ".EPUB (für E&#45;Books)":Export/Chronik.epub, ".HTML":Export/Chronik.html, ".ODT":Export/Chronik.odt, ".OPML":Export/Chronik.opml, ".PDF":Export/Chronik.pdf, ".RST":Export/Chronik.rst, ".RTF":Export/Chronik.rtf, ".TEX":Export/Chronik.tex, ".TEXTILE":Export/Chronik.textile, sowie ".WIKI":Export/Chronik.wiki. 
 
 |_. Jahr|_. Ereignis|
 |1412|Utz Brästel genannt Fläschuz, kauft die Güter zu &quot;Wyler&quot; und &quot;Mätzlins&quot; (jetzt Fleschützen bei Börwang) vom Fürststift Kempten {"Urkunde 263":Quellen/Fuerststift_Kempten/Urkunde_263/} (erste urkundliche Erwähnung)|
 |1480|Jörg Fleschütz, Haldenwanger Pfarr.|
 |1505|Vergleich zwischen Hans Johann Fleschutz und Hans Caspar Laubenberg {"Urkunde 1757":Quellen/Fuerststift_Kempten/Urkunde_1757/}|
 |1516|Frevelgerichtsbarkeit zu Fleschützen {"Urkunde 2007":Quellen/Fuerststift_Kempten/Urkunde_2007/}|
-|1525|💥 Deutscher Bauernkrieg, 200 Allgäuer Höfe wurden in Brand gesteckt {"Wikipedia":Quellen/Wikipedia/Deutscher_Bauernkrieg/}|
-|1530|Georg Fleschutz (Hofmeister) kauft Wasserrecht zu Burkarts {"Urkunde 2546":Quellen/Fuerststift_Kempten/Urkunde_2546/}|
-|1531|Georg Fleschutz (Hofmeister) kauft 2 Jauchert Acker {"Urkunde 2566":Quellen/Fuerststift_Kempten/Urkunde_2566/}|
-|1540|Georg Fleschutz (Hofmeister) kauft Haus vom Konvent {"Urkunde 2915":Quellen/Fuerststift_Kempten/Urkunde_2915/}|
-|1542|Georg Fleschutz (Hofmeister) kauft 2 Häuser vom Konvent {"Urkunde 2984":Quellen/Fuerststift_Kempten/Urkunde_2984}|
+|1525|💥 Deutscher Bauernkrieg, 200 Allgäuer Höfe wurden in Brand gesteckt {"Wikipedia":Quellen/Wikipedia/Deutscher_Bauernkrieg.pdf}|
+|1530|Georg Fleschutz (Hofmeister) kauft Wasserrecht zu Burkarts {"Urkunde 2546":Quellen/Fuerststift_Kempten/Urkunde_2546/}, 1 Jahr später kauft er 2 Jauchert Acker {"Urkunde 2566":Quellen/Fuerststift_Kempten/Urkunde_2566/}, 1540 kauft er ein Haus vom Konvent {"Urkunde 2915":Quellen/Fuerststift_Kempten/Urkunde_2915/} und 1542 kauft er weitere 2 Häuser vom Konvent {"Urkunde 2984":Quellen/Fuerststift_Kempten/Urkunde_2984}|
+|1537|!C:\Repos\Chronik\Quellen\Allgaeuer_Geschichtsfreund\Bildausschnitt.jpg(fig:)! (aus {"Allgäuer Geschichtsfreund, Kempter Wappen und Zeichen":Quellen/Allgaeuer_Geschichtsfreund/Wappen.pdf})|
 |1543|Baltus Fleschutz, zum Weyler, genannt (bei den) Fleschutzen|
 |1544|Georg Fleschutz, Hofmeister im Stift Kempten|
 |1550|Agatha Fleschutz verkauft ihr Gut zu Eschers (Untrasried) für 200 Gulden {"Urkunde 3316":Quellen/Fuerststift_Kempten/Urkunde_3316}|
@@ -20,11 +18,11 @@ h1. Chronik der Familie Fleschutz
 |1564|Baltasar Fleschutz (Scholare) will Priester werden|
 |1565|Christoph Fleschutz kauft ein Haus mit Taferngerechtigkeit {"Urkunde 3800":Quellen/Fuerststift_Kempten/Urkunde_3800}|
 |1565|Balthus Fleschutz zu Fleschützen bekommt Zinsbrief von Lukas Haini zu Bachtels {"Urkunde 3778":Quellen/Fuerststift_Kempten/Urkunde_3778}|
-|1618&#45;1648|💥 Dreißigjähriger Krieg, dadurch Hungersnöte und Seuchen. In Teilen Süddeutschlands überlebte nur ein Drittel der Bevölkerung {"Wikipedia":Quellen/Wikipedia/Dreissigjaehriger_Krieg}|
+|1618&#45;1648|💥 Dreißigjähriger Krieg, dadurch Hungersnöte und Seuchen. In Teilen Süddeutschlands überlebte nur ein Drittel der Bevölkerung {"Wikipedia":Quellen/Wikipedia/Dreissigjaehriger_Krieg.pdf}|
 |1658|Hans Georg Fleschutz verkauft Baind zu Dickenbühl {"Urkunde 5642":Quellen/Fuerststift_Kempten/Urkunde_5642/}|
 |1666|Baltasar Fleschutz, Bauschreiber im Stift Kempten|
 |1686|Georg Fleschutz zu Haubensteig kauft Weiderecht im Stadtallmey {"Akte 1127":Quellen/Fuerststift_Kempten/Akte_1127/}|
-|1791|"Karte des Territoriums der Fürstabtei Kempten":Quellen/Fuerststift_Kempten/1791_Karte.jpg|
+|1791|!C:\Repos\Chronik\Quellen\Fuerststift_Kempten\1791_Karte.jpg(fig:)! (Karte des Territoriums der Fürstabtei Kempten von 1791 {"Wikipedia":Quellen/Wikipedia/Fuerststift_Kempten.pdf})|
 
 |_. Vorname(n)|_. Ereignis|
 |*Baltasar*|†1646 ⚭Ursula Schneider {"Sterberegister":https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-S/?pg=1} (vermutlich verwandt)|
@@ -88,7 +86,7 @@ h1. Chronik der Familie Fleschutz
 |M. Afra|&#42;05.08.1794 in W.|
 |Ulrich|&#42;04.07.1796 in W. †17.09.1861 in Burg ⚭Creszentia Hartmann, &#42;25.12.1791|
 |Franziska|&#42;03.10.1797 in W.|
-|Johann Baptist|&#42;23.06.1799 in W. †13.02.1875 in Engetried ⚭ Maria Kreszenz Epp &#42;10.09.1798 †06.12.1862|
+|Johann Baptist|_23.06.1799 in W. †13.02.1875 in Engetried ⚭ Maria Kreszenz Epp (_10.09.1798 †06.12.1862)|
 |Maria Anna|&#42;16.07.1805 in W. †1.7.1810 mit nur 5 Jahren|
 |||
 ||*Johann Georg &amp; Maurus &amp; Kreszentia's Kinder:* (auf Hof in Waizenried 79 bei Untrasried, jetzt Schindele&#45;Hof) {"Familienbuch":https://data.matricula-online.eu/de/deutschland/augsburg/untrasried/16-FB/?pg=99}|
@@ -102,22 +100,25 @@ h1. Chronik der Familie Fleschutz
 |M. Josefa|&#42;31.10.1826 in W.|
 |Johannes Chrysostomus|&#42;09.02.1828 in W. †1907 in Obg. ⚭24.11.1862 Maria Antonia Schindele (zog als Privatier nach Obg.)|
 |Johann L.|&#42;24.06.1829 in W. †02.03.1830|
-|*Theresia*|&#42;01.06.1831 in W. 🔨Privatiere †25.11.1901 in Ostenried 71 bei Untrasried {"Sterbebild":Quellen/Sterbebilder/1831_Theresia}|
+|*Theresia*|&#42;01.06.1831 in W. 🔨Privatiere †25.11.1901 in Ostenried 71 bei Untrasried {"Sterbebild":Quellen/Sterbebilder/1831_Theresia.jpg}|
 |Theodor|&#42;20.10.1832 in W. †1915 in Albrechts|
 |Alois|&#42;24.03.1834|
 |Johann Georg|&#42;19.11.1835 in W. †03.04.1880 in Ostenried 71|
 |Johann Heinrich|&#42;27.04.1837 in W. ⚭21.2.1881 in Altdorf mit Maria Anna T. (2 Monate Hof, Trübsinn)|
 |||
 ||*Theresia &amp; Xaver Prinz's Kind*: {"Familienbuch":https://data.matricula-online.eu/de/deutschland/augsburg/untrasried/16-FB/?pg=99}|
-|*Johann Georg*|&#42;09.05.1868 in Ostenried 71 bei Untrasried ⚒Bauer †05.01.1933 {"Sterbebild":Quellen/Sterbebilder/1868_Georg.jpg} ⚭ Apollonia Mayr &#42;09.02.1870 &#43;08.12.1957 {"Sterbebild":Quellen/Sterbebilder/1870_Apollonia.jpg}|
+|*Johann Georg*|<em>09.05.1868 in Ostenried 71 bei Untrasried 🔨Bauer †05.01.1933 {"Sterbebild":Quellen/Sterbebilder/1868_Georg.jpg} ⚭ Apollonia Mayr (</em>09.02.1870 &#43;08.12.1957 {"Sterbebild":Quellen/Sterbebilder/1870_Apollonia.jpg})|
 |||
-||*Johann Georg &amp; Apollonia's Kinder:*|
-|*Johann*|&#42;30.12.1895 in Ostenried ⚒Bauer †29.05.1955 in Albrechts {"Sterbebild":Quellen/Sterbebilder/1895_Johann} ⚭ Sophie Hartmann &#42;23.03.1904 †30.09.1977 {"Sterbebild":Quellen/Sterbebilder/1904_Sophie}|
+||*Johann Georg &amp; Apollonia's Kinder:* (zuerst in Ostenried 71 bei Untrasried, dann in Albrechts 12 bei Günzach)|
+|*Johann*|<em>30.12.1895 in O. 🔨Bauer †29.05.1955 in Albrechts {"Sterbebild":Quellen/Sterbebilder/1895_Johann} ⚭ Sophie Hartmann (</em>23.03.1904 †30.09.1977) {"Sterbebild":Quellen/Sterbebilder/1904_Sophie.jpg}|
 |Maria|&#42;25.01.1897 in O. †05.01.1990|
 |Theresia|&#42;27.04.1902 in O. †25.06.1987 ⚭Johann Kustermann|
 |Georg|&#42;19.04.1903 in O. †19.04.1903 mit nur 1 Tag|
-|Johann Georg|&#42;13.08.1906 in Albrechts bei Günzach †09.05.1935|
-|Theodor|&#42;10.12.1907 in A. 🔨Soldat im 💥 2. Weltkrieg †28.09.1942 bei Leningrad, Russland {"Sterbebild":Quellen/Sterbebilder/1907_Theodor.jpg}|
+|Johann Georg|&#42;13.08.1906 in A. †09.05.1935|
+|Theodor|&#42;10.12.1907 in A. 🔨Soldat †28.09.1942 bei Leningrad, Russland {"Sterbebild":Quellen/Sterbebilder/1907_Theodor.jpg}|
+|||
+||1914&#45;1918 💥 1. Weltkrieg mit ca. 17 Millionen Toten {"Wikipedia":Quellen/Wikipedia/Erster_Weltkrieg.pdf}|
+||1939&#45;1945 💥 2. Weltkrieg mit ca. 60&#45;80 Millionen Toten {"Wikipedia":Quellen/Wikipedia/Zweiter_Weltkrieg.pdf}|
 |||
 ||*Johann &amp; Sophie's Kinder:* (auf Hof in Albrechts 12 bei Günzach)|
 |Georg|&#42;21.01.1935 in A., †19.03.1935 mit nur 2 Monaten|
@@ -128,4 +129,9 @@ h1. Chronik der Familie Fleschutz
 
 h2. Danksagung
 
-Vielen Dank an Karl Fleschutz und an seinen Großvater für ihre Ahnenforschung und ihre Chronik der Familie Fleschutz in Burg. Vielen Dank an Bernhard für die Sterbebilder und an Jörg für den Hinweis zu Matricula Online.
+Vielen, vielen Dank an alle die bei dieser Chronik mitgeholfen haben:
+
+* An Karl Fleschutz und seinen Großvater für ihre Ahnenforschung und ihre Chronik der Familie Fleschutz in Burg.
+* An das Team von Matricula Online, die alle Kirchenbücher im süddeutschen Raum eingescannt haben.
+* An Bernhard für die Sterbebilder und an Jörg für den Hinweis zu Matricula Online.
+* An Andrea für das schwierige Entziffern der Handschriften.

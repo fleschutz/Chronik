@@ -4,13 +4,14 @@ Chronik der Familie Fleschutz (1412-1942)
 =========================================
 
 **Legende:** \* = Geburt, ⚭ = Hochzeit, † = Tod, 🔨 = Beruf, 💥 = Krieg,
-{} = Quelle. Die Chronik ist auch verfügbar in den Dateiformaten:
-`.DOCX <Export/Chronik.docx>`__, `.EPUB
-(E-Book) <Export/Chronik.epub>`__, `.HTML <Export/Chronik.html>`__,
+{} = Quelle. Die Chronik ist auch verfügbar im Format:
+`.DOCX <Export/Chronik.docx>`__, `.EPUB (für
+E-Books) <Export/Chronik.epub>`__, `.HTML <Export/Chronik.html>`__,
 `.ODT <Export/Chronik.odt>`__, `.OPML <Export/Chronik.opml>`__,
 `.PDF <Export/Chronik.pdf>`__, `.RST <Export/Chronik.rst>`__,
 `.RTF <Export/Chronik.rtf>`__, `.TEX <Export/Chronik.tex>`__,
-`.TEXTILE <Export/Chronik.textile>`__, `.WIKI <Export/Chronik.wiki>`__.
+`.TEXTILE <Export/Chronik.textile>`__, sowie
+`.WIKI <Export/Chronik.wiki>`__.
 
 +-----------+---------------------------------------------------------+
 | Jahr      | Ereignis                                                |
@@ -37,19 +38,19 @@ Chronik der Familie Fleschutz (1412-1942)
 +-----------+---------------------------------------------------------+
 | 1530      | Georg Fleschutz (Hofmeister) kauft Wasserrecht zu       |
 |           | Burkarts {`Urkunde                                      |
-|           | 2546 <Quellen/Fuerststift_Kempten/Urkunde_2546/>`__}    |
-+-----------+---------------------------------------------------------+
-| 1531      | Georg Fleschutz (Hofmeister) kauft 2 Jauchert Acker     |
-|           | {`Urkunde                                               |
-|           | 2566 <Quellen/Fuerststift_Kempten/Urkunde_2566/>`__}    |
-+-----------+---------------------------------------------------------+
-| 1540      | Georg Fleschutz (Hofmeister) kauft Haus vom Konvent     |
-|           | {`Urkunde                                               |
+|           | 2546 <Quellen/Fuerststift_Kempten/Urkunde_2546/>`__}, 1 |
+|           | Jahr später kauft er 2 Jauchert Acker {`Urkunde         |
+|           | 2566 <Quellen/Fuerststift_Kempten/Urkunde_2566/>`__},   |
+|           | 1540 kauft er ein Haus vom Konvent {`Urkunde            |
 |           | 2915 <Quellen/Fuerststift_Kempten/Urkunde_2915/>`__}    |
-+-----------+---------------------------------------------------------+
-| 1542      | Georg Fleschutz (Hofmeister) kauft 2 Häuser vom Konvent |
+|           | und 1542 kauft er weitere 2 Häuser vom Konvent          |
 |           | {`Urkunde                                               |
 |           | 2984 <Quellen/Fuerststift_Kempten/Urkunde_2984>`__}     |
++-----------+---------------------------------------------------------+
+| 1537      | |image5| (aus {`Allgäuer Geschichtsfreund, Kempter      |
+|           | Wappen und                                              |
+|           | Zeich                                                   |
+|           | en <Quellen/Allgaeuer_Geschichtsfreund/Wappen.pdf>`__}) |
 +-----------+---------------------------------------------------------+
 | 1543      | Baltus Fleschutz, zum Weyler, genannt (bei den)         |
 |           | Fleschutzen                                             |
@@ -95,8 +96,10 @@ Chronik der Familie Fleschutz (1412-1942)
 |           | Stadtallmey {`Akte                                      |
 |           | 1127 <Quellen/Fuerststift_Kempten/Akte_1127/>`__}       |
 +-----------+---------------------------------------------------------+
-| 1791      | |image3| (Karte von 1791 des Territoriums der           |
-|           | Fürstabtei Kempten)                                     |
+| 1791      | |image6| (Karte des Territoriums der Fürstabtei Kempten |
+|           | von 1791                                                |
+|           | {`Wik                                                   |
+|           | ipedia <Quellen/Wikipedia/Fuerststift_Kempten.pdf>`__}) |
 +-----------+---------------------------------------------------------+
 
 +-----------------------+---------------------------------------------+
@@ -351,9 +354,9 @@ Chronik der Familie Fleschutz (1412-1942)
 +-----------------------+---------------------------------------------+
 | Franziska             | \*03.10.1797 in W.                          |
 +-----------------------+---------------------------------------------+
-| Johann Baptist        | \*23.06.1799 in W. †13.02.1875 in Engetried |
-|                       | ⚭ Maria Kreszenz Epp \*10.09.1798           |
-|                       | †06.12.1862                                 |
+| Johann Baptist        | *23.06.1799 in W. †13.02.1875 in Engetried  |
+|                       | ⚭ Maria Kreszenz Epp (*\ 10.09.1798         |
+|                       | †06.12.1862)                                |
 +-----------------------+---------------------------------------------+
 | Maria Anna            | \*16.07.1805 in W. †1.7.1810 mit nur 5      |
 |                       | Jahren                                      |
@@ -416,13 +419,13 @@ Chronik der Familie Fleschutz (1412-1942)
 |                       | <https://data.matricula-online.eu/de/deutsc |
 |                       | hland/augsburg/untrasried/16-FB/?pg=99>`__} |
 +-----------------------+---------------------------------------------+
-| **Johann Georg**      | \*09.05.1868 in Ostenried 71 bei Untrasried |
+| **Johann Georg**      | *09.05.1868 in Ostenried 71 bei Untrasried  |
 |                       | 🔨Bauer †05.01.1933                         |
-|                       | {`Sterbebil                                 |
-|                       | d <Quellen/Sterbebilder/1868_Georg.jpg>`__} |
-|                       | ⚭ Apollonia Mayr \*09.02.1870 +08.12.1957   |
-|                       | {`Sterbebild <Q                             |
-|                       | uellen/Sterbebilder/1870_Apollonia.jpg>`__} |
+|                       | {*\ `Sterbebild <                           |
+|                       | Quellen/Sterbebilder/1868_Georg.jpg>`__\ *} |
+|                       | ⚭ Apollonia Mayr (*\ 09.02.1870 +08.12.1957 |
+|                       | {`Sterbebild <Qu                            |
+|                       | ellen/Sterbebilder/1870_Apollonia.jpg>`__}) |
 +-----------------------+---------------------------------------------+
 |                       |                                             |
 +-----------------------+---------------------------------------------+
@@ -430,11 +433,12 @@ Chronik der Familie Fleschutz (1412-1942)
 |                       | (zuerst in Ostenried 71 bei Untrasried,     |
 |                       | dann in Albrechts 12 bei Günzach)           |
 +-----------------------+---------------------------------------------+
-| **Johann**            | \*30.12.1895 in O. 🔨Bauer †29.05.1955 in   |
+| **Johann**            | *30.12.1895 in O. 🔨Bauer †29.05.1955 in    |
 |                       | Albrechts                                   |
-|                       | {`Sterbe                                    |
-|                       | bild <Quellen/Sterbebilder/1895_Johann>`__} |
-|                       | ⚭ Sophie Hartmann \*23.03.1904 †30.09.1977  |
+|                       | {*\ `Sterbebil                              |
+|                       | d <Quellen/Sterbebilder/1895_Johann>`__\ *} |
+|                       | ⚭ Sophie Hartmann (*\ 23.03.1904            |
+|                       | †30.09.1977)                                |
 |                       | {`Sterbebild                                |
 |                       |  <Quellen/Sterbebilder/1904_Sophie.jpg>`__} |
 +-----------------------+---------------------------------------------+
@@ -455,11 +459,13 @@ Chronik der Familie Fleschutz (1412-1942)
 +-----------------------+---------------------------------------------+
 |                       |                                             |
 +-----------------------+---------------------------------------------+
-|                       | 1914-1918 💥 1. Weltkrieg                   |
+|                       | 1914-1918 💥 1. Weltkrieg mit ca. 17        |
+|                       | Millionen Toten                             |
 |                       | {`Wikipedia <                               |
 |                       | Quellen/Wikipedia/Erster_Weltkrieg.pdf>`__} |
 +-----------------------+---------------------------------------------+
-|                       | 1939-1945 💥 2. Weltkrieg                   |
+|                       | 1939-1945 💥 2. Weltkrieg mit ca. 60-80     |
+|                       | Millionen Toten                             |
 |                       | {`Wikipedia <Q                              |
 |                       | uellen/Wikipedia/Zweiter_Weltkrieg.pdf>`__} |
 +-----------------------+---------------------------------------------+
@@ -482,7 +488,7 @@ Chronik der Familie Fleschutz (1412-1942)
 |                       | ⚭Sigrun Friede \*01.04.1949 in Radolfzell   |
 +-----------------------+---------------------------------------------+
 
-.. _header-n382:
+.. _header-n376:
 
 Danksagung
 ----------
@@ -500,6 +506,9 @@ Vielen, vielen Dank an alle die bei dieser Chronik mitgeholfen haben:
 
 - An Andrea für das schwierige Entziffern der Handschriften.
 
-.. |image1| image:: C:\Repos\Chronik\Quellen\Fuerststift_Kempten\1791_Karte.jpg
+.. |image1| image:: C:\Repos\Chronik\Quellen\Allgaeuer_Geschichtsfreund\Bildausschnitt.jpg
 .. |image2| image:: C:\Repos\Chronik\Quellen\Fuerststift_Kempten\1791_Karte.jpg
-.. |image3| image:: C:\Repos\Chronik\Quellen\Fuerststift_Kempten\1791_Karte.jpg
+.. |image3| image:: C:\Repos\Chronik\Quellen\Allgaeuer_Geschichtsfreund\Bildausschnitt.jpg
+.. |image4| image:: C:\Repos\Chronik\Quellen\Fuerststift_Kempten\1791_Karte.jpg
+.. |image5| image:: C:\Repos\Chronik\Quellen\Allgaeuer_Geschichtsfreund\Bildausschnitt.jpg
+.. |image6| image:: C:\Repos\Chronik\Quellen\Fuerststift_Kempten\1791_Karte.jpg
