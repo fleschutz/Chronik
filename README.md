@@ -11,6 +11,7 @@ Chronik der Familie Fleschutz (1412-1942)
 | 1516      | Frevelgerichtsbarkeit zu Fleschützen {[Urkunde 2007](Quellen/Fuerststift_Kempten/Urkunde_2007/)} |
 | 1525      | 💥 Deutscher Bauernkrieg, 200 Allgäuer Höfe wurden in Brand gesteckt {[Wikipedia](Quellen/Wikipedia/Deutscher_Bauernkrieg.pdf)} |
 | 1530      | Georg Fleschutz (Hofmeister) kauft Wasserrecht zu Burkarts {[Urkunde 2546](Quellen/Fuerststift_Kempten/Urkunde_2546/)}, 1 Jahr später kauft er 2 Jauchert Acker {[Urkunde 2566](Quellen/Fuerststift_Kempten/Urkunde_2566/)}, 1540 kauft er ein Haus vom Konvent {[Urkunde 2915](Quellen/Fuerststift_Kempten/Urkunde_2915/)} und 1542 kauft er weitere 2 Häuser vom Konvent {[Urkunde 2984](Quellen/Fuerststift_Kempten/Urkunde_2984)} |
+| 1537      | ![Wappen](Quellen/Allgaeuer_Geschichtsfreund/Bildausschnitt.jpg) (Wappen aus {[Allgäuer Geschichtsfreund, Kempter Wappen und Zeichen](Quellen/Allgaeuer_Geschichtsfreund/Wappen.pdf)}) |
 | 1543      | Baltus Fleschutz, zum Weyler, genannt (bei den) Fleschutzen  |
 | 1544      | Georg Fleschutz, Hofmeister im Stift Kempten                 |
 | 1550      | Agatha Fleschutz verkauft ihr Gut zu Eschers (Untrasried) für 200 Gulden {[Urkunde 3316](Quellen/Fuerststift_Kempten/Urkunde_3316)} |
@@ -23,7 +24,7 @@ Chronik der Familie Fleschutz (1412-1942)
 | 1658      | Hans Georg Fleschutz verkauft Baind zu Dickenbühl {[Urkunde 5642](Quellen/Fuerststift_Kempten/Urkunde_5642/)}                            |
 | 1666      | Baltasar Fleschutz, Bauschreiber im Stift Kempten                                                                                        |
 | 1686      | Georg Fleschutz zu Haubensteig kauft Weiderecht im Stadtallmey {[Akte 1127](Quellen/Fuerststift_Kempten/Akte_1127/)}                     |
-| 1791      | ![Karte](Quellen/Fuerststift_Kempten/1791_Karte.jpg) (Karte von 1791 des Territoriums der Fürstabtei Kempten)                            |
+| 1791      | ![Karte](Quellen/Fuerststift_Kempten/1791_Karte.jpg) (Territorium der Fürstabtei Kempten von 1791)                                       |
 
 | Vorname(n)       | Ereignis                                                              |
 | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
