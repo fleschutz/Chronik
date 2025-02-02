@@ -120,10 +120,10 @@ Chronik der Familie Fleschutz (1412-1942)
 | Johann Georg     | *13.08.1906 in A. †09.05.1935 |
 | Theodor          | *10.12.1907 in A. 🔨Soldat †28.09.1942 bei Leningrad, Russland {[Sterbebild](Quellen/Sterbebilder/1907_Theodor.jpg)} |
 |                  |                                                   |
-|                  | 1914-1918 💥 1. Weltkrieg mit ca. 17 Millionen Toten {[Wikipedia](Quellen/Wikipedia/Erster_Weltkrieg.pdf)}          |
-|                  | 1939-1945 💥 2. Weltkrieg {[Wikipedia](Quellen/Wikipedia/Zweiter_Weltkrieg.pdf)}         |
-|                  |                                                   |
-|                  | **Johann & Sophie's Kinder:** (auf Hof in Albrechts 12 bei Günzach)                    |
+|                  | 1914-1918 💥 1. Weltkrieg mit ca. 17 Millionen Toten {[Wikipedia](Quellen/Wikipedia/Erster_Weltkrieg.pdf)}           |
+|                  | 1939-1945 💥 2. Weltkrieg mit ca. 60-80 Millionen Toten {[Wikipedia](Quellen/Wikipedia/Zweiter_Weltkrieg.pdf)}       |
+|                  |                                                                                                                      |
+|                  | **Johann & Sophie's Kinder:** (auf Hof in Albrechts 12 bei Günzach)                                                  |
 | Georg            | *21.01.1935 in A., †19.03.1935 mit nur 2 Monaten |
 | Amalie Maria Anna| *20.02.1936 in A.                                |
 | Apollonia Theresia| *29.05.1937 in A.                               |
