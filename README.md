@@ -93,18 +93,18 @@ Chronik der Familie Fleschutz (1412-1942)
 |                  |                             |
 |                  | **Johann Georg & Maurus & Kreszentia's Kinder:** (auf Hof in Waizenried 79 bei Untrasried, jetzt Schindele-Hof) {[Familienbuch](https://data.matricula-online.eu/de/deutschland/augsburg/untrasried/16-FB/?pg=99)}  |
 | Franz Xaver      | *03.02.1818 in W. †06.02.1818 mit nur 3 Tagen  |
-| Maria Anna       | *12.10.1819 in W. †14.07.1867 in Kraftisried? |
+| Maria Anna       | *12.10.1819 in W. †14.07.1867 in Kraftisried?  |
 | Karolina         | *16.03.1821 in W.                              |
 | Franz Xaver      | *13.05.1822 in W. †19.05.1822 mit nur 6 Tagen  |
 | Johann Georg     | *14.08.1823 in W. †24.04.1830                  |
 | Johann ?         | *02.08.1824 in W. †28.08.1824 mit nur 1 Monat  |
 | Ignaz            | *31.07.1825 in W. †17.09.1825 mit nur 46 Tagen |
-| M. Josefa        | *31.10.1826 in W. |
+| M. Josefa        | *31.10.1826 in W.                              |
 | Johannes Chrysostomus | *09.02.1828 in W. †1907 in Obg. ⚭24.11.1862 Maria Antonia Schindele (zog als Privatier nach Obg.) |
-| Johann L.        | *24.06.1829 in W. †02.03.1830 |
+| Johann L.        | *24.06.1829 in W. †02.03.1830                 |
 | **Theresia**     | *01.06.1831 in W. 🔨Privatiere †25.11.1901 in Ostenried 71 bei Untrasried {[Sterbebild](Quellen/Sterbebilder/1831_Theresia.jpg)} |
-| Theodor          | *20.10.1832 in W. †1915 in Albrechts |
-| Alois            | *24.03.1834 |
+| Theodor          | *20.10.1832 in W. †1915 in Albrechts          |
+| Alois            | *24.03.1834 in W.                             |
 | Johann Georg     | *19.11.1835 in W. †03.04.1880 in Ostenried 71 |
 | Johann Heinrich  | *27.04.1837 in W. ⚭21.2.1881 in Altdorf mit Maria Anna T. (2 Monate Hof, Trübsinn) |
 |                  |                             |
