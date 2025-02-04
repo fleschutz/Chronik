@@ -65,24 +65,24 @@ Chronik der Familie Fleschutz (1412-1942)
 | Dominik          | *1726 in B. {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/3-T/?pg=54)} |
 |                  |                                                                                  |
 |                  | **Josef & Anastasia's Kinder:** (auf Hof in Waizenried 79 bei Untrasried, jetzt Schindele-Hof) {[Familienbuch](https://data.matricula-online.eu/de/deutschland/augsburg/untrasried/16-FB/?pg=99)} |
-| Anna Barbara     | *23.03.1758 in W. ⚭23.05.1793 mit Prack  |
+| Anna Barbara     | *23.03.1758 in W. ⚭23.05.1793 mit Prack                                          |
 | Jakob            | *23.07.1760 in W., †01.08.1760 mit nur 9 Tagen                                   |
-| **Leonhard**     | *04.11.1761 in W. 🔨Bauer †09.03.1814 ⚭11.7.1785 Maria Adelheid Waldmann         |
+| **Leonhard**     | *04.11.1761 in W. 🔨Bauer †09.03.1814 ⚭11.7.1785 Maria Adelheid Waldmann        |
 | Dominik          | *08.10.1762 in W. +1762                                                          |
 | Maria Anna       | *18.07.1764 in W. ⚭04.02.1788 mit Stehele … nach Mittelberg                      |
 | Sabina           | *26.10.1765 in W. †04.01.1766 mit nur 2 Monaten                                  |
 | Jakob            | *06.07.1768 in W.                                                                |
 | Afra             | *06.08.1769 in W. †10.09.1769 mit nur 1 Monat                                    |
-| Theodor          | *08.11.1770                                                                      |
+| Theodor          | *08.11.1770 in W.                                                                |
 | Anna Maria       | *31.12.1772 in W. †18.08.1773 mit nur 7 Monaten                                  |
-| -                | '+23.10.1773 (notgetauft)                                                        |
+| -                | +23.10.1773 in W. (notgetauft)                                                   |
 | Josef            | *16.02.1775 in W. +09.03.1775 mit nur 21 Tagen                                   |
-| Franz Josef      | *14.02.1776                                                                      |
+| Franz Josef      | *14.02.1776 in W.                                                                |
 |                  |                                                                                  |
 |                  | **Leonhard & Maria's Kinder:** (auf Hof in Waizenried 79 bei Untrasried, jetzt Schindele-Hof) {[Familienbuch](https://data.matricula-online.eu/de/deutschland/augsburg/untrasried/16-FB/?pg=99)} |
 | Johann Georg     | *07.07.1786 in W., †13.07.1786  |
 | Anna Maria       | *29.08.1787 in W. †04.09.1787 mit nur 6 Tagen |
-| -                | +24.09.1788 (notgetauft)      |
+| -                | +24.09.1788 in W. (notgetauft)      |
 | Genovefa         | *03.01.1790 in W. †09.01.1790 mit nur 6 Tagen |
 | **Johann Georg** | *20.04.1791 in W. 🔨Bauer †06.06.1865 ⚭ Maurus ... ⚭ Kreszentia Reichart |
 | M. Afra          | *05.08.1794 in W. |
@@ -135,5 +135,6 @@ Herzlichen Dank an alle die bei dieser Chronik mitgeholfen haben:
 
 * An Karl Fleschutz und seinen Großvater für ihre Ahnenforschung und ihre Chronik der Familie Fleschutz in Burg.
 * An [Matricula Online](https://data.matricula-online.eu/de/), die die vielen Kirchenbücher in Europa eingescannt haben.
+* An das [Staatsarchiv in Augsburg](https://www.gda.bayern.de/augsburg) für die Einsichtnahme in die Urkunden und Akten.
 * An Bernhard für die Sterbebilder und an Jörg für den Hinweis zu Matricula Online.
 * An Andrea für das schwierige Entziffern der Handschriften.
