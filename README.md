@@ -135,6 +135,6 @@ Herzlichen Dank an alle die bei dieser Chronik mitgeholfen haben:
 
 * An Karl Fleschutz und seinen Großvater für ihre Ahnenforschung und ihre Chronik der Familie Fleschutz in Burg.
 * An [Matricula Online](https://data.matricula-online.eu/de/), die die vielen Kirchenbücher in Europa eingescannt haben.
-* An das [Staatsarchiv in Augsburg](https://www.gda.bayern.de/augsburg) für die Einsichtnahme in die Urkunden und Akten.
+* An das [Staatsarchiv Augsburg](https://www.gda.bayern.de/augsburg) für die Einsichtnahme in die Urkunden und Akten.
 * An Bernhard für die Sterbebilder und an Jörg für den Hinweis zu Matricula Online.
 * An Andrea für das schwierige Entziffern der Handschriften.
