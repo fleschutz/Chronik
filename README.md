@@ -129,6 +129,12 @@ Chronik der Familie Fleschutz (1412-1942)
 | Johann           | *05.12.1938 in A. 🔨Bauer ⚭Rosmarie Höbel *18.12.1947 |
 | Theodor Konrad   | *12.11.1942 in A. 🔨Molkerei-Meister ⚭Sigrun Friede *01.04.1949 in Radolfzell |
 
+Hinweise
+--------
+* Die Kirchenbücher in Haldenwang beginnen ab dem Jahr 1639.
+* "Federspiel" bedeutete früher: Falkenjagd, "in den Hölzern" bedeutete "im (Forst-)Wald".
+  
+
 Danksagung
 ----------
 Herzlichen Dank an alle die bei dieser Chronik mitgeholfen haben:
