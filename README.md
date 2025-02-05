@@ -17,7 +17,7 @@ Chronik der Familie Fleschutz (1412-1942)
 | 1550-1743 | Güter und Untertanen zu Fleschützen {[Akte 1913](Quellen/Fuerststift_Kempten/Akte_1913)} |
 | 1554      | Georg Fleschutz (in Schwarzen) wegen verliehener Wirtschaftsgerechtsame {[Urkunde 3495](Quellen/Fuerststift_Kempten/Urkunde_3495/)} und {[Urkunde 3499](Quellen/Fuerststift_Kempten/Urkunde_3499)} |
 | 1564      | Baltasar Fleschutz (Scholare) will Priester werden           |
-| 1565      | Christoph Fleschutz kauft ein Haus mit Taferngerechtigkeit {[Urkunde 3800](Quellen/Fuerststift_Kempten/Urkunde_3800)} |
+| 1565      | Christoph Fleschutz kauft eine Gaststätte {[Urkunde 3800](Quellen/Fuerststift_Kempten/Urkunde_3800)} |
 | 1565      | Balthus Fleschutz zu Fleschützen bekommt Zinsbrief von Lukas Haini zu Bachtels {[Urkunde 3778](Quellen/Fuerststift_Kempten/Urkunde_3778)} |
 | 1618-1648 | 💥 Dreißigjähriger Krieg, dadurch Hungersnöte und Seuchen. In Teilen Süddeutschlands überlebte nur ein Drittel der Bevölkerung {[Wikipedia](Quellen/Wikipedia/Dreissigjaehriger_Krieg.pdf)} |
 | 1658      | Hans Georg Fleschutz verkauft Baind zu Dickenbühl {[Urkunde 5642](Quellen/Fuerststift_Kempten/Urkunde_5642/)}                            |
@@ -132,7 +132,7 @@ Chronik der Familie Fleschutz (1412-1942)
 Hinweise
 --------
 * Die Kirchenbücher in Haldenwang beginnen ab dem Jahr 1639.
-* "Federspiel" bedeutete früher: Falkenjagd, "in den Hölzern" bedeutete: im (Forst-)Wald.
+* "Haus mit Taferngerechtigkeit" bedeutete früher: Gaststätte, "Federspiel" bedeutete: Falkenjagd, "in den Hölzern" bedeutete: im (Forst-)Wald.
   
 
 Danksagung
