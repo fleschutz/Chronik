@@ -132,7 +132,7 @@ Chronik der Familie Fleschutz (1412-1942)
 Hinweise
 --------
 * Die Kirchenbücher in Haldenwang beginnen ab dem Jahr 1639.
-* "Federspiel" bedeutete früher: Falkenjagd, "in den Hölzern" bedeutete "im (Forst-)Wald".
+* "Federspiel" bedeutete früher: Falkenjagd, "in den Hölzern" bedeutete: im (Forst-)Wald.
   
 
 Danksagung
