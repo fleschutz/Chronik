@@ -134,7 +134,7 @@ Hinweise
 * Die Kirchenbücher in Haldenwang beginnen ab dem Jahr 1639.
 * *"Haus mit Taferngerechtigkeit"* bedeutete früher: Gaststätte, *"Federspiel"* bedeutete: Falkenjagd, *"in den Hölzern"* bedeutete: im (Forst-)Wald, *"Frevel"* bedeutete: leichteres Vergehen.
 * Die Handschriften sind entweder in [Sütterlinschrift](Quellen/Wikipedia/Suetterlinschrift.pdf) oder in [Deutsche Kurrentschrift](Quellen/Wikipedia/Deutsche_Kurrentschrift.pdf).
-* Die Chronik ist auch verfügbar im Dateiformat: [.DOCX](Export/Chronik.docx), [.EPUB (für E-Books)](Export/Chronik.epub),  [.HTML](Export/Chronik.html), [.ODT](Export/Chronik.odt), [.OPML](Export/Chronik.opml), [.PDF](Export/Chronik.pdf), [.RST](Export/Chronik.rst), [.RTF](Export/Chronik.rtf), [.TEX](Export/Chronik.tex), [.TEXTILE](Export/Chronik.textile), sowie [.WIKI](Export/Chronik.wiki). 
+* Diese Chronik ist auch verfügbar im Format: [.DOCX](Export/Chronik.docx), [.EPUB (für E-Books)](Export/Chronik.epub),  [.HTML](Export/Chronik.html), [.ODT](Export/Chronik.odt), [.OPML](Export/Chronik.opml), [.PDF](Export/Chronik.pdf), [.RST](Export/Chronik.rst), [.RTF](Export/Chronik.rtf), [.TEX](Export/Chronik.tex), [.TEXTILE](Export/Chronik.textile), [.WIKI](Export/Chronik.wiki). 
   
 
 Danksagung
