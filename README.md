@@ -79,7 +79,7 @@ Chronik der Familie Fleschutz (1412-1942)
 | Josef            | *16.02.1775 in W. +09.03.1775 mit nur 21 Tagen                                   |
 | Franz Josef      | *14.02.1776 in W.                                                                |
 |                  |                                                                                  |
-|                  | **Leonhard & Maria's Kinder:** (auf Hof in Waizenried 79 bei Untrasried, jetzt Schindele-Hof) {[Familienbuch](https://data.matricula-online.eu/de/deutschland/augsburg/untrasried/16-FB/?pg=99)} |
+|                  | **Leonhard & Maria Adelheid's Kinder:** (auf Hof in Waizenried 79 bei Untrasried, jetzt Schindele-Hof) {[Familienbuch](https://data.matricula-online.eu/de/deutschland/augsburg/untrasried/16-FB/?pg=99)} |
 | Johann Georg     | *07.07.1786 in W., †13.07.1786  |
 | Anna Maria       | *29.08.1787 in W. †04.09.1787 mit nur 6 Tagen |
 | -                | +24.09.1788 in W. (notgetauft)      |
