@@ -1,7 +1,7 @@
 Chronik der Familie Fleschutz (1412-1942)
 =========================================
 
-**Legende:** * = Geburt, ⚭ = Hochzeit, † = Tod, 🔨 = Beruf, 💥 = Krieg, {} = Quelle, weitere Hinweise unten am Seitenende. 
+**Legende:** * = Geburt, ⚭ = Hochzeit, † = Tod, 🔨 = Beruf, 💥 = Krieg, {} = Quelle (mehr Hinweise unten am Seitenende). 
 
 | Jahr      | Ereignis                                                     |
 | --------- | ------------------------------------------------------------ |
