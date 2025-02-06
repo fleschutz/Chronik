@@ -132,7 +132,7 @@ Chronik der Familie Fleschutz (1412-1942)
 Hinweise
 --------
 * Die Kirchenbücher in Haldenwang beginnen ab dem Jahr 1639.
-* *"Haus mit Taferngerechtigkeit"* bedeutete früher: Gaststätte, *"Federspiel"* bedeutete: Falkenjagd, *"in den Hölzern"* bedeutete: im (Forst-)Wald, *"Frevel"* bedeutete: leichteres Vergehen.
+* *"Haus mit Taferngerechtigkeit"* bedeutete früher: Gaststätte, *"Federspiel"* = Falkenjagd, *"in den Hölzern"* = im (Forst-)Wald, *"Frevel"* = leichteres Vergehen, *"Privatiere"* = wohlhabende Frau ohne Erwerbstätigkeit.
 * Die Handschriften sind entweder in [Sütterlinschrift](Quellen/Wikipedia/Suetterlinschrift.pdf) oder in [Deutsche Kurrentschrift](Quellen/Wikipedia/Deutsche_Kurrentschrift.pdf).
 * Diese Chronik ist auch verfügbar im Format: [.DOCX](Export/Chronik.docx), [.EPUB (für E-Books)](Export/Chronik.epub),  [.HTML](Export/Chronik.html), [.ODT](Export/Chronik.odt), [.OPML](Export/Chronik.opml), [.PDF](Export/Chronik.pdf), [.RST](Export/Chronik.rst), [.RTF](Export/Chronik.rtf), [.TEX](Export/Chronik.tex), [.TEXTILE](Export/Chronik.textile), [.WIKI](Export/Chronik.wiki). 
   
