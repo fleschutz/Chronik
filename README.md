@@ -135,15 +135,17 @@ Hinweise
 * *"Haus mit Taferngerechtigkeit"* bedeutete früher: Gaststätte, *"Federspiel"* = Falkenjagd, *"in den Hölzern"* = im (Forst-)Wald, *"Frevel"* = leichteres Vergehen, *"Privatiere"* = wohlhabende Frau ohne Erwerbstätigkeit, *"Flaschner"* = Blechschmied.
 * Die Handschriften sind entweder in [Sütterlinschrift](Quellen/Wikipedia/Suetterlinschrift.pdf) oder in [Deutsche Kurrentschrift](Quellen/Wikipedia/Deutsche_Kurrentschrift.pdf).
 * Diese Chronik ist auch verfügbar im Format: [.DOCX](Export/Chronik.docx), [.EPUB (für E-Books)](Export/Chronik.epub),  [.HTML](Export/Chronik.html), [.ODT](Export/Chronik.odt), [.OPML](Export/Chronik.opml), [.PDF](Export/Chronik.pdf), [.RST](Export/Chronik.rst), [.RTF](Export/Chronik.rtf), [.TEX](Export/Chronik.tex), [.TEXTILE](Export/Chronik.textile), [.WIKI](Export/Chronik.wiki).
-* Zur Namensentstehung: im Brief von 1412 nennt sich Utz Brästel selbst: "fläsch ützen" (mit Leerzeichen, wahrscheinlich Kurzform von: Flaschner Utz). Es gab wohl mehrere Utz Brästel im selben Ort (Vater/Großvater/Onkel). In der Urkunde wird daraus: "fläschüzen" (ohne Leerzeichen).
+* Zur Namensentstehung: im Brief von 1412 nennt sich Utz Brästel selbst: "fläsch ützen" (mit Leerzeichen, wahrscheinlich Kurzform von: Flaschner Utz, siehe auch Wappen mit Flasche). Grund dafür waren wohl mehrere Utz Brästel im selben Ort (Vater/Großvater/Onkel/Cousin?). In der darauffolgenden (Kauf-)Urkunde wird daraus: "fläschüzen" (ohne Leerzeichen, ohne T).
   
 
-Danksagung
-----------
+👏 Danksagung
+--------------
 Herzlichen Dank an alle die bei dieser Chronik mitgeholfen haben:
 
 * An Karl Fleschutz und seinen Großvater für ihre Ahnenforschung und ihre Chronik der Familie Fleschutz in Burg.
-* An [Matricula Online](https://data.matricula-online.eu/de/), die die vielen Kirchenbücher in Europa eingescannt haben.
+* An [Matricula Online](https://data.matricula-online.eu/de/) für das Einscannen der vielen Kirchenbücher in Europa.
 * Ans [Staatsarchiv Augsburg](https://www.gda.bayern.de/augsburg) für die Einsichtnahme in die Urkunden und Akten.
+* An [Transkribus](https://www.transkribus.org/de/kurrentschrift-uebersetzen) für die maschinelle Schriftübersetzung.
 * An Bernhard für die Sterbebilder und an Jörg für den Hinweis zu Matricula Online.
 * An Andrea für das schwierige Entziffern der Handschriften.
+* Und natürlich an Manuel der für ein Schulprojekt den (Chronik-)Stein ins Rollen brachte 😉
