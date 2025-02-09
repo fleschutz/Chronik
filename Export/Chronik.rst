@@ -4,14 +4,7 @@ Chronik der Familie Fleschutz (1412-1942)
 =========================================
 
 **Legende:** \* = Geburt, ⚭ = Hochzeit, † = Tod, 🔨 = Beruf, 💥 = Krieg,
-{} = Quelle. Die Chronik ist auch verfügbar im Format:
-`.DOCX <Export/Chronik.docx>`__, `.EPUB (für
-E-Books) <Export/Chronik.epub>`__, `.HTML <Export/Chronik.html>`__,
-`.ODT <Export/Chronik.odt>`__, `.OPML <Export/Chronik.opml>`__,
-`.PDF <Export/Chronik.pdf>`__, `.RST <Export/Chronik.rst>`__,
-`.RTF <Export/Chronik.rtf>`__, `.TEX <Export/Chronik.tex>`__,
-`.TEXTILE <Export/Chronik.textile>`__, sowie
-`.WIKI <Export/Chronik.wiki>`__.
+{} = Quelle (mehr Hinweise: siehe unten).
 
 +-----------+---------------------------------------------------------+
 | Jahr      | Ereignis                                                |
@@ -70,8 +63,7 @@ E-Books) <Export/Chronik.epub>`__, `.HTML <Export/Chronik.html>`__,
 +-----------+---------------------------------------------------------+
 | 1564      | Baltasar Fleschutz (Scholare) will Priester werden      |
 +-----------+---------------------------------------------------------+
-| 1565      | Christoph Fleschutz kauft ein Haus mit                  |
-|           | Taferngerechtigkeit {`Urkunde                           |
+| 1565      | Christoph Fleschutz kauft eine Gaststätte {`Urkunde     |
 |           | 3800 <Quellen/Fuerststift_Kempten/Urkunde_3800>`__}     |
 +-----------+---------------------------------------------------------+
 | 1565      | Balthus Fleschutz zu Fleschützen bekommt Zinsbrief von  |
@@ -311,23 +303,23 @@ E-Books) <Export/Chronik.epub>`__, `.HTML <Export/Chronik.html>`__,
 | Afra                  | \*06.08.1769 in W. †10.09.1769 mit nur 1    |
 |                       | Monat                                       |
 +-----------------------+---------------------------------------------+
-| Theodor               | \*08.11.1770                                |
+| Theodor               | \*08.11.1770 in W.                          |
 +-----------------------+---------------------------------------------+
 | Anna Maria            | \*31.12.1772 in W. †18.08.1773 mit nur 7    |
 |                       | Monaten                                     |
 +-----------------------+---------------------------------------------+
-| -                     | '+23.10.1773 (notgetauft)                   |
+| -                     | +23.10.1773 in W. (notgetauft)              |
 +-----------------------+---------------------------------------------+
 | Josef                 | \*16.02.1775 in W. +09.03.1775 mit nur 21   |
 |                       | Tagen                                       |
 +-----------------------+---------------------------------------------+
-| Franz Josef           | \*14.02.1776                                |
+| Franz Josef           | \*14.02.1776 in W.                          |
 +-----------------------+---------------------------------------------+
 |                       |                                             |
 +-----------------------+---------------------------------------------+
-|                       | **Leonhard & Maria's Kinder:** (auf Hof in  |
-|                       | Waizenried 79 bei Untrasried, jetzt         |
-|                       | Schindele-Hof)                              |
+|                       | **Leonhard & Maria Adelheid's Kinder:**     |
+|                       | (auf Hof in Waizenried 79 bei Untrasried,   |
+|                       | jetzt Schindele-Hof)                        |
 |                       | {`Familienbuch                              |
 |                       | <https://data.matricula-online.eu/de/deutsc |
 |                       | hland/augsburg/untrasried/16-FB/?pg=99>`__} |
@@ -337,7 +329,7 @@ E-Books) <Export/Chronik.epub>`__, `.HTML <Export/Chronik.html>`__,
 | Anna Maria            | \*29.08.1787 in W. †04.09.1787 mit nur 6    |
 |                       | Tagen                                       |
 +-----------------------+---------------------------------------------+
-| -                     | +24.09.1788 (notgetauft)                    |
+| -                     | +24.09.1788 in W. (notgetauft)              |
 +-----------------------+---------------------------------------------+
 | Genovefa              | \*03.01.1790 in W. †09.01.1790 mit nur 6    |
 |                       | Tagen                                       |
@@ -402,7 +394,7 @@ E-Books) <Export/Chronik.epub>`__, `.HTML <Export/Chronik.html>`__,
 +-----------------------+---------------------------------------------+
 | Theodor               | \*20.10.1832 in W. †1915 in Albrechts       |
 +-----------------------+---------------------------------------------+
-| Alois                 | \*24.03.1834                                |
+| Alois                 | \*24.03.1834 in W.                          |
 +-----------------------+---------------------------------------------+
 | Johann Georg          | \*19.11.1835 in W. †03.04.1880 in Ostenried |
 |                       | 71                                          |
@@ -488,21 +480,66 @@ E-Books) <Export/Chronik.epub>`__, `.HTML <Export/Chronik.html>`__,
 
 .. _header-n373:
 
-Danksagung
-----------
+Hinweise
+--------
+
+- Zur Namensentstehung: im Brief von 1412 nennt sich Utz Brästel selbst:
+  "fläsch ützen" (mit Leerzeichen, vmtl. Kurzform von: Flaschner Utz,
+  siehe auch Wappen mit Flasche). Grund dafür waren wohl mehrere Utz
+  Brästel im selben Ort (Vater/Großvater/Onkel/Cousin?). In der
+  darauffolgenden (Kauf-)Urkunde wird daraus: "fläschüzen" (ohne
+  Leerzeichen, ohne T).
+
+- Die Kirchenbücher in Haldenwang beginnen ab dem Jahr 1639.
+
+- *"Haus mit Taferngerechtigkeit"* bedeutete früher: Gaststätte,
+  *"Federspiel"* = Falkenjagd, *"in den Hölzern"* = im (Forst-)Wald,
+  *"Frevel"* = leichteres Vergehen, *"Privatiere"* = wohlhabende Frau
+  ohne Erwerbstätigkeit, *"Flaschner"* = Blechschmied.
+
+- Die Handschriften sind entweder in
+  `Sütterlinschrift <Quellen/Wikipedia/Suetterlinschrift.pdf>`__ oder in
+  `Deutsche
+  Kurrentschrift <Quellen/Wikipedia/Deutsche_Kurrentschrift.pdf>`__.
+
+- Diese Chronik ist auch verfügbar im Format:
+  `.DOCX <Export/Chronik.docx>`__, `.EPUB (für
+  E-Books) <Export/Chronik.epub>`__, `.HTML <Export/Chronik.html>`__,
+  `.ODT <Export/Chronik.odt>`__, `.OPML <Export/Chronik.opml>`__,
+  `.PDF <Export/Chronik.pdf>`__, `.RST <Export/Chronik.rst>`__,
+  `.RTF <Export/Chronik.rtf>`__, `.TEX <Export/Chronik.tex>`__,
+  `.TEXTILE <Export/Chronik.textile>`__,
+  `.WIKI <Export/Chronik.wiki>`__.
+
+- Stand: 9. Februar 2025
+
+.. _header-n388:
+
+👏 Danksagung
+-------------
 
 Herzlichen Dank an alle die bei dieser Chronik mitgeholfen haben:
 
 - An Karl Fleschutz und seinen Großvater für ihre Ahnenforschung und
   ihre Chronik der Familie Fleschutz in Burg.
 
-- An `Matricula Online <https://data.matricula-online.eu/de/>`__, die
-  die vielen Kirchenbücher in Europa eingescannt haben.
+- An `Matricula Online <https://data.matricula-online.eu/de/>`__ für das
+  Einscannen der vielen Kirchenbücher in Europa.
+
+- Ans `Staatsarchiv Augsburg <https://www.gda.bayern.de/augsburg>`__ für
+  die Einsichtnahme in die Urkunden und Akten.
+
+- An
+  `Transkribus <https://www.transkribus.org/de/kurrentschrift-uebersetzen>`__
+  für die maschinelle Schriftübersetzung.
 
 - An Bernhard für die Sterbebilder und an Jörg für den Hinweis zu
   Matricula Online.
 
 - An Andrea für das schwierige Entziffern der Handschriften.
+
+- Und natürlich an Manuel der für ein Schulprojekt den (Chronik-)Stein
+  ins Rollen brachte 😊
 
 .. |image1| image:: C:\Repos\Chronik\Quellen\Allgaeuer_Geschichtsfreund\Bildausschnitt.jpg
 .. |image2| image:: C:\Repos\Chronik\Quellen\Fuerststift_Kempten\1791_Karte.jpg

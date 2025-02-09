@@ -1,6 +1,6 @@
 h1. Chronik der Familie Fleschutz (1412&#45;1942)
 
-*Legende:* &#42; = Geburt, ⚭ = Hochzeit, † = Tod, 🔨 = Beruf, 💥 = Krieg, {} = Quelle. Die Chronik ist auch verfügbar im Format: ".DOCX":Export/Chronik.docx, ".EPUB (für E&#45;Books)":Export/Chronik.epub, ".HTML":Export/Chronik.html, ".ODT":Export/Chronik.odt, ".OPML":Export/Chronik.opml, ".PDF":Export/Chronik.pdf, ".RST":Export/Chronik.rst, ".RTF":Export/Chronik.rtf, ".TEX":Export/Chronik.tex, ".TEXTILE":Export/Chronik.textile, sowie ".WIKI":Export/Chronik.wiki. 
+*Legende:* &#42; = Geburt, ⚭ = Hochzeit, † = Tod, 🔨 = Beruf, 💥 = Krieg, {} = Quelle (mehr Hinweise: siehe unten). 
 
 |_. Jahr|_. Ereignis|
 |1412|Utz Brästel genannt Fläschuz, kauft die Güter zu &quot;Wyler&quot; und &quot;Mätzlins&quot; (jetzt Fleschützen bei Börwang) vom Fürststift Kempten {"Brief &amp; Urkunde 263":Quellen/Fuerststift_Kempten/Urkunde_263/} (erste urkundliche Erwähnung)|
@@ -15,7 +15,7 @@ h1. Chronik der Familie Fleschutz (1412&#45;1942)
 |1550&#45;1743|Güter und Untertanen zu Fleschützen {"Akte 1913":Quellen/Fuerststift_Kempten/Akte_1913}|
 |1554|Georg Fleschutz (in Schwarzen) wegen verliehener Wirtschaftsgerechtsame {"Urkunde 3495":Quellen/Fuerststift_Kempten/Urkunde_3495/} und {"Urkunde 3499":Quellen/Fuerststift_Kempten/Urkunde_3499}|
 |1564|Baltasar Fleschutz (Scholare) will Priester werden|
-|1565|Christoph Fleschutz kauft ein Haus mit Taferngerechtigkeit {"Urkunde 3800":Quellen/Fuerststift_Kempten/Urkunde_3800}|
+|1565|Christoph Fleschutz kauft eine Gaststätte {"Urkunde 3800":Quellen/Fuerststift_Kempten/Urkunde_3800}|
 |1565|Balthus Fleschutz zu Fleschützen bekommt Zinsbrief von Lukas Haini zu Bachtels {"Urkunde 3778":Quellen/Fuerststift_Kempten/Urkunde_3778}|
 |1618&#45;1648|💥 Dreißigjähriger Krieg, dadurch Hungersnöte und Seuchen. In Teilen Süddeutschlands überlebte nur ein Drittel der Bevölkerung {"Wikipedia":Quellen/Wikipedia/Dreissigjaehriger_Krieg.pdf}|
 |1658|Hans Georg Fleschutz verkauft Baind zu Dickenbühl {"Urkunde 5642":Quellen/Fuerststift_Kempten/Urkunde_5642/}|
@@ -70,16 +70,16 @@ h1. Chronik der Familie Fleschutz (1412&#45;1942)
 |Sabina|&#42;26.10.1765 in W. †04.01.1766 mit nur 2 Monaten|
 |Jakob|&#42;06.07.1768 in W.|
 |Afra|&#42;06.08.1769 in W. †10.09.1769 mit nur 1 Monat|
-|Theodor|&#42;08.11.1770|
+|Theodor|&#42;08.11.1770 in W.|
 |Anna Maria|&#42;31.12.1772 in W. †18.08.1773 mit nur 7 Monaten|
-|&#45;|'&#43;23.10.1773 (notgetauft)|
+|&#45;|&#43;23.10.1773 in W. (notgetauft)|
 |Josef|&#42;16.02.1775 in W. &#43;09.03.1775 mit nur 21 Tagen|
-|Franz Josef|&#42;14.02.1776|
+|Franz Josef|&#42;14.02.1776 in W.|
 |||
-||*Leonhard &amp; Maria's Kinder:* (auf Hof in Waizenried 79 bei Untrasried, jetzt Schindele&#45;Hof) {"Familienbuch":https://data.matricula-online.eu/de/deutschland/augsburg/untrasried/16-FB/?pg=99}|
+||*Leonhard &amp; Maria Adelheid's Kinder:* (auf Hof in Waizenried 79 bei Untrasried, jetzt Schindele&#45;Hof) {"Familienbuch":https://data.matricula-online.eu/de/deutschland/augsburg/untrasried/16-FB/?pg=99}|
 |Johann Georg|&#42;07.07.1786 in W., †13.07.1786|
 |Anna Maria|&#42;29.08.1787 in W. †04.09.1787 mit nur 6 Tagen|
-|&#45;|&#43;24.09.1788 (notgetauft)|
+|&#45;|&#43;24.09.1788 in W. (notgetauft)|
 |Genovefa|&#42;03.01.1790 in W. †09.01.1790 mit nur 6 Tagen|
 |*Johann Georg*|&#42;20.04.1791 in W. 🔨Bauer †06.06.1865 ⚭ Maurus ... ⚭ Kreszentia Reichart|
 |M. Afra|&#42;05.08.1794 in W.|
@@ -101,7 +101,7 @@ h1. Chronik der Familie Fleschutz (1412&#45;1942)
 |Johann L.|&#42;24.06.1829 in W. †02.03.1830|
 |*Theresia*|&#42;01.06.1831 in W. 🔨Privatiere †25.11.1901 in Ostenried 71 bei Untrasried {"Sterbebild":Quellen/Sterbebilder/1831_Theresia.jpg}|
 |Theodor|&#42;20.10.1832 in W. †1915 in Albrechts|
-|Alois|&#42;24.03.1834|
+|Alois|&#42;24.03.1834 in W.|
 |Johann Georg|&#42;19.11.1835 in W. †03.04.1880 in Ostenried 71|
 |Johann Heinrich|&#42;27.04.1837 in W. ⚭21.2.1881 in Altdorf mit Maria Anna T. (2 Monate Hof, Trübsinn)|
 |||
@@ -126,11 +126,23 @@ h1. Chronik der Familie Fleschutz (1412&#45;1942)
 |Johann|&#42;05.12.1938 in A. 🔨Bauer ⚭Rosmarie Höbel &#42;18.12.1947|
 |Theodor Konrad|&#42;12.11.1942 in A. 🔨Molkerei&#45;Meister ⚭Sigrun Friede &#42;01.04.1949 in Radolfzell|
 
-h2. Danksagung
+h2. Hinweise
+
+* Zur Namensentstehung: im Brief von 1412 nennt sich Utz Brästel selbst: &quot;fläsch ützen&quot; (mit Leerzeichen, vmtl. Kurzform von: Flaschner Utz, siehe auch Wappen mit Flasche). Grund dafür waren wohl mehrere Utz Brästel im selben Ort (Vater/Großvater/Onkel/Cousin?). In der darauffolgenden (Kauf&#45;)Urkunde wird daraus: &quot;fläschüzen&quot; (ohne Leerzeichen, ohne T).
+* Die Kirchenbücher in Haldenwang beginnen ab dem Jahr 1639.
+* _&quot;Haus mit Taferngerechtigkeit&quot;_ bedeutete früher: Gaststätte, _&quot;Federspiel&quot;_ = Falkenjagd, _&quot;in den Hölzern&quot;_ = im (Forst&#45;)Wald, _&quot;Frevel&quot;_ = leichteres Vergehen, _&quot;Privatiere&quot;_ = wohlhabende Frau ohne Erwerbstätigkeit, _&quot;Flaschner&quot;_ = Blechschmied.
+* Die Handschriften sind entweder in "Sütterlinschrift":Quellen/Wikipedia/Suetterlinschrift.pdf oder in "Deutsche Kurrentschrift":Quellen/Wikipedia/Deutsche_Kurrentschrift.pdf.
+* Diese Chronik ist auch verfügbar im Format: ".DOCX":Export/Chronik.docx, ".EPUB (für E&#45;Books)":Export/Chronik.epub, ".HTML":Export/Chronik.html, ".ODT":Export/Chronik.odt, ".OPML":Export/Chronik.opml, ".PDF":Export/Chronik.pdf, ".RST":Export/Chronik.rst, ".RTF":Export/Chronik.rtf, ".TEX":Export/Chronik.tex, ".TEXTILE":Export/Chronik.textile, ".WIKI":Export/Chronik.wiki.
+* Stand: 9. Februar 2025
+
+h2. 👏 Danksagung
 
 Herzlichen Dank an alle die bei dieser Chronik mitgeholfen haben:
 
 * An Karl Fleschutz und seinen Großvater für ihre Ahnenforschung und ihre Chronik der Familie Fleschutz in Burg.
-* An "Matricula Online":https://data.matricula-online.eu/de/, die die vielen Kirchenbücher in Europa eingescannt haben.
+* An "Matricula Online":https://data.matricula-online.eu/de/ für das Einscannen der vielen Kirchenbücher in Europa.
+* Ans "Staatsarchiv Augsburg":https://www.gda.bayern.de/augsburg für die Einsichtnahme in die Urkunden und Akten.
+* An "Transkribus":https://www.transkribus.org/de/kurrentschrift-uebersetzen für die maschinelle Schriftübersetzung.
 * An Bernhard für die Sterbebilder und an Jörg für den Hinweis zu Matricula Online.
 * An Andrea für das schwierige Entziffern der Handschriften.
+* Und natürlich an Manuel der für ein Schulprojekt den (Chronik&#45;)Stein ins Rollen brachte 😊
