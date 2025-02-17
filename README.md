@@ -149,4 +149,4 @@ Herzlichen Dank an alle die bei dieser Chronik mitgeholfen haben:
 * An [Transkribus](https://www.transkribus.org/de/kurrentschrift-uebersetzen) für die maschinelle Schriftübersetzung.
 * An Bernhard für die Sterbebilder und an Jörg für den Hinweis zu Matricula Online.
 * An Andrea für das schwierige Entziffern der Handschriften.
-* Und natürlich an Manuel der für ein Schulprojekt den (Chronik-)Stein ins Rollen brachte 😊
+* Und natürlich an Manuel, der für ein Schulprojekt den (Chronik-)Stein ins Rollen brachte 😊
