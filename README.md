@@ -29,7 +29,7 @@ Chronik der Familie Fleschutz (1412-1942)
 | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
 | **Baltasar**     | †1646 ⚭Ursula Schneider {[Sterberegister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-S/?pg=1)} (vermutlich verwandt) |
 |                  |                                                                                                                                    |
-| **Georg**        | 🔨Hauptmann und Wirt ⚭1649 Sabina Brenberg(+1652) ⚭1654 Maria Heslin in Börwang {[Sterberegister Sabina](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-S/?pg=9)} {[Hochzeitsregister mit Maria](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-H/?pg=11)} (vermutlich verwandt)  |
+| **Georg**        | 🛠Hauptmann und Wirt ⚭1649 Sabina Brenberg(+1652) ⚭1654 Maria Heslin in Börwang {[Sterberegister Sabina](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-S/?pg=9)} {[Hochzeitsregister mit Maria](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-H/?pg=11)} (vermutlich verwandt)  |
 |                  |                                                                                                                                    |
 |                  | **Georg & Sabina & Maria's Kinder:** (in Börwang bei Haldenwang)  |
 | **Johann Georg** | ⚭1663 Maria Briechler in B. {[Hochzeitsregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-H/?pg=19)} |
@@ -61,13 +61,13 @@ Chronik der Familie Fleschutz (1412-1942)
 | Anna Maria       | *1719 in B. {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/3-T/?pg=36)} |
 | Ferdinand        | *1721 in B. {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/3-T/?pg=42)} |
 | Johannes?        | *1723 in B. {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/3-T/?pg=45)} |
-| **Josef**        | *1725 in B. 🔨Bauer +06.04.1773 an böses Fieber in Waizenried bei Untrasried ⚭11.08.1757 Anastasia Trunzer in Untrasried {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/3-T/?pg=50)} |
+| **Josef**        | *1725 in B. 🛠Bauer +06.04.1773 an böses Fieber in Waizenried bei Untrasried ⚭11.08.1757 Anastasia Trunzer in Untrasried {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/3-T/?pg=50)} |
 | Dominik          | *1726 in B. {[Taufregister](https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/3-T/?pg=54)} |
 |                  |                                                                                  |
 |                  | **Josef & Anastasia's Kinder:** (auf Hof in Waizenried 79 bei Untrasried, jetzt Schindele-Hof) {[Familienbuch](https://data.matricula-online.eu/de/deutschland/augsburg/untrasried/16-FB/?pg=99)} |
 | Anna Barbara     | *23.03.1758 in W. ⚭23.05.1793 mit Prack                                          |
 | Jakob            | *23.07.1760 in W., †01.08.1760 mit nur 9 Tagen                                   |
-| **Leonhard**     | *04.11.1761 in W. 🔨Bauer †09.03.1814 ⚭11.7.1785 Maria Adelheid Waldmann        |
+| **Leonhard**     | *04.11.1761 in W. 🛠Bauer †09.03.1814 ⚭11.7.1785 Maria Adelheid Waldmann         |
 | Dominik          | *08.10.1762 in W. +1762                                                          |
 | Maria Anna       | *18.07.1764 in W. ⚭04.02.1788 mit Stehele … nach Mittelberg                      |
 | Sabina           | *26.10.1765 in W. †04.01.1766 mit nur 2 Monaten                                  |
@@ -84,7 +84,7 @@ Chronik der Familie Fleschutz (1412-1942)
 | Anna Maria       | *29.08.1787 in W. †04.09.1787 mit nur 6 Tagen |
 | -                | +24.09.1788 in W. (notgetauft)      |
 | Genovefa         | *03.01.1790 in W. †09.01.1790 mit nur 6 Tagen |
-| **Johann Georg** | *20.04.1791 in W. 🔨Bauer †06.06.1865 ⚭ Maurus ... ⚭ Kreszentia Reichart |
+| **Johann Georg** | *20.04.1791 in W. 🛠Bauer †06.06.1865 ⚭ Maurus ... ⚭ Kreszentia Reichart |
 | M. Afra          | *05.08.1794 in W. |
 | Ulrich           | *04.07.1796 in W. †17.09.1861 in Burg ⚭Creszentia Hartmann, *25.12.1791 |
 | Franziska        | *03.10.1797 in W. |
@@ -102,7 +102,7 @@ Chronik der Familie Fleschutz (1412-1942)
 | M. Josefa        | *31.10.1826 in W.                              |
 | Johannes Chrysostomus | *09.02.1828 in W. †1907 in Obg. ⚭24.11.1862 Maria Antonia Schindele (zog als Privatier nach Obg.) |
 | Johann L.        | *24.06.1829 in W. †02.03.1830                 |
-| **Theresia**     | *01.06.1831 in W. 🔨Privatiere †25.11.1901 in Ostenried 71 bei Untrasried {[Sterbebild](Quellen/Sterbebilder/1831_Theresia.jpg)} |
+| **Theresia**     | *01.06.1831 in W. 🛠Privatiere †25.11.1901 in Ostenried 71 bei Untrasried {[Sterbebild](Quellen/Sterbebilder/1831_Theresia.jpg)} |
 | Theodor          | *20.10.1832 in W. †1915 in Albrechts          |
 | Alois            | *24.03.1834 in W.                             |
 | Johann Georg     | *19.11.1835 in W. †03.04.1880 in Ostenried 71 |
@@ -112,12 +112,12 @@ Chronik der Familie Fleschutz (1412-1942)
 | **Johann Georg** | *09.05.1868 in Ostenried 71 bei Untrasried 🔨Bauer †05.01.1933 {[Sterbebild](Quellen/Sterbebilder/1868_Georg.jpg)} ⚭ Apollonia Mayr (*09.02.1870 +08.12.1957 {[Sterbebild](Quellen/Sterbebilder/1870_Apollonia.jpg)}) |
 |                  |                                                 |
 |                  | **Johann Georg & Apollonia's Kinder:** (zuerst in Ostenried 71 bei Untrasried, dann in Albrechts 12 bei Günzach)        |
-| **Johann**       | *30.12.1895 in O. 🔨Bauer †29.05.1955 in Albrechts {[Sterbebild](Quellen/Sterbebilder/1895_Johann)} ⚭ Sophie Hartmann (*23.03.1904 †30.09.1977) {[Sterbebild](Quellen/Sterbebilder/1904_Sophie.jpg)} |
+| **Johann**       | *30.12.1895 in O. 🛠Bauer †29.05.1955 in Albrechts {[Sterbebild](Quellen/Sterbebilder/1895_Johann)} ⚭ Sophie Hartmann (*23.03.1904 †30.09.1977) {[Sterbebild](Quellen/Sterbebilder/1904_Sophie.jpg)} |
 | Maria            | *25.01.1897 in O. †05.01.1990 |
 | Theresia         | *27.04.1902 in O. †25.06.1987 ⚭Johann Kustermann |
 | Georg            | *19.04.1903 in O. †19.04.1903 mit nur 1 Tag |
 | Johann Georg     | *13.08.1906 in A. †09.05.1935 |
-| Theodor          | *10.12.1907 in A. 🔨Soldat †28.09.1942 bei Leningrad, Russland {[Sterbebild](Quellen/Sterbebilder/1907_Theodor.jpg)} |
+| Theodor          | *10.12.1907 in A. 🛠Soldat †28.09.1942 bei Leningrad, Russland {[Sterbebild](Quellen/Sterbebilder/1907_Theodor.jpg)} |
 |                  |                                                   |
 |                  | 1914-1918 💥 1. Weltkrieg mit ca. 17 Millionen Toten {[Wikipedia](Quellen/Wikipedia/Erster_Weltkrieg.pdf)}           |
 |                  | 1939-1945 💥 2. Weltkrieg mit ca. 60-80 Millionen Toten {[Wikipedia](Quellen/Wikipedia/Zweiter_Weltkrieg.pdf)}       |
@@ -126,8 +126,8 @@ Chronik der Familie Fleschutz (1412-1942)
 | Georg            | *21.01.1935 in A., †19.03.1935 mit nur 2 Monaten |
 | Amalie Maria Anna| *20.02.1936 in A.                                |
 | Apollonia Theresia| *29.05.1937 in A.                               |
-| Johann           | *05.12.1938 in A. 🔨Bauer ⚭Rosmarie Höbel *18.12.1947 |
-| Theodor Konrad   | *12.11.1942 in A. 🔨Molkerei-Meister ⚭Sigrun Friede *01.04.1949 in Radolfzell |
+| Johann           | *05.12.1938 in A. 🛠Bauer ⚭Rosmarie Höbel *18.12.1947 |
+| Theodor Konrad   | *12.11.1942 in A. 🛠Molkerei-Meister ⚭Sigrun Friede *01.04.1949 in Radolfzell |
 
 Hinweise
 --------
