@@ -129,8 +129,8 @@ Chronik der Familie Fleschutz (1412-1942)
 | Johann           | *05.12.1938 in A. 🛠Bauer ⚭Rosmarie Höbel *18.12.1947 |
 | Theodor Konrad   | *12.11.1942 in A. 🛠Molkerei-Meister ⚭Sigrun Friede *01.04.1949 in Radolfzell |
 
-Hinweise
---------
+💡 Hinweise
+-----------
 * Zur Namensentstehung von Fleschutz: der Brief von 1412 beginnt mit "Ich Utz Brästel den man nennt fläsch ützen...". Mit Leerzeichen, wahrscheinlich Kurzform von: Flaschner Utz (siehe auch Wappen mit Flasche). Grund dafür waren wohl mehrere Utz Brästel im selben Ort (Vater/Großvater/Onkel/Cousin?). In der darauffolgenden (Kauf-)Urkunde wird daraus: "fläschüzen" (ohne Leerzeichen, ohne T).
 * *"Flaschner"* bedeutete früher: Blechschmied, *"Haus mit Taferngerechtigkeit"* = Gaststätte, *"Federspiel"* = Falkenjagd, *"in den Hölzern"* = im (Forst-)Wald, *"Frevel"* = leichteres Vergehen, *"Privatiere"* = wohlhabende Frau ohne Erwerbstätigkeit.
 * Die Kirchenbücher in Haldenwang beginnen ab dem Jahr 1639. Anfangs in Latein, später in Deutsch. Als Handschrift wurden früher [Deutsche Kurrentschrift](Quellen/Wikipedia/Deutsche_Kurrentschrift.pdf) oder [Sütterlinschrift (ab 1911)](Quellen/Wikipedia/Suetterlinschrift.pdf) verwendet.
