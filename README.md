@@ -112,7 +112,7 @@ Chronik der Familie Fleschutz (1412-1942)
 | **Johann Georg** | *09.05.1868 in Ostenried 71 bei Untrasried 🔨Bauer †05.01.1933 {[Sterbebild](Quellen/Sterbebilder/1868_Georg.jpg)} ⚭ Apollonia Mayr (*09.02.1870 +08.12.1957 {[Sterbebild](Quellen/Sterbebilder/1870_Apollonia.jpg)}) |
 |                  |                                                 |
 |                  | **Johann Georg & Apollonia's Kinder:** (zuerst in Ostenried 71 bei Untrasried, dann in Albrechts 12 bei Günzach)        |
-| **Johann**       | *30.12.1895 in O. 🛠Bauer †29.05.1955 in Albrechts {[Sterbebild](Quellen/Sterbebilder/1895_Johann)} ⚭ Sophie Hartmann (*23.03.1904 in Untereiberg †30.09.1977 in A. {[Sterbebild](Quellen/Sterbebilder/1904_Sophie.jpg)}) |
+| **Johann**       | *30.12.1895 in O. 🛠Bauer †29.05.1955 in A. {[Sterbebild](Quellen/Sterbebilder/1895_Johann)} ⚭ Sophie Hartmann (*23.03.1904 in Untereiberg †30.09.1977 in A. {[Sterbebild](Quellen/Sterbebilder/1904_Sophie.jpg)}) |
 | Maria            | *25.01.1897 in O. †05.01.1990 |
 | Theresia         | *27.04.1902 in O. †25.06.1987 ⚭Johann Kustermann |
 | Georg            | *19.04.1903 in O. †19.04.1903 mit nur 1 Tag |
