@@ -1,868 +1,1765 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
 <head>
-<meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
-<title>README</title><style type='text/css'>html {overflow-x: initial !important;}:root { --bg-color:#ffffff; --text-color:#333333; --select-text-bg-color:#B5D6FC; --select-text-font-color:auto; --monospace:"Lucida Console",Consolas,"Courier",monospace; }
-html { font-size: 14px; background-color: var(--bg-color); color: var(--text-color); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; -webkit-font-smoothing: antialiased; }
-body { margin: 0px; padding: 0px; height: auto; bottom: 0px; top: 0px; left: 0px; right: 0px; font-size: 1rem; line-height: 1.42857; overflow-x: hidden; background: inherit; tab-size: 4; }
-iframe { margin: auto; }
-a.url { word-break: break-all; }
-a:active, a:hover { outline: 0px; }
-.in-text-selection, ::selection { text-shadow: none; background: var(--select-text-bg-color); color: var(--select-text-font-color); }
-#write { margin: 0px auto; height: auto; width: inherit; word-break: normal; overflow-wrap: break-word; position: relative; white-space: normal; overflow-x: visible; padding-top: 40px; }
-#write.first-line-indent p { text-indent: 2em; }
-#write.first-line-indent li p, #write.first-line-indent p * { text-indent: 0px; }
-#write.first-line-indent li { margin-left: 2em; }
-.for-image #write { padding-left: 8px; padding-right: 8px; }
-body.typora-export { padding-left: 30px; padding-right: 30px; }
-.typora-export .footnote-line, .typora-export li, .typora-export p { white-space: pre-wrap; }
-.typora-export .task-list-item input { pointer-events: none; }
-@media screen and (max-width: 500px) {
-  body.typora-export { padding-left: 0px; padding-right: 0px; }
-  #write { padding-left: 20px; padding-right: 20px; }
-  .CodeMirror-sizer { margin-left: 0px !important; }
-  .CodeMirror-gutters { display: none !important; }
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Chronik</title>
+  <style>
+  @font-face {
+  font-family: octicons-link;
+  src: url(data:font/woff;charset=utf-8;base64,d09GRgABAAAAAAZwABAAAAAACFQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEU0lHAAAGaAAAAAgAAAAIAAAAAUdTVUIAAAZcAAAACgAAAAoAAQAAT1MvMgAAAyQAAABJAAAAYFYEU3RjbWFwAAADcAAAAEUAAACAAJThvmN2dCAAAATkAAAABAAAAAQAAAAAZnBnbQAAA7gAAACyAAABCUM+8IhnYXNwAAAGTAAAABAAAAAQABoAI2dseWYAAAFsAAABPAAAAZwcEq9taGVhZAAAAsgAAAA0AAAANgh4a91oaGVhAAADCAAAABoAAAAkCA8DRGhtdHgAAAL8AAAADAAAAAwGAACfbG9jYQAAAsAAAAAIAAAACABiATBtYXhwAAACqAAAABgAAAAgAA8ASm5hbWUAAAToAAABQgAAAlXu73sOcG9zdAAABiwAAAAeAAAAME3QpOBwcmVwAAAEbAAAAHYAAAB/aFGpk3jaTY6xa8JAGMW/O62BDi0tJLYQincXEypYIiGJjSgHniQ6umTsUEyLm5BV6NDBP8Tpts6F0v+k/0an2i+itHDw3v2+9+DBKTzsJNnWJNTgHEy4BgG3EMI9DCEDOGEXzDADU5hBKMIgNPZqoD3SilVaXZCER3/I7AtxEJLtzzuZfI+VVkprxTlXShWKb3TBecG11rwoNlmmn1P2WYcJczl32etSpKnziC7lQyWe1smVPy/Lt7Kc+0vWY/gAgIIEqAN9we0pwKXreiMasxvabDQMM4riO+qxM2ogwDGOZTXxwxDiycQIcoYFBLj5K3EIaSctAq2kTYiw+ymhce7vwM9jSqO8JyVd5RH9gyTt2+J/yUmYlIR0s04n6+7Vm1ozezUeLEaUjhaDSuXHwVRgvLJn1tQ7xiuVv/ocTRF42mNgZGBgYGbwZOBiAAFGJBIMAAizAFoAAABiAGIAznjaY2BkYGAA4in8zwXi+W2+MjCzMIDApSwvXzC97Z4Ig8N/BxYGZgcgl52BCSQKAA3jCV8CAABfAAAAAAQAAEB42mNgZGBg4f3vACQZQABIMjKgAmYAKEgBXgAAeNpjYGY6wTiBgZWBg2kmUxoDA4MPhGZMYzBi1AHygVLYQUCaawqDA4PChxhmh/8ODDEsvAwHgMKMIDnGL0x7gJQCAwMAJd4MFwAAAHjaY2BgYGaA4DAGRgYQkAHyGMF8NgYrIM3JIAGVYYDT+AEjAwuDFpBmA9KMDEwMCh9i/v8H8sH0/4dQc1iAmAkALaUKLgAAAHjaTY9LDsIgEIbtgqHUPpDi3gPoBVyRTmTddOmqTXThEXqrob2gQ1FjwpDvfwCBdmdXC5AVKFu3e5MfNFJ29KTQT48Ob9/lqYwOGZxeUelN2U2R6+cArgtCJpauW7UQBqnFkUsjAY/kOU1cP+DAgvxwn1chZDwUbd6CFimGXwzwF6tPbFIcjEl+vvmM/byA48e6tWrKArm4ZJlCbdsrxksL1AwWn/yBSJKpYbq8AXaaTb8AAHja28jAwOC00ZrBeQNDQOWO//sdBBgYGRiYWYAEELEwMTE4uzo5Zzo5b2BxdnFOcALxNjA6b2ByTswC8jYwg0VlNuoCTWAMqNzMzsoK1rEhNqByEyerg5PMJlYuVueETKcd/89uBpnpvIEVomeHLoMsAAe1Id4AAAAAAAB42oWQT07CQBTGv0JBhagk7HQzKxca2sJCE1hDt4QF+9JOS0nbaaYDCQfwCJ7Au3AHj+LO13FMmm6cl7785vven0kBjHCBhfpYuNa5Ph1c0e2Xu3jEvWG7UdPDLZ4N92nOm+EBXuAbHmIMSRMs+4aUEd4Nd3CHD8NdvOLTsA2GL8M9PODbcL+hD7C1xoaHeLJSEao0FEW14ckxC+TU8TxvsY6X0eLPmRhry2WVioLpkrbp84LLQPGI7c6sOiUzpWIWS5GzlSgUzzLBSikOPFTOXqly7rqx0Z1Q5BAIoZBSFihQYQOOBEdkCOgXTOHA07HAGjGWiIjaPZNW13/+lm6S9FT7rLHFJ6fQbkATOG1j2OFMucKJJsxIVfQORl+9Jyda6Sl1dUYhSCm1dyClfoeDve4qMYdLEbfqHf3O/AdDumsjAAB42mNgYoAAZQYjBmyAGYQZmdhL8zLdDEydARfoAqIAAAABAAMABwAKABMAB///AA8AAQAAAAAAAAAAAAAAAAABAAAAAA==) format('woff');
 }
-#write li > figure:last-child { margin-bottom: 0.5rem; }
-#write ol, #write ul { position: relative; }
-img { max-width: 100%; vertical-align: middle; image-orientation: from-image; }
-button, input, select, textarea { color: inherit; font: inherit; }
-input[type="checkbox"], input[type="radio"] { line-height: normal; padding: 0px; }
-*, ::after, ::before { box-sizing: border-box; }
-#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p, #write pre { width: inherit; }
-#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p { position: relative; }
-p { line-height: inherit; }
-h1, h2, h3, h4, h5, h6 { break-after: avoid-page; break-inside: avoid; orphans: 4; }
-p { orphans: 4; }
-h1 { font-size: 2rem; }
-h2 { font-size: 1.8rem; }
-h3 { font-size: 1.6rem; }
-h4 { font-size: 1.4rem; }
-h5 { font-size: 1.2rem; }
-h6 { font-size: 1rem; }
-.md-math-block, .md-rawblock, h1, h2, h3, h4, h5, h6, p { margin-top: 1rem; margin-bottom: 1rem; }
-.hidden { display: none; }
-.md-blockmeta { color: rgb(204, 204, 204); font-weight: 700; font-style: italic; }
-a { cursor: pointer; }
-sup.md-footnote { padding: 2px 4px; background-color: rgba(238, 238, 238, 0.7); color: rgb(85, 85, 85); border-radius: 4px; cursor: pointer; }
-sup.md-footnote a, sup.md-footnote a:hover { color: inherit; text-transform: inherit; text-decoration: inherit; }
-#write input[type="checkbox"] { cursor: pointer; width: inherit; height: inherit; }
-figure { overflow-x: auto; margin: 1.2em 0px; max-width: calc(100% + 16px); padding: 0px; }
-figure > table { margin: 0px; }
-tr { break-inside: avoid; break-after: auto; }
-thead { display: table-header-group; }
-table { border-collapse: collapse; border-spacing: 0px; width: 100%; overflow: auto; break-inside: auto; text-align: left; }
-table.md-table td { min-width: 32px; }
-.CodeMirror-gutters { border-right: 0px; background-color: inherit; }
-.CodeMirror-linenumber { user-select: none; }
-.CodeMirror { text-align: left; }
-.CodeMirror-placeholder { opacity: 0.3; }
-.CodeMirror pre { padding: 0px 4px; }
-.CodeMirror-lines { padding: 0px; }
-div.hr:focus { cursor: none; }
-#write pre { white-space: pre-wrap; }
-#write.fences-no-line-wrapping pre { white-space: pre; }
-#write pre.ty-contain-cm { white-space: normal; }
-.CodeMirror-gutters { margin-right: 4px; }
-.md-fences { font-size: 0.9rem; display: block; break-inside: avoid; text-align: left; overflow: visible; white-space: pre; background: inherit; position: relative !important; }
-.md-diagram-panel { width: 100%; margin-top: 10px; text-align: center; padding-top: 0px; padding-bottom: 8px; overflow-x: auto; }
-#write .md-fences.mock-cm { white-space: pre-wrap; }
-.md-fences.md-fences-with-lineno { padding-left: 0px; }
-#write.fences-no-line-wrapping .md-fences.mock-cm { white-space: pre; overflow-x: auto; }
-.md-fences.mock-cm.md-fences-with-lineno { padding-left: 8px; }
-.CodeMirror-line, twitterwidget { break-inside: avoid; }
-.footnotes { opacity: 0.8; font-size: 0.9rem; margin-top: 1em; margin-bottom: 1em; }
-.footnotes + .footnotes { margin-top: 0px; }
-.md-reset { margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: top; background: 0px 0px; text-decoration: none; text-shadow: none; float: none; position: static; width: auto; height: auto; white-space: nowrap; cursor: inherit; -webkit-tap-highlight-color: transparent; line-height: normal; font-weight: 400; text-align: left; box-sizing: content-box; direction: ltr; }
-li div { padding-top: 0px; }
-blockquote { margin: 1rem 0px; }
-li .mathjax-block, li p { margin: 0.5rem 0px; }
-li { margin: 0px; position: relative; }
-blockquote > :last-child { margin-bottom: 0px; }
-blockquote > :first-child, li > :first-child { margin-top: 0px; }
-.footnotes-area { color: rgb(136, 136, 136); margin-top: 0.714rem; padding-bottom: 0.143rem; white-space: normal; }
-#write .footnote-line { white-space: pre-wrap; }
+
+.markdown-body .octicon {
+  display: inline-block;
+  fill: currentColor;
+  vertical-align: text-bottom;
+}
+
+.markdown-body .anchor {
+  float: left;
+  line-height: 1;
+  margin-left: -20px;
+  padding-right: 4px;
+}
+
+.markdown-body .anchor:focus {
+  outline: none;
+}
+
+.markdown-body h1 .octicon-link,
+.markdown-body h2 .octicon-link,
+.markdown-body h3 .octicon-link,
+.markdown-body h4 .octicon-link,
+.markdown-body h5 .octicon-link,
+.markdown-body h6 .octicon-link {
+  color: #1b1f23;
+  vertical-align: middle;
+  visibility: hidden;
+}
+
+.markdown-body h1:hover .anchor,
+.markdown-body h2:hover .anchor,
+.markdown-body h3:hover .anchor,
+.markdown-body h4:hover .anchor,
+.markdown-body h5:hover .anchor,
+.markdown-body h6:hover .anchor {
+  text-decoration: none;
+}
+
+.markdown-body h1:hover .anchor .octicon-link,
+.markdown-body h2:hover .anchor .octicon-link,
+.markdown-body h3:hover .anchor .octicon-link,
+.markdown-body h4:hover .anchor .octicon-link,
+.markdown-body h5:hover .anchor .octicon-link,
+.markdown-body h6:hover .anchor .octicon-link {
+  visibility: visible;
+}
+
+.markdown-body {
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  color: #24292e;
+  line-height: 1.5;
+  font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;
+  font-size: 16px;
+  line-height: 1.5;
+  word-wrap: break-word;
+}
+
+.markdown-body .pl-c {
+  color: #6a737d;
+}
+
+.markdown-body .pl-c1,
+.markdown-body .pl-s .pl-v {
+  color: #005cc5;
+}
+
+.markdown-body .pl-e,
+.markdown-body .pl-en {
+  color: #6f42c1;
+}
+
+.markdown-body .pl-s .pl-s1,
+.markdown-body .pl-smi {
+  color: #24292e;
+}
+
+.markdown-body .pl-ent {
+  color: #22863a;
+}
+
+.markdown-body .pl-k {
+  color: #d73a49;
+}
+
+.markdown-body .pl-pds,
+.markdown-body .pl-s,
+.markdown-body .pl-s .pl-pse .pl-s1,
+.markdown-body .pl-sr,
+.markdown-body .pl-sr .pl-cce,
+.markdown-body .pl-sr .pl-sra,
+.markdown-body .pl-sr .pl-sre {
+  color: #032f62;
+}
+
+.markdown-body .pl-smw,
+.markdown-body .pl-v {
+  color: #e36209;
+}
+
+.markdown-body .pl-bu {
+  color: #b31d28;
+}
+
+.markdown-body .pl-ii {
+  background-color: #b31d28;
+  color: #fafbfc;
+}
+
+.markdown-body .pl-c2 {
+  background-color: #d73a49;
+  color: #fafbfc;
+}
+
+.markdown-body .pl-c2:before {
+  content: "^M";
+}
+
+.markdown-body .pl-sr .pl-cce {
+  color: #22863a;
+  font-weight: 700;
+}
+
+.markdown-body .pl-ml {
+  color: #735c0f;
+}
+
+.markdown-body .pl-mh,
+.markdown-body .pl-mh .pl-en,
+.markdown-body .pl-ms {
+  color: #005cc5;
+  font-weight: 700;
+}
+
+.markdown-body .pl-mi {
+  color: #24292e;
+  font-style: italic;
+}
+
+.markdown-body .pl-mb {
+  color: #24292e;
+  font-weight: 700;
+}
+
+.markdown-body .pl-md {
+  background-color: #ffeef0;
+  color: #b31d28;
+}
+
+.markdown-body .pl-mi1 {
+  background-color: #f0fff4;
+  color: #22863a;
+}
+
+.markdown-body .pl-mc {
+  background-color: #ffebda;
+  color: #e36209;
+}
+
+.markdown-body .pl-mi2 {
+  background-color: #005cc5;
+  color: #f6f8fa;
+}
+
+.markdown-body .pl-mdr {
+  color: #6f42c1;
+  font-weight: 700;
+}
+
+.markdown-body .pl-ba {
+  color: #586069;
+}
+
+.markdown-body .pl-sg {
+  color: #959da5;
+}
+
+.markdown-body .pl-corl {
+  color: #032f62;
+  text-decoration: underline;
+}
+
+.markdown-body details {
+  display: block;
+}
+
+.markdown-body summary {
+  display: list-item;
+}
+
+.markdown-body a {
+  background-color: transparent;
+}
+
+.markdown-body a:active,
+.markdown-body a:hover {
+  outline-width: 0;
+}
+
+.markdown-body strong {
+  font-weight: inherit;
+  font-weight: bolder;
+}
+
+.markdown-body h1 {
+  font-size: 2em;
+  margin: .67em 0;
+}
+
+.markdown-body img {
+  border-style: none;
+}
+
+.markdown-body code,
+.markdown-body kbd,
+.markdown-body pre {
+  font-family: monospace,monospace;
+  font-size: 1em;
+}
+
+.markdown-body hr {
+  box-sizing: content-box;
+  height: 0;
+  overflow: visible;
+}
+
+.markdown-body input {
+  font: inherit;
+  margin: 0;
+}
+
+.markdown-body input {
+  overflow: visible;
+}
+
+.markdown-body [type=checkbox] {
+  box-sizing: border-box;
+  padding: 0;
+}
+
+.markdown-body * {
+  box-sizing: border-box;
+}
+
+.markdown-body input {
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+}
+
+.markdown-body a {
+  color: #0366d6;
+  text-decoration: none;
+}
+
+.markdown-body a:hover {
+  text-decoration: underline;
+}
+
+.markdown-body strong {
+  font-weight: 600;
+}
+
+.markdown-body hr {
+  background: transparent;
+  border: 0;
+  border-bottom: 1px solid #dfe2e5;
+  height: 0;
+  margin: 15px 0;
+  overflow: hidden;
+}
+
+.markdown-body hr:before {
+  content: "";
+  display: table;
+}
+
+.markdown-body hr:after {
+  clear: both;
+  content: "";
+  display: table;
+}
+
+.markdown-body table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+.markdown-body td,
+.markdown-body th {
+  padding: 0;
+}
+
+.markdown-body details summary {
+  cursor: pointer;
+}
+
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3,
+.markdown-body h4,
+.markdown-body h5,
+.markdown-body h6 {
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.markdown-body h1 {
+  font-size: 32px;
+}
+
+.markdown-body h1,
+.markdown-body h2 {
+  font-weight: 600;
+}
+
+.markdown-body h2 {
+  font-size: 24px;
+}
+
+.markdown-body h3 {
+  font-size: 20px;
+}
+
+.markdown-body h3,
+.markdown-body h4 {
+  font-weight: 600;
+}
+
+.markdown-body h4 {
+  font-size: 16px;
+}
+
+.markdown-body h5 {
+  font-size: 14px;
+}
+
+.markdown-body h5,
+.markdown-body h6 {
+  font-weight: 600;
+}
+
+.markdown-body h6 {
+  font-size: 12px;
+}
+
+.markdown-body p {
+  margin-bottom: 10px;
+  margin-top: 0;
+}
+
+.markdown-body blockquote {
+  margin: 0;
+}
+
+.markdown-body ol,
+.markdown-body ul {
+  margin-bottom: 0;
+  margin-top: 0;
+  padding-left: 0;
+}
+
+.markdown-body ol ol,
+.markdown-body ul ol {
+  list-style-type: lower-roman;
+}
+
+.markdown-body ol ol ol,
+.markdown-body ol ul ol,
+.markdown-body ul ol ol,
+.markdown-body ul ul ol {
+  list-style-type: lower-alpha;
+}
+
+.markdown-body dd {
+  margin-left: 0;
+}
+
+.markdown-body code,
+.markdown-body pre {
+  font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,Courier,monospace;
+  font-size: 12px;
+}
+
+.markdown-body pre {
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.markdown-body input::-webkit-inner-spin-button,
+.markdown-body input::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  appearance: none;
+  margin: 0;
+}
+
+.markdown-body .border {
+  border: 1px solid #e1e4e8!important;
+}
+
+.markdown-body .border-0 {
+  border: 0!important;
+}
+
+.markdown-body .border-bottom {
+  border-bottom: 1px solid #e1e4e8!important;
+}
+
+.markdown-body .rounded-1 {
+  border-radius: 3px!important;
+}
+
+.markdown-body .bg-white {
+  background-color: #fff!important;
+}
+
+.markdown-body .bg-gray-light {
+  background-color: #fafbfc!important;
+}
+
+.markdown-body .text-gray-light {
+  color: #6a737d!important;
+}
+
+.markdown-body .mb-0 {
+  margin-bottom: 0!important;
+}
+
+.markdown-body .my-2 {
+  margin-bottom: 8px!important;
+  margin-top: 8px!important;
+}
+
+.markdown-body .pl-0 {
+  padding-left: 0!important;
+}
+
+.markdown-body .py-0 {
+  padding-bottom: 0!important;
+  padding-top: 0!important;
+}
+
+.markdown-body .pl-1 {
+  padding-left: 4px!important;
+}
+
+.markdown-body .pl-2 {
+  padding-left: 8px!important;
+}
+
+.markdown-body .py-2 {
+  padding-bottom: 8px!important;
+  padding-top: 8px!important;
+}
+
+.markdown-body .pl-3,
+.markdown-body .px-3 {
+  padding-left: 16px!important;
+}
+
+.markdown-body .px-3 {
+  padding-right: 16px!important;
+}
+
+.markdown-body .pl-4 {
+  padding-left: 24px!important;
+}
+
+.markdown-body .pl-5 {
+  padding-left: 32px!important;
+}
+
+.markdown-body .pl-6 {
+  padding-left: 40px!important;
+}
+
+.markdown-body .f6 {
+  font-size: 12px!important;
+}
+
+.markdown-body .lh-condensed {
+  line-height: 1.25!important;
+}
+
+.markdown-body .text-bold {
+  font-weight: 600!important;
+}
+
+.markdown-body:before {
+  content: "";
+  display: table;
+}
+
+.markdown-body:after {
+  clear: both;
+  content: "";
+  display: table;
+}
+
+.markdown-body>:first-child {
+  margin-top: 0!important;
+}
+
+.markdown-body>:last-child {
+  margin-bottom: 0!important;
+}
+
+.markdown-body a:not([href]) {
+  color: inherit;
+  text-decoration: none;
+}
+
+.markdown-body blockquote,
+.markdown-body dl,
+.markdown-body ol,
+.markdown-body p,
+.markdown-body pre,
+.markdown-body table,
+.markdown-body ul {
+  margin-bottom: 16px;
+  margin-top: 0;
+}
+
+.markdown-body hr {
+  background-color: #e1e4e8;
+  border: 0;
+  height: .25em;
+  margin: 24px 0;
+  padding: 0;
+}
+
+.markdown-body blockquote {
+  border-left: .25em solid #dfe2e5;
+  color: #6a737d;
+  padding: 0 1em;
+}
+
+.markdown-body blockquote>:first-child {
+  margin-top: 0;
+}
+
+.markdown-body blockquote>:last-child {
+  margin-bottom: 0;
+}
+
+.markdown-body kbd {
+  background-color: #fafbfc;
+  border: 1px solid #c6cbd1;
+  border-bottom-color: #959da5;
+  border-radius: 3px;
+  box-shadow: inset 0 -1px 0 #959da5;
+  color: #444d56;
+  display: inline-block;
+  font-size: 11px;
+  line-height: 10px;
+  padding: 3px 5px;
+  vertical-align: middle;
+}
+
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3,
+.markdown-body h4,
+.markdown-body h5,
+.markdown-body h6 {
+  font-weight: 600;
+  line-height: 1.25;
+  margin-bottom: 16px;
+  margin-top: 24px;
+}
+
+.markdown-body h1 {
+  font-size: 2em;
+}
+
+.markdown-body h1,
+.markdown-body h2 {
+  border-bottom: 1px solid #eaecef;
+  padding-bottom: .3em;
+}
+
+.markdown-body h2 {
+  font-size: 1.5em;
+}
+
+.markdown-body h3 {
+  font-size: 1.25em;
+}
+
+.markdown-body h4 {
+  font-size: 1em;
+}
+
+.markdown-body h5 {
+  font-size: .875em;
+}
+
+.markdown-body h6 {
+  color: #6a737d;
+  font-size: .85em;
+}
+
+.markdown-body ol,
+.markdown-body ul {
+  padding-left: 2em;
+}
+
+.markdown-body ol ol,
+.markdown-body ol ul,
+.markdown-body ul ol,
+.markdown-body ul ul {
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.markdown-body li {
+  word-wrap: break-all;
+}
+
+.markdown-body li>p {
+  margin-top: 16px;
+}
+
+.markdown-body li+li {
+  margin-top: .25em;
+}
+
+.markdown-body dl {
+  padding: 0;
+}
+
+.markdown-body dl dt {
+  font-size: 1em;
+  font-style: italic;
+  font-weight: 600;
+  margin-top: 16px;
+  padding: 0;
+}
+
+.markdown-body dl dd {
+  margin-bottom: 16px;
+  padding: 0 16px;
+}
+
+.markdown-body table {
+  display: block;
+  overflow: auto;
+  width: 100%;
+}
+
+.markdown-body table th {
+  font-weight: 600;
+}
+
+.markdown-body table td,
+.markdown-body table th {
+  border: 1px solid #dfe2e5;
+  padding: 6px 13px;
+}
+
+.markdown-body table tr {
+  background-color: #fff;
+  border-top: 1px solid #c6cbd1;
+}
+
+.markdown-body table tr:nth-child(2n) {
+  background-color: #f6f8fa;
+}
+
+.markdown-body img {
+  background-color: #fff;
+  box-sizing: content-box;
+  max-width: 100%;
+}
+
+.markdown-body img[align=right] {
+  padding-left: 20px;
+}
+
+.markdown-body img[align=left] {
+  padding-right: 20px;
+}
+
+.markdown-body code {
+  background-color: rgba(27,31,35,.05);
+  border-radius: 3px;
+  font-size: 85%;
+  margin: 0;
+  padding: .2em .4em;
+}
+
+.markdown-body pre {
+  word-wrap: normal;
+}
+
+.markdown-body pre>code {
+  background: transparent;
+  border: 0;
+  font-size: 100%;
+  margin: 0;
+  padding: 0;
+  white-space: pre;
+  word-break: normal;
+}
+
+.markdown-body .highlight {
+  margin-bottom: 16px;
+}
+
+.markdown-body .highlight pre {
+  margin-bottom: 0;
+  word-break: normal;
+}
+
+.markdown-body .highlight pre,
+.markdown-body pre {
+  background-color: #f6f8fa;
+  border-radius: 3px;
+  font-size: 85%;
+  line-height: 1.45;
+  overflow: auto;
+  padding: 16px;
+}
+
+.markdown-body pre code {
+  background-color: transparent;
+  border: 0;
+  display: inline;
+  line-height: inherit;
+  margin: 0;
+  max-width: auto;
+  overflow: visible;
+  padding: 0;
+  word-wrap: normal;
+}
+
+.markdown-body .commit-tease-sha {
+  color: #444d56;
+  display: inline-block;
+  font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,Courier,monospace;
+  font-size: 90%;
+}
+
+.markdown-body .blob-wrapper {
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+
+.markdown-body .blob-wrapper-embedded {
+  max-height: 240px;
+  overflow-y: auto;
+}
+
+.markdown-body .blob-num {
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  color: rgba(27,31,35,.3);
+  cursor: pointer;
+  font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,Courier,monospace;
+  font-size: 12px;
+  line-height: 20px;
+  min-width: 50px;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: right;
+  user-select: none;
+  vertical-align: top;
+  white-space: nowrap;
+  width: 1%;
+}
+
+.markdown-body .blob-num:hover {
+  color: rgba(27,31,35,.6);
+}
+
+.markdown-body .blob-num:before {
+  content: attr(data-line-number);
+}
+
+.markdown-body .blob-code {
+  line-height: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  position: relative;
+  vertical-align: top;
+}
+
+.markdown-body .blob-code-inner {
+  color: #24292e;
+  font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,Courier,monospace;
+  font-size: 12px;
+  overflow: visible;
+  white-space: pre;
+  word-wrap: normal;
+}
+
+.markdown-body .pl-token.active,
+.markdown-body .pl-token:hover {
+  background: #ffea7f;
+  cursor: pointer;
+}
+
+.markdown-body kbd {
+  background-color: #fafbfc;
+  border: 1px solid #d1d5da;
+  border-bottom-color: #c6cbd1;
+  border-radius: 3px;
+  box-shadow: inset 0 -1px 0 #c6cbd1;
+  color: #444d56;
+  display: inline-block;
+  font: 11px SFMono-Regular,Consolas,Liberation Mono,Menlo,Courier,monospace;
+  line-height: 10px;
+  padding: 3px 5px;
+  vertical-align: middle;
+}
+
+.markdown-body :checked+.radio-label {
+  border-color: #0366d6;
+  position: relative;
+  z-index: 1;
+}
+
+.markdown-body .tab-size[data-tab-size="1"] {
+  -moz-tab-size: 1;
+  tab-size: 1;
+}
+
+.markdown-body .tab-size[data-tab-size="2"] {
+  -moz-tab-size: 2;
+  tab-size: 2;
+}
+
+.markdown-body .tab-size[data-tab-size="3"] {
+  -moz-tab-size: 3;
+  tab-size: 3;
+}
+
+.markdown-body .tab-size[data-tab-size="4"] {
+  -moz-tab-size: 4;
+  tab-size: 4;
+}
+
+.markdown-body .tab-size[data-tab-size="5"] {
+  -moz-tab-size: 5;
+  tab-size: 5;
+}
+
+.markdown-body .tab-size[data-tab-size="6"] {
+  -moz-tab-size: 6;
+  tab-size: 6;
+}
+
+.markdown-body .tab-size[data-tab-size="7"] {
+  -moz-tab-size: 7;
+  tab-size: 7;
+}
+
+.markdown-body .tab-size[data-tab-size="8"] {
+  -moz-tab-size: 8;
+  tab-size: 8;
+}
+
+.markdown-body .tab-size[data-tab-size="9"] {
+  -moz-tab-size: 9;
+  tab-size: 9;
+}
+
+.markdown-body .tab-size[data-tab-size="10"] {
+  -moz-tab-size: 10;
+  tab-size: 10;
+}
+
+.markdown-body .tab-size[data-tab-size="11"] {
+  -moz-tab-size: 11;
+  tab-size: 11;
+}
+
+.markdown-body .tab-size[data-tab-size="12"] {
+  -moz-tab-size: 12;
+  tab-size: 12;
+}
+
+.markdown-body .task-list-item {
+  list-style-type: none;
+}
+
+.markdown-body .task-list-item+.task-list-item {
+  margin-top: 3px;
+}
+
+.markdown-body .task-list-item input {
+  margin: 0 .2em .25em -1.6em;
+  vertical-align: middle;
+}
+
+.markdown-body hr {
+  border-bottom-color: #eee;
+}
+
+.markdown-body .pl-0 {
+  padding-left: 0!important;
+}
+
+.markdown-body .pl-1 {
+  padding-left: 4px!important;
+}
+
+.markdown-body .pl-2 {
+  padding-left: 8px!important;
+}
+
+.markdown-body .pl-3 {
+  padding-left: 16px!important;
+}
+
+.markdown-body .pl-4 {
+  padding-left: 24px!important;
+}
+
+.markdown-body .pl-5 {
+  padding-left: 32px!important;
+}
+
+.markdown-body .pl-6 {
+  padding-left: 40px!important;
+}
+
+.markdown-body .pl-7 {
+  padding-left: 48px!important;
+}
+
+.markdown-body .pl-8 {
+  padding-left: 64px!important;
+}
+
+.markdown-body .pl-9 {
+  padding-left: 80px!important;
+}
+
+.markdown-body .pl-10 {
+  padding-left: 96px!important;
+}
+
+.markdown-body .pl-11 {
+  padding-left: 112px!important;
+}
+
+.markdown-body .pl-12 {
+  padding-left: 128px!important;
+}
+
+  </style>
+  <style>
+  /**
+ * prism.js default theme for JavaScript, CSS and HTML
+ * Based on dabblet (http://dabblet.com)
+ * @author Lea Verou
+ */
+
+code[class*="language-"],
+pre[class*="language-"] {
+	color: black;
+	background: none;
+	text-shadow: 0 1px white;
+	font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+	font-size: 1em;
+	text-align: left;
+	white-space: pre;
+	word-spacing: normal;
+	word-break: normal;
+	word-wrap: normal;
+	line-height: 1.5;
+
+	-moz-tab-size: 4;
+	-o-tab-size: 4;
+	tab-size: 4;
+
+	-webkit-hyphens: none;
+	-moz-hyphens: none;
+	-ms-hyphens: none;
+	hyphens: none;
+}
+
+pre[class*="language-"]::-moz-selection, pre[class*="language-"] ::-moz-selection,
+code[class*="language-"]::-moz-selection, code[class*="language-"] ::-moz-selection {
+	text-shadow: none;
+	background: #b3d4fc;
+}
+
+pre[class*="language-"]::selection, pre[class*="language-"] ::selection,
+code[class*="language-"]::selection, code[class*="language-"] ::selection {
+	text-shadow: none;
+	background: #b3d4fc;
+}
+
 @media print {
-  body, html { border: 1px solid transparent; height: 99%; break-after: avoid; break-before: avoid; font-variant-ligatures: no-common-ligatures; }
-  #write { margin-top: 0px; padding-top: 0px; border-color: transparent !important; }
-  .typora-export * { -webkit-print-color-adjust: exact; }
-  html.blink-to-pdf { font-size: 13px; }
-  .typora-export #write { break-after: avoid; }
-  .typora-export #write::after { height: 0px; }
-  .is-mac table { break-inside: avoid; }
-}
-.footnote-line { margin-top: 0.714em; font-size: 0.7em; }
-a img, img a { cursor: pointer; }
-pre.md-meta-block { font-size: 0.8rem; min-height: 0.8rem; white-space: pre-wrap; background: rgb(204, 204, 204); display: block; overflow-x: hidden; }
-p > .md-image:only-child:not(.md-img-error) img, p > img:only-child { display: block; margin: auto; }
-#write.first-line-indent p > .md-image:only-child:not(.md-img-error) img { left: -2em; position: relative; }
-p > .md-image:only-child { display: inline-block; width: 100%; }
-#write .MathJax_Display { margin: 0.8em 0px 0px; }
-.md-math-block { width: 100%; }
-.md-math-block:not(:empty)::after { display: none; }
-[contenteditable="true"]:active, [contenteditable="true"]:focus, [contenteditable="false"]:active, [contenteditable="false"]:focus { outline: 0px; box-shadow: none; }
-.md-task-list-item { position: relative; list-style-type: none; }
-.task-list-item.md-task-list-item { padding-left: 0px; }
-.md-task-list-item > input { position: absolute; top: 0px; left: 0px; margin-left: -1.2em; margin-top: calc(1em - 10px); border: none; }
-.math { font-size: 1rem; }
-.md-toc { min-height: 3.58rem; position: relative; font-size: 0.9rem; border-radius: 10px; }
-.md-toc-content { position: relative; margin-left: 0px; }
-.md-toc-content::after, .md-toc::after { display: none; }
-.md-toc-item { display: block; color: rgb(65, 131, 196); }
-.md-toc-item a { text-decoration: none; }
-.md-toc-inner:hover { text-decoration: underline; }
-.md-toc-inner { display: inline-block; cursor: pointer; }
-.md-toc-h1 .md-toc-inner { margin-left: 0px; font-weight: 700; }
-.md-toc-h2 .md-toc-inner { margin-left: 2em; }
-.md-toc-h3 .md-toc-inner { margin-left: 4em; }
-.md-toc-h4 .md-toc-inner { margin-left: 6em; }
-.md-toc-h5 .md-toc-inner { margin-left: 8em; }
-.md-toc-h6 .md-toc-inner { margin-left: 10em; }
-@media screen and (max-width: 48em) {
-  .md-toc-h3 .md-toc-inner { margin-left: 3.5em; }
-  .md-toc-h4 .md-toc-inner { margin-left: 5em; }
-  .md-toc-h5 .md-toc-inner { margin-left: 6.5em; }
-  .md-toc-h6 .md-toc-inner { margin-left: 8em; }
-}
-a.md-toc-inner { font-size: inherit; font-style: inherit; font-weight: inherit; line-height: inherit; }
-.footnote-line a:not(.reversefootnote) { color: inherit; }
-.md-attr { display: none; }
-.md-fn-count::after { content: "."; }
-code, pre, samp, tt { font-family: var(--monospace); }
-kbd { margin: 0px 0.1em; padding: 0.1em 0.6em; font-size: 0.8em; color: rgb(36, 39, 41); background: rgb(255, 255, 255); border: 1px solid rgb(173, 179, 185); border-radius: 3px; box-shadow: rgba(12, 13, 14, 0.2) 0px 1px 0px, rgb(255, 255, 255) 0px 0px 0px 2px inset; white-space: nowrap; vertical-align: middle; }
-.md-comment { color: rgb(162, 127, 3); opacity: 0.8; font-family: var(--monospace); }
-code { text-align: left; vertical-align: initial; }
-a.md-print-anchor { white-space: pre !important; border-width: initial !important; border-style: none !important; border-color: initial !important; display: inline-block !important; position: absolute !important; width: 1px !important; right: 0px !important; outline: 0px !important; background: 0px 0px !important; text-decoration: initial !important; text-shadow: initial !important; }
-.md-inline-math .MathJax_SVG .noError { display: none !important; }
-.html-for-mac .inline-math-svg .MathJax_SVG { vertical-align: 0.2px; }
-.md-math-block .MathJax_SVG_Display { text-align: center; margin: 0px; position: relative; text-indent: 0px; max-width: none; max-height: none; min-height: 0px; min-width: 100%; width: auto; overflow-y: hidden; display: block !important; }
-.MathJax_SVG_Display, .md-inline-math .MathJax_SVG_Display { width: auto; margin: inherit; display: inline-block !important; }
-.MathJax_SVG .MJX-monospace { font-family: var(--monospace); }
-.MathJax_SVG .MJX-sans-serif { font-family: sans-serif; }
-.MathJax_SVG { display: inline; font-style: normal; font-weight: 400; line-height: normal; zoom: 90%; text-indent: 0px; text-align: left; text-transform: none; letter-spacing: normal; word-spacing: normal; overflow-wrap: normal; white-space: nowrap; float: none; direction: ltr; max-width: none; max-height: none; min-width: 0px; min-height: 0px; border: 0px; padding: 0px; margin: 0px; }
-.MathJax_SVG * { transition: none 0s ease 0s; }
-.MathJax_SVG_Display svg { vertical-align: middle !important; margin-bottom: 0px !important; margin-top: 0px !important; }
-.os-windows.monocolor-emoji .md-emoji { font-family: "Segoe UI Symbol", sans-serif; }
-.md-diagram-panel > svg { max-width: 100%; }
-[lang="flow"] svg, [lang="mermaid"] svg { max-width: 100%; height: auto; }
-[lang="mermaid"] .node text { font-size: 1rem; }
-table tr th { border-bottom: 0px; }
-video { max-width: 100%; display: block; margin: 0px auto; }
-iframe { max-width: 100%; width: 100%; border: none; }
-.highlight td, .highlight tr { border: 0px; }
-svg[id^="mermaidChart"] { line-height: 1em; }
-mark { background: rgb(255, 255, 0); color: rgb(0, 0, 0); }
-.md-html-inline .md-plain, .md-html-inline strong, mark .md-inline-math, mark strong { color: inherit; }
-mark .md-meta { color: rgb(0, 0, 0); opacity: 0.3 !important; }
-@media print {
-  .typora-export h1, .typora-export h2, .typora-export h3, .typora-export h4, .typora-export h5, .typora-export h6 { break-inside: avoid; }
+	code[class*="language-"],
+	pre[class*="language-"] {
+		text-shadow: none;
+	}
 }
 
-
-:root {
-    --side-bar-bg-color: #efefef;
-    --control-text-color: #777;
-    --primary-color: #393894;
-    --primary-btn-border-color: #393894;
-    --active-file-bg-color: #eaeaea;
-    --active-file-text-color: inherit;
-    --active-file-border-color: #393894;
-    --item-hover-text-color: #393894;
+/* Code blocks */
+pre[class*="language-"] {
+	padding: 1em;
+	margin: .5em 0;
+	overflow: auto;
 }
 
-html {
-    font-size: .925rem;
+:not(pre) > code[class*="language-"],
+pre[class*="language-"] {
+	background: #f5f2f0;
 }
 
-body {
-    background: none;
-    font-family: "Open Sans", "Clear Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    color: #2e2e2e;
-    line-height: 1.6;
-    height: 100%;
+/* Inline code */
+:not(pre) > code[class*="language-"] {
+	padding: .1em;
+	border-radius: .3em;
+	white-space: normal;
 }
 
-#write {
-    max-width: 990px;
-    margin: 0 auto;
-    padding: 30px;
-    padding-bottom: 100px;
-    position: static;
-    width: 100%;
+.token.comment,
+.token.prolog,
+.token.doctype,
+.token.cdata {
+	color: slategray;
 }
 
-#write>ul:first-child,
-#write>ol:first-child {
-    margin-top: 30px;
+.token.punctuation {
+	color: #999;
 }
 
-a {
-    color: #1b69b6;
+.token.namespace {
+	opacity: .7;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-    position: relative;
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-    font-weight: bold;
-    line-height: 1.4;
-    cursor: text;
+.token.property,
+.token.tag,
+.token.boolean,
+.token.number,
+.token.constant,
+.token.symbol,
+.token.deleted {
+	color: #905;
 }
 
-h1:hover a.anchor,
-h2:hover a.anchor,
-h3:hover a.anchor,
-h4:hover a.anchor,
-h5:hover a.anchor,
-h6:hover a.anchor {
-    text-decoration: none;
+.token.selector,
+.token.attr-name,
+.token.string,
+.token.char,
+.token.builtin,
+.token.inserted {
+	color: #690;
 }
 
-h1 tt,
-h1 code {
-    font-size: inherit;
+.token.operator,
+.token.entity,
+.token.url,
+.language-css .token.string,
+.style .token.string {
+	color: #9a6e3a;
+	/* This background color was intended by the author of this theme. */
+	background: hsla(0, 0%, 100%, .5);
 }
 
-h2 tt,
-h2 code {
-    font-size: inherit;
+.token.atrule,
+.token.attr-value,
+.token.keyword {
+	color: #07a;
 }
 
-h3 tt,
-h3 code {
-    font-size: inherit;
+.token.function,
+.token.class-name {
+	color: #DD4A68;
 }
 
-h4 tt,
-h4 code {
-    font-size: inherit;
+.token.regex,
+.token.important,
+.token.variable {
+	color: #e90;
 }
 
-h5 tt,
-h5 code {
-    font-size: inherit;
+.token.important,
+.token.bold {
+	font-weight: bold;
+}
+.token.italic {
+	font-style: italic;
 }
 
-h6 tt,
-h6 code {
-    font-size: inherit;
+.token.entity {
+	cursor: help;
 }
 
-h1 {
-    padding-bottom: .3em;
-    font-size: 2.25em;
-    line-height: 1.2;
-    border-bottom: 1px solid #eee;
-}
-
-h2 {
-    padding-bottom: .3em;
-    font-size: 1.75em;
-    line-height: 1.225;
-    border-bottom: 1px solid #eee;
-}
-
-h3 {
-    font-size: 1.5em;
-    line-height: 1.43;
-}
-
-h4 {
-    font-size: 1.25em;
-}
-
-h5 {
-    font-size: 1em;
-}
-
-h6 {
-    font-size: 1em;
-    color: #777;
-}
-
-p,
-blockquote,
-ul,
-ol,
-dl,
-table {
-    margin: 0.8em 0;
-}
-
-ul li,
-ol li {
-    line-height: 1.2;
-}
-
-li>ol,
-li>ul {
-    margin: 0 0;
-}
-
-hr {
-    height: 2px;
-    padding: 0;
-    margin: 16px 0;
-    background-color: #e7e7e7;
-    border: 0 none;
-    overflow: hidden;
-    box-sizing: content-box;
-}
-
-li p.first {
-    display: inline-block;
-}
-
-ul,
-ol {
-    padding-left: 30px;
-}
-
-ul:first-child,
-ol:first-child {
-    margin-top: 0;
-}
-
-ul:last-child,
-ol:last-child {
-    margin-bottom: 0;
-}
-
-blockquote {
-    border-left: 4px solid #dfe2e5;
-    font-family: 'Hack';
-    font-size: 13px;
-    padding: 0 15px;
-    color: #707070;
-}
-
-blockquote blockquote {
-    font-family: 'Hack';
-    padding-right: 0;
-}
-
-table {
-    font-size: .875rem;
-    padding: 0;
-    word-break: initial;
-}
-
-table tr {
-    border-top: 1px solid #dfdfdf;
-    margin: 0;
-    padding: 0;
-}
-
-thead {
-    background-color: #f8f8f8;
-}
-
-table tr th {
-    font-weight: bold;
-    border: 1px solid #dfdfdf;
-    border-bottom: 0;
-    border-bottom: solid 2px #ccc;
-    margin: 0;
-    padding: 10px 16px;
-}
-
-table tr td {
-    border: 1px solid #dfe2e5;
-    margin: 0;
-    padding: 10px 16px;
-}
-
-table tr th:first-child,
-table tr td:first-child {
-    margin-top: 0;
-}
-
-table tr th:last-child,
-table tr td:last-child {
-    margin-bottom: 0;
-}
-
-.CodeMirror-lines {
-    padding: 4px 0;
-}
-
-.code-tooltip {
-    box-shadow: 0 1px 1px 0 rgba(0, 28, 36, .3);
-    border-top: 1px solid #eef2f2;
-}
-
-.md-fences,
-/* code, */
-tt {
-    border-radius: 3px;
-    color: #b9bcba;
-    padding: 0;
-    font-size: 0.9em;
-}
-
-code {
-    padding: 2px 4px;
-    color: #c0341d;
-    background-color: #fbe5e1;
-    border-radius: 4px;
-}
-
-.md-fences {
-    margin-bottom: 15px;
-    margin-top: 15px;
-    padding-top: 8px;
-    padding-bottom: 6px;
-}
-
-.md-task-list-item>input {
-    margin-left: -1.3em;
-}
-
-@media print {
-    html {
-        font-size: 13px;
+  </style>
+  <style>
+  
+  </style>
+  <style>
+    .markdown-body {
+      font-family: -apple-system,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+      box-sizing: border-box;
+      min-width: 200px;
+      max-width: 980px;
+      margin: 0 auto;
+      padding: 45px;
     }
 
-    table,
-    pre {
-        page-break-inside: avoid;
+    @media not print {
+      .markdown-body {
+        padding: 45px;
+      }
+
+      @media (max-width: 767px) {
+        .markdown-body {
+          padding: 15px;
+        }
+      }
     }
 
-    pre {
-        word-wrap: break-word;
+    .hf-container {
+      color: #24292e;
+      line-height: 1.3;
     }
-}
-
-.md-fences {
-    background-color: #f8f8f8;
-}
-
-#write pre.md-meta-block {
-    padding: 1rem;
-    font-size: 85%;
-    line-height: 1.45;
-    background-color: #f7f7f7;
-    border: 0;
-    border-radius: 3px;
-    color: #777777;
-    margin-top: 0 !important;
-}
-
-.mathjax-block>.code-tooltip {
-    bottom: .375rem;
-}
-
-.md-mathjax-midline {
-    background: #fafafa;
-}
-
-#write>h3.md-focus:before {
-    left: -1.5625rem;
-    top: .375rem;
-}
-
-#write>h4.md-focus:before {
-    left: -1.5625rem;
-    top: .285714286rem;
-}
-
-#write>h5.md-focus:before {
-    left: -1.5625rem;
-    top: .285714286rem;
-}
-
-#write>h6.md-focus:before {
-    left: -1.5625rem;
-    top: .285714286rem;
-}
-
-.md-image>.md-meta {
-    border-radius: 3px;
-    padding: 2px 0px 0px 4px;
-    font-size: 0.9em;
-    color: inherit;
-}
-
-.md-tag {
-    color: #a7a7a7;
-    opacity: 1;
-}
-
-.md-toc {
-    margin-top: 20px;
-    padding-bottom: 20px;
-}
-
-.sidebar-tabs {
-    border-bottom: none;
-    font-weight: normal;
-}
-
-#typora-sidebar .sidebar-tabs {
-    font-family: 'Open Sans' !important;
-    border-bottom: 1px solid #dfdfdf;
-    font-weight: bold;
-}
-
-#typora-sidebar .file-list-item-file-name {
-    font-family: 'Open Sans';
-    font-weight: bold;
-}
-
-#typora-sidebar .file-list-item-summary,
-#typora-sidebar .ty-search-item-line {
-    font-family: 'Open Sans';
-}
-
-#typora-sidebar #outline-content .outline-h1>.outline-item {
-    font-family: 'Open Sans';
-}
-
-#typora-sidebar .file-tree-node.file-library-file-node.active .file-node-background,
-#typora-sidebar .file-list-item.file-library-file-node.active {
-    border-left: 4px solid #393894;
-}
-
-.file-library-node:not(.file-node-root):focus>.file-node-content {
-    outline: none;
-}
-
-#typora-sidebar .file-list-item.file-library-file-node:hover {
-    background: #f1f1f1;
-}
-
-#typora-sidebar .file-tree-node.file-library-file-node {
-    padding: 0;
-}
-
-#typora-sidebar .file-tree-node.file-library-file-node.active .file-node-title {
-    color: #2a2971;
-}
-
-#typora-sidebar .file-tree-node {
-    border: 0;
-    padding: 0;
-    margin: 0;
-    padding-left: 15px;
-}
-
-.file-node-icon {
-    color: #707070;
-    margin-right: 8px;
-}
-
-.active .file-node-icon {
-    color: #2a2971;
-}
-
-.file-node-icon::before {
-    background-image: url("data:image/svg+xml,%3Csvg version='1.1' fill='#707070' id='Capa_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 512 512' style='enable-background:new 0 0 512 512;' xml:space='preserve'%3E%3Cg%3E%3Cg%3E%3Cpath d='M438.944,352c11.046,0,20-8.954,20-20V80c0-44.112-35.888-80-80-80H133.056c-44.112,0-80,35.888-80,80v352 c0,44.112,35.888,80,80,80h245.888c44.113,0,80-35.888,80.001-80c0-11.046-8.954-20-20-20c-11.046,0-20,8.954-20,20 c0,22.056-17.944,40-40,40H133.056c-22.056,0-40-17.944-40-40V80c0-22.056,17.944-40,40-40h245.889c22.056,0,40,17.944,40,40v252 C418.944,343.046,427.899,352,438.944,352z'/%3E%3C/g%3E%3C/g%3E%3Cg%3E%3Cg%3E%3Cpath d='M358.944,120h-206c-11.046,0-20,8.954-20,20s8.954,20,20,20h206c11.046,0,20-8.954,20-20S369.989,120,358.944,120z'/%3E%3C/g%3E%3C/g%3E%3Cg%3E%3Cg%3E%3Cpath d='M358.944,200h-206c-11.046,0-20,8.954-20,20s8.954,20,20,20h206c11.046,0,20-8.954,20-20S369.989,200,358.944,200z'/%3E%3C/g%3E%3C/g%3E%3Cg%3E%3Cg%3E%3Cpath d='M278.054,280H152.944c-11.046,0-20,8.954-20,20c0,11.046,8.954,20,20,20h125.112c11.046,0,19.999-8.954,19.999-20 C298.054,288.954,289.1,280,278.054,280z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
-    content: '';
-    display: inline-block;
-    height: 20px;
-    width: 20px;
-}
-
-#typora-sidebar .file-tree-node.file-library-file-node:hover .file-node-icon::before {
-    background-image: url("data:image/svg+xml,%3Csvg version='1.1' fill='#2a2971' id='Capa_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 512 512' style='enable-background:new 0 0 512 512;' xml:space='preserve'%3E%3Cg%3E%3Cg%3E%3Cpath d='M438.944,352c11.046,0,20-8.954,20-20V80c0-44.112-35.888-80-80-80H133.056c-44.112,0-80,35.888-80,80v352 c0,44.112,35.888,80,80,80h245.888c44.113,0,80-35.888,80.001-80c0-11.046-8.954-20-20-20c-11.046,0-20,8.954-20,20 c0,22.056-17.944,40-40,40H133.056c-22.056,0-40-17.944-40-40V80c0-22.056,17.944-40,40-40h245.889c22.056,0,40,17.944,40,40v252 C418.944,343.046,427.899,352,438.944,352z'/%3E%3C/g%3E%3C/g%3E%3Cg%3E%3Cg%3E%3Cpath d='M358.944,120h-206c-11.046,0-20,8.954-20,20s8.954,20,20,20h206c11.046,0,20-8.954,20-20S369.989,120,358.944,120z'/%3E%3C/g%3E%3C/g%3E%3Cg%3E%3Cg%3E%3Cpath d='M358.944,200h-206c-11.046,0-20,8.954-20,20s8.954,20,20,20h206c11.046,0,20-8.954,20-20S369.989,200,358.944,200z'/%3E%3C/g%3E%3C/g%3E%3Cg%3E%3Cg%3E%3Cpath d='M278.054,280H152.944c-11.046,0-20,8.954-20,20c0,11.046,8.954,20,20,20h125.112c11.046,0,19.999-8.954,19.999-20 C298.054,288.954,289.1,280,278.054,280z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
-    content: '';
-    display: inline-block;
-    height: 20px;
-    width: 20px;
-}
-
-#typora-sidebar .file-tree-node.file-library-file-node.active:hover .file-node-icon::before {
-    background-image: url("data:image/svg+xml,%3Csvg version='1.1' fill='#2a2971' id='Capa_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 512 512' style='enable-background:new 0 0 512 512;' xml:space='preserve'%3E%3Cg%3E%3Cg%3E%3Cg%3E%3Cpath d='M352.459,220c0-11.046-8.954-20-20-20h-206c-11.046,0-20,8.954-20,20s8.954,20,20,20h206 C343.505,240,352.459,231.046,352.459,220z'/%3E%3Cpath d='M126.459,280c-11.046,0-20,8.954-20,20c0,11.046,8.954,20,20,20H251.57c11.046,0,20-8.954,20-20c0-11.046-8.954-20-20-20 H126.459z'/%3E%3Cpath d='M173.459,472H106.57c-22.056,0-40-17.944-40-40V80c0-22.056,17.944-40,40-40h245.889c22.056,0,40,17.944,40,40v123 c0,11.046,8.954,20,20,20c11.046,0,20-8.954,20-20V80c0-44.112-35.888-80-80-80H106.57c-44.112,0-80,35.888-80,80v352 c0,44.112,35.888,80,80,80h66.889c11.046,0,20-8.954,20-20C193.459,480.954,184.505,472,173.459,472z'/%3E%3Cpath d='M467.884,289.572c-23.394-23.394-61.458-23.395-84.837-0.016l-109.803,109.56c-2.332,2.327-4.052,5.193-5.01,8.345 l-23.913,78.725c-2.12,6.98-0.273,14.559,4.821,19.78c3.816,3.911,9,6.034,14.317,6.034c1.779,0,3.575-0.238,5.338-0.727 l80.725-22.361c3.322-0.92,6.35-2.683,8.79-5.119l109.573-109.367C491.279,351.032,491.279,312.968,467.884,289.572z M333.776,451.768l-40.612,11.25l11.885-39.129l74.089-73.925l28.29,28.29L333.776,451.768z M439.615,346.13l-3.875,3.867 l-28.285-28.285l3.862-3.854c7.798-7.798,20.486-7.798,28.284,0C447.399,325.656,447.399,338.344,439.615,346.13z'/%3E%3Cpath d='M332.459,120h-206c-11.046,0-20,8.954-20,20s8.954,20,20,20h206c11.046,0,20-8.954,20-20S343.505,120,332.459,120z'/%3E%3C/g%3E%3C/g%3E%3C/g%3E%3C/svg%3E%0A");
-    content: '';
-    display: inline-block;
-    height: 20px;
-    width: 20px;
-}
-
-.active .file-node-icon::before {
-    background-image: url("data:image/svg+xml,%3Csvg version='1.1' fill='#2a2971' id='Capa_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 512 512' style='enable-background:new 0 0 512 512;' xml:space='preserve'%3E%3Cg%3E%3Cg%3E%3Cg%3E%3Cpath d='M352.459,220c0-11.046-8.954-20-20-20h-206c-11.046,0-20,8.954-20,20s8.954,20,20,20h206 C343.505,240,352.459,231.046,352.459,220z'/%3E%3Cpath d='M126.459,280c-11.046,0-20,8.954-20,20c0,11.046,8.954,20,20,20H251.57c11.046,0,20-8.954,20-20c0-11.046-8.954-20-20-20 H126.459z'/%3E%3Cpath d='M173.459,472H106.57c-22.056,0-40-17.944-40-40V80c0-22.056,17.944-40,40-40h245.889c22.056,0,40,17.944,40,40v123 c0,11.046,8.954,20,20,20c11.046,0,20-8.954,20-20V80c0-44.112-35.888-80-80-80H106.57c-44.112,0-80,35.888-80,80v352 c0,44.112,35.888,80,80,80h66.889c11.046,0,20-8.954,20-20C193.459,480.954,184.505,472,173.459,472z'/%3E%3Cpath d='M467.884,289.572c-23.394-23.394-61.458-23.395-84.837-0.016l-109.803,109.56c-2.332,2.327-4.052,5.193-5.01,8.345 l-23.913,78.725c-2.12,6.98-0.273,14.559,4.821,19.78c3.816,3.911,9,6.034,14.317,6.034c1.779,0,3.575-0.238,5.338-0.727 l80.725-22.361c3.322-0.92,6.35-2.683,8.79-5.119l109.573-109.367C491.279,351.032,491.279,312.968,467.884,289.572z M333.776,451.768l-40.612,11.25l11.885-39.129l74.089-73.925l28.29,28.29L333.776,451.768z M439.615,346.13l-3.875,3.867 l-28.285-28.285l3.862-3.854c7.798-7.798,20.486-7.798,28.284,0C447.399,325.656,447.399,338.344,439.615,346.13z'/%3E%3Cpath d='M332.459,120h-206c-11.046,0-20,8.954-20,20s8.954,20,20,20h206c11.046,0,20-8.954,20-20S343.505,120,332.459,120z'/%3E%3C/g%3E%3C/g%3E%3C/g%3E%3C/svg%3E%0A");
-    content: '';
-    display: inline-block;
-    height: 20px;
-    width: 20px;
-}
-
-.file-library-node.file-tree-node {
-    padding: 0;
-    margin: 0;
-}
-
-.file-node-background {
-    padding: 25px 10px;
-    padding: 18px 10px 18px 0;
-}
-
-.file-node-content {
-    padding: 15px 5px;
-    padding: 8px 8px 8px 0;
-}
-
-.file-node-content:hover {
-    cursor: pointer;
-}
-
-.active .file-node-content {
-    font-weight: bold;
-}
-
-#typora-quick-open {
-    border: 1px solid #ddd;
-    background-color: #f8f8f8;
-}
-
-#typora-quick-open-item {
-    background-color: #FAFAFA;
-    border-color: #FEFEFE #e5e5e5 #e5e5e5 #eee;
-    border-style: solid;
-    border-width: 1px;
-}
-
-/** focus mode */
-.on-focus-mode blockquote {
-    border-left-color: rgba(85, 85, 85, 0.12);
-}
-
-header,
-.context-menu,
-.megamenu-content,
-footer {
-    font-family: "Open Sans", "Arial", sans-serif;
-}
-
-.megamenu-opened header {
-    background-image: none;
-}
-
-#typora-sidebar #ty-sidebar-footer {
-    background-color: #f9f9f9 !important;
-    border-top: 1px solid #dfdfdf;
-}
 
-.megamenu-menu-header {
-    border-bottom: 1px solid #16161a;
+    .markdown-body .highlight pre,
+    .markdown-body pre {
+      white-space: pre-wrap;
+    }
+    .markdown-body table {
+      display: table;
+    }
+    .markdown-body img[data-align="center"] {
+      display: block;
+      margin: 0 auto;
+    }
+    .markdown-body img[data-align="right"] {
+      display: block;
+      margin: 0 0 0 auto;
+    }
+    .markdown-body li.task-list-item {
+      list-style-type: none;
+    }
+    .markdown-body li > [type=checkbox] {
+      margin: 0 0 0 -1.3em;
+    }
+    .markdown-body input[type="checkbox"] ~ p {
+      margin-top: 0;
+      display: inline-block;
+    }
+    .markdown-body ol ol,
+    .markdown-body ul ol {
+      list-style-type: decimal;
+    }
+    .markdown-body ol ol ol,
+    .markdown-body ol ul ol,
+    .markdown-body ul ol ol,
+    .markdown-body ul ul ol {
+      list-style-type: decimal;
+    }
+  </style>
+  <style>.markdown-body a.footnote-ref {
+  text-decoration: none;
+}
+
+.footnotes {
+  font-size: .85em;
+  opacity: .8;
+}
+
+.footnotes li[role="doc-endnote"] {
+  position: relative;
+}
+
+.footnotes .footnote-back {
+  position: absolute;
+  font-family: initial;
+  top: .2em;
+  right: 1em;
+  text-decoration: none;
+}
+
+.inline-math.invalid,
+.multiple-math.invalid {
+  color: rgb(255, 105, 105);
+}
+
+.toc-container {
+  width: 100%;
+}
+
+.toc-container .toc-title {
+  font-weight: 700;
+  font-size: 1.2em;
+  margin-bottom: 0;
+}
+
+.toc-container li,
+.toc-container ul,
+.toc-container ul li {
+  list-style: none !important;
+}
+
+.toc-container > ul {
+  padding-left: 0;
+}
+
+.toc-container ul li span {
+  display : flex;
+}
+
+.toc-container ul li span a {
+  color: inherit;
+  text-decoration: none;
+}
+.toc-container ul li span a:hover {
+  color: inherit;
+  text-decoration: none;
+}
+
+.toc-container ul li span span.dots {
+  flex: 1;
+  height: 0.65em;
+  margin: 0 10px;
+  border-bottom: 2px dotted black;
 }
-
-.megamenu-menu-list li:not(.saved) a:not(.active):hover,
-.megamenu-menu-list li a.active {
-    background: #101010 !important;
-}
-
-.file-node-content:hover .file-node-icon,
-.file-node-content:hover .file-node-open-state {
-    visibility: visible;
-}
-
-.mac-seamless-mode #typora-sidebar {
-    background-color: #f9f9f9;
-    font-weight: 100;
-}
-
-.md-lang {
-    color: #b4654d;
-}
-
-.html-for-mac .context-menu {
-    --item-hover-bg-color: #E6F0FE;
-}
-
-#md-notification .btn {
-    border: 0;
-}
-
-.dropdown-menu .divider {
-    border-color: #e5e5e5;
-}
-
-.ty-preferences .window-content {
-    background-color: #fafafa;
-}
-
-.ty-preferences .nav-group-item.active {
-    color: white;
-    background: #999;
-}
-
-/* CodeMirror Dracula theme */
-.cm-s-inner {
-    border: 1px solid var(--accent-color) !important;
-    border-radius: .25rem;
-    font-family: 'Hack';
-}
-
-.cm-s-inner.CodeMirror,
-.cm-s-inner .CodeMirror-gutters {
-    background-color: #212425 !important;
-    color: #f8f8f2 !important;
-    border: none;
-}
-
-.CodeMirror {
-    height: 300px;
-    height: auto;
-}
-
-.CodeMirror-lines {
-    padding: 4px 0;
-    /* Vertical padding around content */
-}
-
-.CodeMirror div.CodeMirror-cursor {
-    border-left: 1px solid green;
-    z-index: 3;
-}
-
-.cm-s-inner .CodeMirror-gutters {
-    background-color: #0d0e0f !important;
-    border-right: 1px solid #444;
-    border-radius: 4px;
-    width: 5ch;
-    color: #5c5d5c !important;
-    height: 100%;
-    white-space: nowrap;
-}
-
-.cm-s-inner .CodeMirror-cursor {
-    border-left: solid rgb(96, 255, 96) !important;
-}
-
-.cm-s-inner .CodeMirror-linenumber {
-    color: #5c5d5c;
-    font-weight: bold;
-    width: 4ch !important;
-}
-
-.cm-s-inner .CodeMirror-line::selection,
-.cm-s-inner .CodeMirror-line::-moz-selection,
-.cm-s-inner .CodeMirror-line>span::selection,
-.cm-s-inner .CodeMirror-line>span::-moz-selection,
-.cm-s-inner .CodeMirror-line>span>span::selection,
-.cm-s-inner .CodeMirror-line>span>span::-moz-selection {
-    background: rgba(255, 255, 255, 0.1);
-}
-
-.cm-s-inner span.cm-comment {
-    color: #969896;
-}
-
-.cm-s-inner span.cm-string,
-.cm-s-inner span.cm-string-2 {
-    color: #e4eb9b;
-}
-
-.cm-s-inner span.cm-number {
-    color: #c7b2e4;
-}
-
-.cm-s-inner span.cm-variable,
-.cm-s-inner span.cm-variable-2 {
-    /* color: #50fa7b; */
-    /* color: #a8b151; */
-    color: #81a2be;
-}
-
-.cm-s-inner span.cm-def {
-    color: white;
-}
-
-.cm-s-inner span.cm-operator {
-    color: #ff79c6;
-}
-
-.cm-s-inner span.cm-keyword {
-    color: #e79ac6;
-    color: #b294bb;
-}
-
-.cm-s-inner span.cm-atom {
-    color: #bd93f9;
-}
-
-.cm-s-inner span.cm-meta {
-    color: #f8f8f2;
-}
-
-.cm-s-inner span.cm-tag {
-    color: #8abeb7;
-}
-
-.cm-s-inner span.cm-attribute {
-    color: #91eba7;
-}
-
-.cm-s-inner span.cm-qualifier {
-    color: #82ee9d;
-}
-
-.cm-s-inner span.cm-property {
-    /* color: #66d9ef; */
-    color: #7091b1;
-    color: #81a2be;
-}
-
-.cm-s-inner span.cm-builtin {
-    color: #8ffaaa;
-}
-
-.cm-s-inner span.cm-variable-3,
-.cm-s-inner span.cm-type {
-    color: #f1c290;
-}
-
-.md-fences.md-focus .cm-s-inner .CodeMirror-activeline-background {
-    background: rgba(255, 255, 255, 0.1);
-}
-
-.cm-s-inner .CodeMirror-matchingbracket {
-    text-decoration: underline;
-    color: white !important;
-}
-
-.cm-s-inner .CodeMirror-selected,
-.cm-s-inner .CodeMirror-selectedtext {
-    background: #3b4254 !important;
-    color: inherit;
-    text-shadow: none;
-}
-
-#write>p:first-child:empty {
-    position: static;
-}
-
-#write>p:first-child:not(:only-child)::before,
-#write>p:only-child::before {
-    content: '';
-    display: block;
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background: url("file:///C://Users//Markus//AppData//Roaming//Typora/themes/gitlab/logo.png") no-repeat 45% 90% transparent;
-    background-size: cover;
-    opacity: 0;
-    height: 100%;
-    max-width: 100%;
-    width: 100%;
-}
-
-#write>p:only-child:empty::before {
-    opacity: 1;
-}
-
-
 </style>
+  
+  
 </head>
-<body class='typora-export os-windows'>
-<div id='write'  class=''><h1><a name="chronik-der-familie-fleschutz-1412-1942" class="md-header-anchor"></a><span>Chronik der Familie Fleschutz (1412-1942)</span></h1><p><strong><span>Legende:</span></strong><span> * = Geburt, ⚭ = Hochzeit, † = Tod, 🔨 = Beruf, 💥 = Krieg, {} = Quelle (mehr Hinweise: siehe unten). </span></p><figure><table><thead><tr><th><span>Jahr</span></th><th><span>Ereignis</span></th></tr></thead><tbody><tr><td><span>1412</span></td><td><span>Utz Brästel genannt Fläschuz, kauft die Güter zu &quot;Wyler&quot; und &quot;Mätzlins&quot; (jetzt Fleschützen bei Börwang) vom Fürststift Kempten {</span><a href='Quellen/Fuerststift_Kempten/Urkunde_263/'><span>Brief &amp; Urkunde 263</span></a><span>} (erste urkundliche Erwähnung)</span></td></tr><tr><td><span>1480</span></td><td><span>Jörg Fleschütz, Haldenwanger Pfarr.</span></td></tr><tr><td><span>1505</span></td><td><span>Vergleich zwischen Hans Johann Fleschutz und Hans Caspar Laubenberg {</span><a href='Quellen/Fuerststift_Kempten/Urkunde_1757/'><span>Urkunde 1757</span></a><span>}</span></td></tr><tr><td><span>1516</span></td><td><span>Frevelgerichtsbarkeit zu Fleschützen {</span><a href='Quellen/Fuerststift_Kempten/Urkunde_2007/'><span>Urkunde 2007</span></a><span>}</span></td></tr><tr><td><span>1525</span></td><td><span>💥 Deutscher Bauernkrieg, 200 Allgäuer Höfe wurden in Brand gesteckt {</span><a href='Quellen/Wikipedia/Deutscher_Bauernkrieg.pdf'><span>Wikipedia</span></a><span>}</span></td></tr><tr><td><span>1530</span></td><td><span>Georg Fleschutz (Hofmeister) kauft Wasserrecht zu Burkarts {</span><a href='Quellen/Fuerststift_Kempten/Urkunde_2546/'><span>Urkunde 2546</span></a><span>}, 1 Jahr später kauft er 2 Jauchert Acker {</span><a href='Quellen/Fuerststift_Kempten/Urkunde_2566/'><span>Urkunde 2566</span></a><span>}, 1540 kauft er ein Haus vom Konvent {</span><a href='Quellen/Fuerststift_Kempten/Urkunde_2915/'><span>Urkunde 2915</span></a><span>} und 1542 kauft er weitere 2 Häuser vom Konvent {</span><a href='Quellen/Fuerststift_Kempten/Urkunde_2984'><span>Urkunde 2984</span></a><span>}</span></td></tr><tr><td><span>1537</span></td><td><img src="Quellen/Allgaeuer_Geschichtsfreund/Bildausschnitt.jpg" referrerpolicy="no-referrer" alt="Wappen"><span> {</span><a href='Quellen/Allgaeuer_Geschichtsfreund/Wappen.pdf'><span>Allgäuer Geschichtsfreund, Kempter Wappen und Zeichen</span></a><span>}</span></td></tr><tr><td><span>1543</span></td><td><span>Baltus Fleschutz, zum Weyler, genannt (bei den) Fleschutzen</span></td></tr><tr><td><span>1550</span></td><td><span>Agatha Fleschutz verkauft ihr Gut zu Eschers (Untrasried) für 200 Gulden {</span><a href='Quellen/Fuerststift_Kempten/Urkunde_3316'><span>Urkunde 3316</span></a><span>}</span></td></tr><tr><td><span>1550-1743</span></td><td><span>Güter und Untertanen zu Fleschützen {</span><a href='Quellen/Fuerststift_Kempten/Akte_1913'><span>Akte 1913</span></a><span>}</span></td></tr><tr><td><span>1554</span></td><td><span>Georg Fleschutz (in Schwarzen) wegen verliehener Wirtschaftsgerechtsame {</span><a href='Quellen/Fuerststift_Kempten/Urkunde_3495/'><span>Urkunde 3495</span></a><span>} und {</span><a href='Quellen/Fuerststift_Kempten/Urkunde_3499'><span>Urkunde 3499</span></a><span>}</span></td></tr><tr><td><span>1564</span></td><td><span>Baltasar Fleschutz (Scholare) will Priester werden</span></td></tr><tr><td><span>1565</span></td><td><span>Christoph Fleschutz kauft eine Gaststätte {</span><a href='Quellen/Fuerststift_Kempten/Urkunde_3800'><span>Urkunde 3800</span></a><span>}</span></td></tr><tr><td><span>1565</span></td><td><span>Balthus Fleschutz zu Fleschützen bekommt Zinsbrief von Lukas Haini zu Bachtels {</span><a href='Quellen/Fuerststift_Kempten/Urkunde_3778'><span>Urkunde 3778</span></a><span>}</span></td></tr><tr><td><span>1618-1648</span></td><td><span>💥 Dreißigjähriger Krieg, dadurch Hungersnöte und Seuchen. In Teilen Süddeutschlands überlebte nur ein Drittel der Bevölkerung {</span><a href='Quellen/Wikipedia/Dreissigjaehriger_Krieg.pdf'><span>Wikipedia</span></a><span>}</span></td></tr><tr><td><span>1658</span></td><td><span>Hans Georg Fleschutz verkauft Baind zu Dickenbühl {</span><a href='Quellen/Fuerststift_Kempten/Urkunde_5642/'><span>Urkunde 5642</span></a><span>}</span></td></tr><tr><td><span>1666</span></td><td><span>Baltasar Fleschutz, Bauschreiber im Stift Kempten</span></td></tr><tr><td><span>1686</span></td><td><span>Georg Fleschutz zu Haubensteig kauft Weiderecht im Stadtallmey {</span><a href='Quellen/Fuerststift_Kempten/Akte_1127/'><span>Akte 1127</span></a><span>}</span></td></tr><tr><td><span>1791</span></td><td><img src="Quellen/Fuerststift_Kempten/1791_Karte.jpg" referrerpolicy="no-referrer" alt="Karte"><span> Karte des Territoriums der Fürstabtei Kempten von 1791 {</span><a href='Quellen/Wikipedia/Fuerststift_Kempten.pdf'><span>Wikipedia</span></a><span>}</span></td></tr></tbody></table></figure><figure><table><thead><tr><th><span>Vorname(n)</span></th><th><span>Ereignis</span></th></tr></thead><tbody><tr><td><strong><span>Baltasar</span></strong></td><td><span>†1646 ⚭Ursula Schneider {</span><a href='https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-S/?pg=1'><span>Sterberegister</span></a><span>} (vermutlich verwandt)</span></td></tr><tr><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td><strong><span>Georg</span></strong></td><td><span>🔨Hauptmann und Wirt ⚭1649 Sabina Brenberg(+1652) ⚭1654 Maria Heslin in Börwang {</span><a href='https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-S/?pg=9'><span>Sterberegister Sabina</span></a><span>} {</span><a href='https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-H/?pg=11'><span>Hochzeitsregister mit Maria</span></a><span>} (vermutlich verwandt)</span></td></tr><tr><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td><strong><span>Georg &amp; Sabina &amp; Maria&#39;s Kinder:</span></strong><span> (in Börwang bei Haldenwang)</span></td></tr><tr><td><strong><span>Johann Georg</span></strong></td><td><span>⚭1663 Maria Briechler in B. {</span><a href='https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-H/?pg=19'><span>Hochzeitsregister</span></a><span>}</span></td></tr><tr><td><span>Maria</span></td><td><span>*1649 in B. {</span><a href='https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-1/?pg=10'><span>Taufregister</span></a><span>} (vermutlich verwandt)</span></td></tr><tr><td><span>Catharina</span></td><td><span>*1651 in B. +1654 {</span><a href='https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-1/?pg=25'><span>Taufregister</span></a><span>} (vermutlich verwandt)</span></td></tr><tr><td><span>Ursula</span></td><td><span>*1655 in B. {</span><a href='https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-1/?pg=41'><span>Taufregister</span></a><span>}  (vermutlich verwandt)</span></td></tr><tr><td><span>Elisabeth</span></td><td><span>*1656 in B. {</span><a href='https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-1/?pg=45'><span>Taufregister</span></a><span>} (vermutlich verwandt)</span></td></tr><tr><td><span>Regina</span></td><td><span>*1657 in B. {</span><a href='https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-1/?pg=51'><span>Taufregister</span></a><span>} (vermutlich verwandt)</span></td></tr><tr><td><span>Sabina</span></td><td><span>*1659 in B. {</span><a href='https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-1/?pg=57'><span>Taufregister</span></a><span>} (vermutlich verwandt)</span></td></tr><tr><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td><strong><span>Johann Georg &amp; Maria&#39;s Kinder:</span></strong><span> (in Börwang bei Haldenwang)</span></td></tr><tr><td><span>Sabina</span></td><td><span>*1664 in B. {</span><a href='https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-1/?pg=72'><span>Taufregister</span></a><span>}</span></td></tr><tr><td><span>Roman</span></td><td><span>*1665 in B. {</span><a href='https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-1/?pg=75'><span>Taufregister</span></a><span>}</span></td></tr><tr><td><span>Rosina</span></td><td><span>*1666 in B. {</span><a href='https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-1/?pg=78'><span>Taufregister</span></a><span>}</span></td></tr><tr><td><span>Ferdinand</span></td><td><span>*1667 in B. {</span><a href='https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-1/?pg=80'><span>Taufregister</span></a><span>}</span></td></tr><tr><td><span>Anna</span></td><td><span>*1669 in B. {</span><a href='https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-2/?pg=4'><span>Taufregister</span></a><span>}</span></td></tr><tr><td><span>Barbara</span></td><td><span>*1670 in B. {</span><a href='https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-2/?pg=7'><span>Taufregister</span></a><span>}</span></td></tr><tr><td><span>Franz</span></td><td><span>*1671 in B. {</span><a href='https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/2-T/?pg=4'><span>Taufregister</span></a><span>}</span></td></tr><tr><td><span>Maria</span></td><td><span>*1673 in B. {</span><a href='https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/2-T/?pg=7'><span>Taufregister</span></a><span>}</span></td></tr><tr><td><span>Maria</span></td><td><span>*1675 in B. {</span><a href='https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/2-T/?pg=9'><span>Taufregister</span></a><span>}</span></td></tr><tr><td><span>Franz</span></td><td><span>*1677 in B. {</span><a href='https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/2-T/?pg=12'><span>Taufregister</span></a><span>}</span></td></tr><tr><td><span>Anna</span></td><td><span>*1679 in B. {</span><a href='https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/2-T/?pg=15'><span>Taufregister</span></a><span>}</span></td></tr><tr><td><strong><span>Mang</span></strong></td><td><span>*1680 in B., ⚭1717 Anna Maria Geiger in B. {</span><a href='https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/2-T/?pg=12'><span>Hochzeitsregister</span></a><span>}</span></td></tr><tr><td><span>Josef</span></td><td><span>*1681 in B. {</span><a href='https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/2-T/?pg=19'><span>Taufregister</span></a><span>}</span></td></tr><tr><td><span>Georg</span></td><td><span>*1683 in B. {</span><a href='https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/2-T/?pg=22'><span>Taufregister</span></a><span>}</span></td></tr><tr><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td><strong><span>Mang &amp; Anna Maria&#39;s Kinder:</span></strong><span> (in Börwang bei Haldenwang)</span></td></tr><tr><td><span>Anna</span></td><td><span>*1718 in B. {</span><a href='https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/3-T/?pg=34'><span>Taufregister</span></a><span>}</span></td></tr><tr><td><span>Anna Maria</span></td><td><span>*1719 in B. {</span><a href='https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/3-T/?pg=36'><span>Taufregister</span></a><span>}</span></td></tr><tr><td><span>Ferdinand</span></td><td><span>*1721 in B. {</span><a href='https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/3-T/?pg=42'><span>Taufregister</span></a><span>}</span></td></tr><tr><td><span>Johannes?</span></td><td><span>*1723 in B. {</span><a href='https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/3-T/?pg=45'><span>Taufregister</span></a><span>}</span></td></tr><tr><td><strong><span>Josef</span></strong></td><td><span>*1725 in B. 🔨Bauer +06.04.1773 an böses Fieber in Waizenried bei Untrasried ⚭11.08.1757 Anastasia Trunzer in Untrasried {</span><a href='https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/3-T/?pg=50'><span>Taufregister</span></a><span>}</span></td></tr><tr><td><span>Dominik</span></td><td><span>*1726 in B. {</span><a href='https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/3-T/?pg=54'><span>Taufregister</span></a><span>}</span></td></tr><tr><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td><strong><span>Josef &amp; Anastasia&#39;s Kinder:</span></strong><span> (auf Hof in Waizenried 79 bei Untrasried, jetzt Schindele-Hof) {</span><a href='https://data.matricula-online.eu/de/deutschland/augsburg/untrasried/16-FB/?pg=99'><span>Familienbuch</span></a><span>}</span></td></tr><tr><td><span>Anna Barbara</span></td><td><span>*23.03.1758 in W. ⚭23.05.1793 mit Prack</span></td></tr><tr><td><span>Jakob</span></td><td><span>*23.07.1760 in W., †01.08.1760 mit nur 9 Tagen</span></td></tr><tr><td><strong><span>Leonhard</span></strong></td><td><span>*04.11.1761 in W. 🔨Bauer †09.03.1814 ⚭11.7.1785 Maria Adelheid Waldmann</span></td></tr><tr><td><span>Dominik</span></td><td><span>*08.10.1762 in W. +1762</span></td></tr><tr><td><span>Maria Anna</span></td><td><span>*18.07.1764 in W. ⚭04.02.1788 mit Stehele … nach Mittelberg</span></td></tr><tr><td><span>Sabina</span></td><td><span>*26.10.1765 in W. †04.01.1766 mit nur 2 Monaten</span></td></tr><tr><td><span>Jakob</span></td><td><span>*06.07.1768 in W.</span></td></tr><tr><td><span>Afra</span></td><td><span>*06.08.1769 in W. †10.09.1769 mit nur 1 Monat</span></td></tr><tr><td><span>Theodor</span></td><td><span>*08.11.1770 in W.</span></td></tr><tr><td><span>Anna Maria</span></td><td><span>*31.12.1772 in W. †18.08.1773 mit nur 7 Monaten</span></td></tr><tr><td><span>-</span></td><td><span>+23.10.1773 in W. (notgetauft)</span></td></tr><tr><td><span>Josef</span></td><td><span>*16.02.1775 in W. +09.03.1775 mit nur 21 Tagen</span></td></tr><tr><td><span>Franz Josef</span></td><td><span>*14.02.1776 in W.</span></td></tr><tr><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td><strong><span>Leonhard &amp; Maria Adelheid&#39;s Kinder:</span></strong><span> (auf Hof in Waizenried 79 bei Untrasried, jetzt Schindele-Hof) {</span><a href='https://data.matricula-online.eu/de/deutschland/augsburg/untrasried/16-FB/?pg=99'><span>Familienbuch</span></a><span>}</span></td></tr><tr><td><span>Johann Georg</span></td><td><span>*07.07.1786 in W., †13.07.1786</span></td></tr><tr><td><span>Anna Maria</span></td><td><span>*29.08.1787 in W. †04.09.1787 mit nur 6 Tagen</span></td></tr><tr><td><span>-</span></td><td><span>+24.09.1788 in W. (notgetauft)</span></td></tr><tr><td><span>Genovefa</span></td><td><span>*03.01.1790 in W. †09.01.1790 mit nur 6 Tagen</span></td></tr><tr><td><strong><span>Johann Georg</span></strong></td><td><span>*20.04.1791 in W. 🔨Bauer †06.06.1865 ⚭ Maurus ... ⚭ Kreszentia Reichart</span></td></tr><tr><td><span>M. Afra</span></td><td><span>*05.08.1794 in W.</span></td></tr><tr><td><span>Ulrich</span></td><td><span>*04.07.1796 in W. †17.09.1861 in Burg ⚭Creszentia Hartmann, *25.12.1791</span></td></tr><tr><td><span>Franziska</span></td><td><span>*03.10.1797 in W.</span></td></tr><tr><td><span>Johann Baptist</span></td><td><em><span>23.06.1799 in W. †13.02.1875 in Engetried ⚭ Maria Kreszenz Epp (</span></em><span>10.09.1798 †06.12.1862)</span></td></tr><tr><td><span>Maria Anna</span></td><td><span>*16.07.1805 in W. †1.7.1810 mit nur 5 Jahren</span></td></tr><tr><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td><strong><span>Johann Georg &amp; Maurus &amp; Kreszentia&#39;s Kinder:</span></strong><span> (auf Hof in Waizenried 79 bei Untrasried, jetzt Schindele-Hof) {</span><a href='https://data.matricula-online.eu/de/deutschland/augsburg/untrasried/16-FB/?pg=99'><span>Familienbuch</span></a><span>}</span></td></tr><tr><td><span>Franz Xaver</span></td><td><span>*03.02.1818 in W. †06.02.1818 mit nur 3 Tagen</span></td></tr><tr><td><span>Maria Anna</span></td><td><span>*12.10.1819 in W. †14.07.1867 in Kraftisried?</span></td></tr><tr><td><span>Karolina</span></td><td><span>*16.03.1821 in W.</span></td></tr><tr><td><span>Franz Xaver</span></td><td><span>*13.05.1822 in W. †19.05.1822 mit nur 6 Tagen</span></td></tr><tr><td><span>Johann Georg</span></td><td><span>*14.08.1823 in W. †24.04.1830</span></td></tr><tr><td><span>Johann ?</span></td><td><span>*02.08.1824 in W. †28.08.1824 mit nur 1 Monat</span></td></tr><tr><td><span>Ignaz</span></td><td><span>*31.07.1825 in W. †17.09.1825 mit nur 46 Tagen</span></td></tr><tr><td><span>M. Josefa</span></td><td><span>*31.10.1826 in W.</span></td></tr><tr><td><span>Johannes Chrysostomus</span></td><td><span>*09.02.1828 in W. †1907 in Obg. ⚭24.11.1862 Maria Antonia Schindele (zog als Privatier nach Obg.)</span></td></tr><tr><td><span>Johann L.</span></td><td><span>*24.06.1829 in W. †02.03.1830</span></td></tr><tr><td><strong><span>Theresia</span></strong></td><td><span>*01.06.1831 in W. 🔨Privatiere †25.11.1901 in Ostenried 71 bei Untrasried {</span><a href='Quellen/Sterbebilder/1831_Theresia.jpg'><span>Sterbebild</span></a><span>}</span></td></tr><tr><td><span>Theodor</span></td><td><span>*20.10.1832 in W. †1915 in Albrechts</span></td></tr><tr><td><span>Alois</span></td><td><span>*24.03.1834 in W.</span></td></tr><tr><td><span>Johann Georg</span></td><td><span>*19.11.1835 in W. †03.04.1880 in Ostenried 71</span></td></tr><tr><td><span>Johann Heinrich</span></td><td><span>*27.04.1837 in W. ⚭21.2.1881 in Altdorf mit Maria Anna T. (2 Monate Hof, Trübsinn)</span></td></tr><tr><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td><strong><span>Theresia &amp; Xaver Prinz&#39;s Kind</span></strong><span>: {</span><a href='https://data.matricula-online.eu/de/deutschland/augsburg/untrasried/16-FB/?pg=99'><span>Familienbuch</span></a><span>}</span></td></tr><tr><td><strong><span>Johann Georg</span></strong></td><td><em><span>09.05.1868 in Ostenried 71 bei Untrasried 🔨Bauer †05.01.1933 {</span><a href='Quellen/Sterbebilder/1868_Georg.jpg'><span>Sterbebild</span></a><span>} ⚭ Apollonia Mayr (</span></em><span>09.02.1870 +08.12.1957 {</span><a href='Quellen/Sterbebilder/1870_Apollonia.jpg'><span>Sterbebild</span></a><span>})</span></td></tr><tr><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td><strong><span>Johann Georg &amp; Apollonia&#39;s Kinder:</span></strong><span> (zuerst in Ostenried 71 bei Untrasried, dann in Albrechts 12 bei Günzach)</span></td></tr><tr><td><strong><span>Johann</span></strong></td><td><em><span>30.12.1895 in O. 🔨Bauer †29.05.1955 in Albrechts {</span><a href='Quellen/Sterbebilder/1895_Johann'><span>Sterbebild</span></a><span>} ⚭ Sophie Hartmann (</span></em><span>23.03.1904 †30.09.1977) {</span><a href='Quellen/Sterbebilder/1904_Sophie.jpg'><span>Sterbebild</span></a><span>}</span></td></tr><tr><td><span>Maria</span></td><td><span>*25.01.1897 in O. †05.01.1990</span></td></tr><tr><td><span>Theresia</span></td><td><span>*27.04.1902 in O. †25.06.1987 ⚭Johann Kustermann</span></td></tr><tr><td><span>Georg</span></td><td><span>*19.04.1903 in O. †19.04.1903 mit nur 1 Tag</span></td></tr><tr><td><span>Johann Georg</span></td><td><span>*13.08.1906 in A. †09.05.1935</span></td></tr><tr><td><span>Theodor</span></td><td><span>*10.12.1907 in A. 🔨Soldat †28.09.1942 bei Leningrad, Russland {</span><a href='Quellen/Sterbebilder/1907_Theodor.jpg'><span>Sterbebild</span></a><span>}</span></td></tr><tr><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td><span>1914-1918 💥 1. Weltkrieg mit ca. 17 Millionen Toten {</span><a href='Quellen/Wikipedia/Erster_Weltkrieg.pdf'><span>Wikipedia</span></a><span>}</span></td></tr><tr><td>&nbsp;</td><td><span>1939-1945 💥 2. Weltkrieg mit ca. 60-80 Millionen Toten {</span><a href='Quellen/Wikipedia/Zweiter_Weltkrieg.pdf'><span>Wikipedia</span></a><span>}</span></td></tr><tr><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td><strong><span>Johann &amp; Sophie&#39;s Kinder:</span></strong><span> (auf Hof in Albrechts 12 bei Günzach)</span></td></tr><tr><td><span>Georg</span></td><td><span>*21.01.1935 in A., †19.03.1935 mit nur 2 Monaten</span></td></tr><tr><td><span>Amalie Maria Anna</span></td><td><span>*20.02.1936 in A.</span></td></tr><tr><td><span>Apollonia Theresia</span></td><td><span>*29.05.1937 in A.</span></td></tr><tr><td><span>Johann</span></td><td><span>*05.12.1938 in A. 🔨Bauer ⚭Rosmarie Höbel *18.12.1947</span></td></tr><tr><td><span>Theodor Konrad</span></td><td><span>*12.11.1942 in A. 🔨Molkerei-Meister ⚭Sigrun Friede *01.04.1949 in Radolfzell</span></td></tr></tbody></table></figure><h2><a name="hinweise" class="md-header-anchor"></a><span>Hinweise</span></h2><ul><li><span>Zur Namensentstehung: im Brief von 1412 nennt sich Utz Brästel selbst: &quot;fläsch ützen&quot; (mit Leerzeichen, vmtl. Kurzform von: Flaschner Utz, siehe auch Wappen mit Flasche). Grund dafür waren wohl mehrere Utz Brästel im selben Ort (Vater/Großvater/Onkel/Cousin?). In der darauffolgenden (Kauf-)Urkunde wird daraus: &quot;fläschüzen&quot; (ohne Leerzeichen, ohne T).</span></li><li><span>Die Kirchenbücher in Haldenwang beginnen ab dem Jahr 1639.</span></li><li><em><span>&quot;Haus mit Taferngerechtigkeit&quot;</span></em><span> bedeutete früher: Gaststätte, </span><em><span>&quot;Federspiel&quot;</span></em><span> = Falkenjagd, </span><em><span>&quot;in den Hölzern&quot;</span></em><span> = im (Forst-)Wald, </span><em><span>&quot;Frevel&quot;</span></em><span> = leichteres Vergehen, </span><em><span>&quot;Privatiere&quot;</span></em><span> = wohlhabende Frau ohne Erwerbstätigkeit, </span><em><span>&quot;Flaschner&quot;</span></em><span> = Blechschmied.</span></li><li><span>Die Handschriften sind entweder in </span><a href='Quellen/Wikipedia/Suetterlinschrift.pdf'><span>Sütterlinschrift</span></a><span> oder in </span><a href='Quellen/Wikipedia/Deutsche_Kurrentschrift.pdf'><span>Deutsche Kurrentschrift</span></a><span>.</span></li><li><span>Diese Chronik ist auch verfügbar im Format: </span><a href='Export/Chronik.docx'><span>.DOCX</span></a><span>, </span><a href='Export/Chronik.epub'><span>.EPUB (für E-Books)</span></a><span>, </span><a href='Export/Chronik.html'><span>.HTML</span></a><span>, </span><a href='Export/Chronik.odt'><span>.ODT</span></a><span>, </span><a href='Export/Chronik.opml'><span>.OPML</span></a><span>, </span><a href='Export/Chronik.pdf'><span>.PDF</span></a><span>, </span><a href='Export/Chronik.rst'><span>.RST</span></a><span>, </span><a href='Export/Chronik.rtf'><span>.RTF</span></a><span>, </span><a href='Export/Chronik.tex'><span>.TEX</span></a><span>, </span><a href='Export/Chronik.textile'><span>.TEXTILE</span></a><span>, </span><a href='Export/Chronik.wiki'><span>.WIKI</span></a><span>.</span></li><li><span>Stand: 9. Februar 2025</span></li></ul><h2><a name="👏-danksagung" class="md-header-anchor"></a><span>👏 Danksagung</span></h2><p><span>Herzlichen Dank an alle die bei dieser Chronik mitgeholfen haben:</span></p><ul><li><span>An Karl Fleschutz und seinen Großvater für ihre Ahnenforschung und ihre Chronik der Familie Fleschutz in Burg.</span></li><li><span>An </span><a href='https://data.matricula-online.eu/de/'><span>Matricula Online</span></a><span> für das Einscannen der vielen Kirchenbücher in Europa.</span></li><li><span>Ans </span><a href='https://www.gda.bayern.de/augsburg'><span>Staatsarchiv Augsburg</span></a><span> für die Einsichtnahme in die Urkunden und Akten.</span></li><li><span>An </span><a href='https://www.transkribus.org/de/kurrentschrift-uebersetzen'><span>Transkribus</span></a><span> für die maschinelle Schriftübersetzung.</span></li><li><span>An Bernhard für die Sterbebilder und an Jörg für den Hinweis zu Matricula Online.</span></li><li><span>An Andrea für das schwierige Entziffern der Handschriften.</span></li><li><span>Und natürlich an Manuel der für ein Schulprojekt den (Chronik-)Stein ins Rollen brachte 😊</span></li></ul></div>
+<body>
+  <article class="markdown-body"><h1 class="setext" id="chronik-der-familie-fleschutz-1412-1942">Chronik der Familie Fleschutz (1412-1942)</h1>
+<p><strong>Legende:</strong> * = Geburt, ⚭ = Hochzeit, † = Tod, 🛠 = Beruf, 💥 = Krieg, {} = Quelle (mehr Hinweise: siehe unten). </p>
+<table>
+<thead>
+<tr>
+<th>Jahr</th>
+<th>Ereignis</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>1412</td>
+<td>Utz Brästel genannt Fläschuz, kauft die Güter zu "Wyler" und "Mätzlins" (jetzt Fleschützen bei Börwang) vom Fürststift Kempten {<a href="Quellen/Fuerststift_Kempten/Urkunde_263/">Brief &amp; Urkunde 263</a>} (erste urkundliche Erwähnung)</td>
+</tr>
+<tr>
+<td>1480</td>
+<td>Jörg Fleschütz, Haldenwanger Pfarr.</td>
+</tr>
+<tr>
+<td>1505</td>
+<td>Vergleich zwischen Hans Johann Fleschutz und Hans Caspar Laubenberg {<a href="Quellen/Fuerststift_Kempten/Urkunde_1757/">Urkunde 1757</a>}</td>
+</tr>
+<tr>
+<td>1516</td>
+<td>Frevelgerichtsbarkeit zu Fleschützen {<a href="Quellen/Fuerststift_Kempten/Urkunde_2007/">Urkunde 2007</a>}</td>
+</tr>
+<tr>
+<td>1525</td>
+<td>💥 Deutscher Bauernkrieg, 200 Allgäuer Höfe wurden in Brand gesteckt {<a href="Quellen/Wikipedia/Deutscher_Bauernkrieg.pdf">Wikipedia</a>}</td>
+</tr>
+<tr>
+<td>1530</td>
+<td>Georg Fleschutz (Hofmeister) kauft Wasserrecht zu Burkarts {<a href="Quellen/Fuerststift_Kempten/Urkunde_2546/">Urkunde 2546</a>}, 1 Jahr später kauft er 2 Jauchert Acker {<a href="Quellen/Fuerststift_Kempten/Urkunde_2566/">Urkunde 2566</a>}, 1540 kauft er ein Haus vom Konvent {<a href="Quellen/Fuerststift_Kempten/Urkunde_2915/">Urkunde 2915</a>} und 1542 kauft er weitere 2 Häuser vom Konvent {<a href="Quellen/Fuerststift_Kempten/Urkunde_2984">Urkunde 2984</a>}</td>
+</tr>
+<tr>
+<td>1537</td>
+<td><img alt="Wappen" src="Quellen/Allgaeuer_Geschichtsfreund/Bildausschnitt.jpg"> {<a href="Quellen/Allgaeuer_Geschichtsfreund/Wappen.pdf">Allgäuer Geschichtsfreund, Kempter Wappen und Zeichen</a>}</td>
+</tr>
+<tr>
+<td>1543</td>
+<td>Baltus Fleschutz, zum Weyler, genannt (bei den) Fleschutzen</td>
+</tr>
+<tr>
+<td>1550</td>
+<td>Agatha Fleschutz verkauft ihr Gut zu Eschers (Untrasried) für 200 Gulden {<a href="Quellen/Fuerststift_Kempten/Urkunde_3316">Urkunde 3316</a>}</td>
+</tr>
+<tr>
+<td>1550-1743</td>
+<td>Güter und Untertanen zu Fleschützen {<a href="Quellen/Fuerststift_Kempten/Akte_1913">Akte 1913</a>}</td>
+</tr>
+<tr>
+<td>1554</td>
+<td>Georg Fleschutz (in Schwarzen) wegen verliehener Wirtschaftsgerechtsame {<a href="Quellen/Fuerststift_Kempten/Urkunde_3495/">Urkunde 3495</a>} und {<a href="Quellen/Fuerststift_Kempten/Urkunde_3499">Urkunde 3499</a>}</td>
+</tr>
+<tr>
+<td>1564</td>
+<td>Baltasar Fleschutz (Scholare) will Priester werden</td>
+</tr>
+<tr>
+<td>1565</td>
+<td>Christoph Fleschutz kauft eine Gaststätte {<a href="Quellen/Fuerststift_Kempten/Urkunde_3800">Urkunde 3800</a>}</td>
+</tr>
+<tr>
+<td>1565</td>
+<td>Balthus Fleschutz zu Fleschützen bekommt Zinsbrief von Lukas Haini zu Bachtels {<a href="Quellen/Fuerststift_Kempten/Urkunde_3778">Urkunde 3778</a>}</td>
+</tr>
+<tr>
+<td>1618-1648</td>
+<td>💥 Dreißigjähriger Krieg, dadurch Hungersnöte und Seuchen. In Teilen Süddeutschlands überlebte nur ein Drittel der Bevölkerung {<a href="Quellen/Wikipedia/Dreissigjaehriger_Krieg.pdf">Wikipedia</a>}</td>
+</tr>
+<tr>
+<td>1658</td>
+<td>Hans Georg Fleschutz verkauft Baind zu Dickenbühl {<a href="Quellen/Fuerststift_Kempten/Urkunde_5642/">Urkunde 5642</a>}</td>
+</tr>
+<tr>
+<td>1666</td>
+<td>Baltasar Fleschutz, Bauschreiber im Stift Kempten</td>
+</tr>
+<tr>
+<td>1686</td>
+<td>Georg Fleschutz zu Haubensteig kauft Weiderecht im Stadtallmey {<a href="Quellen/Fuerststift_Kempten/Akte_1127/">Akte 1127</a>}</td>
+</tr>
+<tr>
+<td>1791</td>
+<td><img alt="Karte" src="Quellen/Fuerststift_Kempten/1791_Karte.jpg"> Karte des Territoriums der Fürstabtei Kempten von 1791 {<a href="Quellen/Wikipedia/Fuerststift_Kempten.pdf">Wikipedia</a>}</td>
+</tr>
+</tbody></table>
+<table>
+<thead>
+<tr>
+<th>Vorname(n)</th>
+<th>Ereignis</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>Baltasar</strong></td>
+<td>†1646 ⚭Ursula Schneider {<a href="https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-S/?pg=1">Sterberegister</a>} (vermutlich verwandt)</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Georg</strong></td>
+<td>🛠Hauptmann und Wirt ⚭1649 Sabina Brenberg(+1652) ⚭1654 Maria Heslin in Börwang {<a href="https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-S/?pg=9">Sterberegister Sabina</a>} {<a href="https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-H/?pg=11">Hochzeitsregister mit Maria</a>} (vermutlich verwandt)</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><strong>Georg &amp; Sabina &amp; Maria's Kinder:</strong> (in Börwang bei Haldenwang)</td>
+</tr>
+<tr>
+<td><strong>Johann Georg</strong></td>
+<td>⚭1663 Maria Briechler in B. {<a href="https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-H/?pg=19">Hochzeitsregister</a>}</td>
+</tr>
+<tr>
+<td>Maria</td>
+<td>*1649 in B. {<a href="https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-1/?pg=10">Taufregister</a>} (vermutlich verwandt)</td>
+</tr>
+<tr>
+<td>Catharina</td>
+<td>*1651 in B. +1654 {<a href="https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-1/?pg=25">Taufregister</a>} (vermutlich verwandt)</td>
+</tr>
+<tr>
+<td>Ursula</td>
+<td>*1655 in B. {<a href="https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-1/?pg=41">Taufregister</a>}  (vermutlich verwandt)</td>
+</tr>
+<tr>
+<td>Elisabeth</td>
+<td>*1656 in B. {<a href="https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-1/?pg=45">Taufregister</a>} (vermutlich verwandt)</td>
+</tr>
+<tr>
+<td>Regina</td>
+<td>*1657 in B. {<a href="https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-1/?pg=51">Taufregister</a>} (vermutlich verwandt)</td>
+</tr>
+<tr>
+<td>Sabina</td>
+<td>*1659 in B. {<a href="https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-1/?pg=57">Taufregister</a>} (vermutlich verwandt)</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><strong>Johann Georg &amp; Maria's Kinder:</strong> (in Börwang bei Haldenwang)</td>
+</tr>
+<tr>
+<td>Sabina</td>
+<td>*1664 in B. {<a href="https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-1/?pg=72">Taufregister</a>}</td>
+</tr>
+<tr>
+<td>Roman</td>
+<td>*1665 in B. {<a href="https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-1/?pg=75">Taufregister</a>}</td>
+</tr>
+<tr>
+<td>Rosina</td>
+<td>*1666 in B. {<a href="https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-1/?pg=78">Taufregister</a>}</td>
+</tr>
+<tr>
+<td>Ferdinand</td>
+<td>*1667 in B. {<a href="https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-1/?pg=80">Taufregister</a>}</td>
+</tr>
+<tr>
+<td>Anna</td>
+<td>*1669 in B. {<a href="https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-2/?pg=4">Taufregister</a>}</td>
+</tr>
+<tr>
+<td>Barbara</td>
+<td>*1670 in B. {<a href="https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/1-T-2/?pg=7">Taufregister</a>}</td>
+</tr>
+<tr>
+<td>Franz</td>
+<td>*1671 in B. {<a href="https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/2-T/?pg=4">Taufregister</a>}</td>
+</tr>
+<tr>
+<td>Maria</td>
+<td>*1673 in B. {<a href="https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/2-T/?pg=7">Taufregister</a>}</td>
+</tr>
+<tr>
+<td>Maria</td>
+<td>*1675 in B. {<a href="https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/2-T/?pg=9">Taufregister</a>}</td>
+</tr>
+<tr>
+<td>Franz</td>
+<td>*1677 in B. {<a href="https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/2-T/?pg=12">Taufregister</a>}</td>
+</tr>
+<tr>
+<td>Anna</td>
+<td>*1679 in B. {<a href="https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/2-T/?pg=15">Taufregister</a>}</td>
+</tr>
+<tr>
+<td><strong>Mang</strong></td>
+<td>*1680 in B., ⚭1717 Anna Maria Geiger in B. {<a href="https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/2-T/?pg=12">Hochzeitsregister</a>}</td>
+</tr>
+<tr>
+<td>Josef</td>
+<td>*1681 in B. {<a href="https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/2-T/?pg=19">Taufregister</a>}</td>
+</tr>
+<tr>
+<td>Georg</td>
+<td>*1683 in B. {<a href="https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/2-T/?pg=22">Taufregister</a>}</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><strong>Mang &amp; Anna Maria's Kinder:</strong> (in Börwang bei Haldenwang)</td>
+</tr>
+<tr>
+<td>Anna</td>
+<td>*1718 in B. {<a href="https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/3-T/?pg=34">Taufregister</a>}</td>
+</tr>
+<tr>
+<td>Anna Maria</td>
+<td>*1719 in B. {<a href="https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/3-T/?pg=36">Taufregister</a>}</td>
+</tr>
+<tr>
+<td>Ferdinand</td>
+<td>*1721 in B. {<a href="https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/3-T/?pg=42">Taufregister</a>}</td>
+</tr>
+<tr>
+<td>Johannes?</td>
+<td>*1723 in B. {<a href="https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/3-T/?pg=45">Taufregister</a>}</td>
+</tr>
+<tr>
+<td><strong>Josef</strong></td>
+<td>*1725 in B. 🛠Bauer +06.04.1773 an böses Fieber in Waizenried bei Untrasried ⚭11.08.1757 Anastasia Trunzer in Untrasried {<a href="https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/3-T/?pg=50">Taufregister</a>}</td>
+</tr>
+<tr>
+<td>Dominik</td>
+<td>*1726 in B. {<a href="https://data.matricula-online.eu/de/deutschland/augsburg/haldenwang-bei-kempten/3-T/?pg=54">Taufregister</a>}</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><strong>Josef &amp; Anastasia's Kinder:</strong> (auf Hof in Waizenried 79 bei Untrasried, jetzt Schindele-Hof) {<a href="https://data.matricula-online.eu/de/deutschland/augsburg/untrasried/16-FB/?pg=99">Familienbuch</a>}</td>
+</tr>
+<tr>
+<td>Anna Barbara</td>
+<td>*23.03.1758 in W. ⚭23.05.1793 mit Prack</td>
+</tr>
+<tr>
+<td>Jakob</td>
+<td>*23.07.1760 in W., †01.08.1760 mit nur 9 Tagen</td>
+</tr>
+<tr>
+<td><strong>Leonhard</strong></td>
+<td>*04.11.1761 in W. 🛠Bauer †09.03.1814 ⚭11.7.1785 Maria Adelheid Waldmann</td>
+</tr>
+<tr>
+<td>Dominik</td>
+<td>*08.10.1762 in W. +1762</td>
+</tr>
+<tr>
+<td>Maria Anna</td>
+<td>*18.07.1764 in W. ⚭04.02.1788 mit Stehele … nach Mittelberg</td>
+</tr>
+<tr>
+<td>Sabina</td>
+<td>*26.10.1765 in W. †04.01.1766 mit nur 2 Monaten</td>
+</tr>
+<tr>
+<td>Jakob</td>
+<td>*06.07.1768 in W.</td>
+</tr>
+<tr>
+<td>Afra</td>
+<td>*06.08.1769 in W. †10.09.1769 mit nur 1 Monat</td>
+</tr>
+<tr>
+<td>Theodor</td>
+<td>*08.11.1770 in W.</td>
+</tr>
+<tr>
+<td>Anna Maria</td>
+<td>*31.12.1772 in W. †18.08.1773 mit nur 7 Monaten</td>
+</tr>
+<tr>
+<td>-</td>
+<td>+23.10.1773 in W. (notgetauft)</td>
+</tr>
+<tr>
+<td>Josef</td>
+<td>*16.02.1775 in W. +09.03.1775 mit nur 21 Tagen</td>
+</tr>
+<tr>
+<td>Franz Josef</td>
+<td>*14.02.1776 in W.</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><strong>Leonhard &amp; Maria Adelheid's Kinder:</strong> (auf Hof in Waizenried 79 bei Untrasried, jetzt Schindele-Hof) {<a href="https://data.matricula-online.eu/de/deutschland/augsburg/untrasried/16-FB/?pg=99">Familienbuch</a>}</td>
+</tr>
+<tr>
+<td>Johann Georg</td>
+<td>*07.07.1786 in W., †13.07.1786</td>
+</tr>
+<tr>
+<td>Anna Maria</td>
+<td>*29.08.1787 in W. †04.09.1787 mit nur 6 Tagen</td>
+</tr>
+<tr>
+<td>-</td>
+<td>+24.09.1788 in W. (notgetauft)</td>
+</tr>
+<tr>
+<td>Genovefa</td>
+<td>*03.01.1790 in W. †09.01.1790 mit nur 6 Tagen</td>
+</tr>
+<tr>
+<td><strong>Johann Georg</strong></td>
+<td>*20.04.1791 in W. 🛠Bauer †06.06.1865 ⚭ Maurus ... ⚭ Kreszentia Reichart</td>
+</tr>
+<tr>
+<td>M. Afra</td>
+<td>*05.08.1794 in W.</td>
+</tr>
+<tr>
+<td>Ulrich</td>
+<td>*04.07.1796 in W. †17.09.1861 in Burg ⚭Creszentia Hartmann, *25.12.1791</td>
+</tr>
+<tr>
+<td>Franziska</td>
+<td>*03.10.1797 in W.</td>
+</tr>
+<tr>
+<td>Johann Baptist</td>
+<td>*23.06.1799 in W. †13.02.1875 in Engetried ⚭ Maria Kreszenz Epp (*10.09.1798 †06.12.1862)</td>
+</tr>
+<tr>
+<td>Maria Anna</td>
+<td>*16.07.1805 in W. †1.7.1810 mit nur 5 Jahren</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><strong>Johann Georg &amp; Maurus &amp; Kreszentia's Kinder:</strong> (auf Hof in Waizenried 79 bei Untrasried, jetzt Schindele-Hof) {<a href="https://data.matricula-online.eu/de/deutschland/augsburg/untrasried/16-FB/?pg=99">Familienbuch</a>}</td>
+</tr>
+<tr>
+<td>Franz Xaver</td>
+<td>*03.02.1818 in W. †06.02.1818 mit nur 3 Tagen</td>
+</tr>
+<tr>
+<td>Maria Anna</td>
+<td>*12.10.1819 in W. †14.07.1867 in Kraftisried?</td>
+</tr>
+<tr>
+<td>Karolina</td>
+<td>*16.03.1821 in W.</td>
+</tr>
+<tr>
+<td>Franz Xaver</td>
+<td>*13.05.1822 in W. †19.05.1822 mit nur 6 Tagen</td>
+</tr>
+<tr>
+<td>Johann Georg</td>
+<td>*14.08.1823 in W. †24.04.1830</td>
+</tr>
+<tr>
+<td>Johann ?</td>
+<td>*02.08.1824 in W. †28.08.1824 mit nur 1 Monat</td>
+</tr>
+<tr>
+<td>Ignaz</td>
+<td>*31.07.1825 in W. †17.09.1825 mit nur 46 Tagen</td>
+</tr>
+<tr>
+<td>M. Josefa</td>
+<td>*31.10.1826 in W.</td>
+</tr>
+<tr>
+<td>Johannes Chrysostomus</td>
+<td>*09.02.1828 in W. †1907 in Obg. ⚭24.11.1862 Maria Antonia Schindele (zog als Privatier nach Obg.)</td>
+</tr>
+<tr>
+<td>Johann L.</td>
+<td>*24.06.1829 in W. †02.03.1830</td>
+</tr>
+<tr>
+<td><strong>Theresia</strong></td>
+<td>*01.06.1831 in W. 🛠Privatiere †25.11.1901 in Ostenried 71 bei Untrasried {<a href="Quellen/Sterbebilder/1831_Theresia.jpg">Sterbebild</a>}</td>
+</tr>
+<tr>
+<td>Theodor</td>
+<td>*20.10.1832 in W. †1915 in Albrechts</td>
+</tr>
+<tr>
+<td>Alois</td>
+<td>*24.03.1834 in W.</td>
+</tr>
+<tr>
+<td>Johann Georg</td>
+<td>*19.11.1835 in W. †03.04.1880 in Ostenried 71</td>
+</tr>
+<tr>
+<td>Johann Heinrich</td>
+<td>*27.04.1837 in W. ⚭21.2.1881 in Altdorf mit Maria Anna T. (2 Monate Hof, Trübsinn)</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><strong>Theresia &amp; Xaver Prinz's Kind</strong>: {<a href="https://data.matricula-online.eu/de/deutschland/augsburg/untrasried/16-FB/?pg=99">Familienbuch</a>}</td>
+</tr>
+<tr>
+<td><strong>Johann Georg</strong></td>
+<td>*09.05.1868 in Ostenried 71 bei Untrasried 🔨Bauer †05.01.1933 {<a href="Quellen/Sterbebilder/1868_Georg.jpg">Sterbebild</a>} ⚭ Apollonia Mayr (*09.02.1870 +08.12.1957 {<a href="Quellen/Sterbebilder/1870_Apollonia.jpg">Sterbebild</a>})</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><strong>Johann Georg &amp; Apollonia's Kinder:</strong> (zuerst in Ostenried 71 bei Untrasried, dann in Albrechts 12 bei Günzach)</td>
+</tr>
+<tr>
+<td><strong>Johann</strong></td>
+<td>*30.12.1895 in O. 🛠Bauer †29.05.1955 in A. {<a href="Quellen/Sterbebilder/1895_Johann">Sterbebild</a>} ⚭ Sophie Hartmann (*23.03.1904 in Untereiberg †30.09.1977 in A. {<a href="Quellen/Sterbebilder/1904_Sophie.jpg">Sterbebild</a>})</td>
+</tr>
+<tr>
+<td>Maria</td>
+<td>*25.01.1897 in O. †05.01.1990</td>
+</tr>
+<tr>
+<td>Theresia</td>
+<td>*27.04.1902 in O. †25.06.1987 ⚭Johann Kustermann</td>
+</tr>
+<tr>
+<td>Georg</td>
+<td>*19.04.1903 in O. †19.04.1903 mit nur 1 Tag</td>
+</tr>
+<tr>
+<td>Johann Georg</td>
+<td>*13.08.1906 in A. †09.05.1935</td>
+</tr>
+<tr>
+<td>Theodor</td>
+<td>*10.12.1907 in A. 🛠Soldat †28.09.1942 bei Leningrad, Russland {<a href="Quellen/Sterbebilder/1907_Theodor.jpg">Sterbebild</a>}</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>1914-1918 💥 1. Weltkrieg mit ca. 17 Millionen Toten {<a href="Quellen/Wikipedia/Erster_Weltkrieg.pdf">Wikipedia</a>}</td>
+</tr>
+<tr>
+<td></td>
+<td>1939-1945 💥 2. Weltkrieg mit ca. 60-80 Millionen Toten {<a href="Quellen/Wikipedia/Zweiter_Weltkrieg.pdf">Wikipedia</a>}</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><strong>Johann &amp; Sophie's Kinder:</strong> (auf Hof in Albrechts 12 bei Günzach)</td>
+</tr>
+<tr>
+<td>Georg</td>
+<td>*21.01.1935 in A., †19.03.1935 mit nur 2 Monaten</td>
+</tr>
+<tr>
+<td>Amalie Maria Anna</td>
+<td>*20.02.1936 in A.&nbsp;🛠Bäuerin</td>
+</tr>
+<tr>
+<td>Apollonia Theresia</td>
+<td>*29.05.1937 in A.</td>
+</tr>
+<tr>
+<td>Johann 'Hans'</td>
+<td>*05.12.1938 in A. †13.05.2025 in A. 🛠Bauer ⚭ Rosmarie Höbel *18.12.1947 {<a href="Quellen/Todesanzeigen/2025_Johann.jpg">Todesanzeige</a>}</td>
+</tr>
+<tr>
+<td>Theodor Konrad</td>
+<td>*12.11.1942 in A. 🛠Molkerei-Meister ⚭ Sigrun Friede (*01.04.1949 in Radolfzell)</td>
+</tr>
+</tbody></table>
+<h2 class="setext" id="💡-hinweise">💡 Hinweise</h2>
+<ul>
+<li>Zur Namensentstehung von Fleschutz: der Brief von 1412 beginnt mit "Ich Utz Brästel den man nennt fläsch ützen...". Mit Leerzeichen, wahrscheinlich Kurzform von: Flaschner Utz (siehe auch Wappen mit Flasche). Grund dafür waren wohl mehrere Utz Brästel im selben Ort (Vater/Großvater/Onkel/Cousin?). In der darauffolgenden (Kauf-)Urkunde wird daraus: "fläschüzen" (ohne Leerzeichen, ohne T).</li>
+<li>*"Flaschner"* bedeutete früher: Blechschmied, *"Haus mit Taferngerechtigkeit"* = Gaststätte, *"Federspiel"* = Falkenjagd, *"in den Hölzern"* = im (Forst-)Wald, *"Frevel"* = leichteres Vergehen, *"Privatiere"* = wohlhabende Frau ohne Erwerbstätigkeit.</li>
+<li>Die Kirchenbücher in Haldenwang beginnen ab dem Jahr 1639. Anfangs in Latein, später in Deutsch. Als Handschrift wurden früher <a href="Quellen/Wikipedia/Deutsche_Kurrentschrift.pdf">Deutsche Kurrentschrift</a> oder <a href="Quellen/Wikipedia/Suetterlinschrift.pdf">Sütterlinschrift (ab 1911)</a> verwendet.</li>
+<li>Stand der Chronik ist 16. Mai 2025. Sie ist auch verfügbar in den Formaten: <a href="Export/Chronik.docx">.DOCX</a>, <a href="Export/Chronik.epub">.EPUB (für E-Books)</a>, <a href="Export/Chronik.html">.HTML</a>, <a href="Export/Chronik.odt">.ODT</a>, <a href="Export/Chronik.opml">.OPML</a>, <a href="Export/Chronik.pdf">.PDF</a>, <a href="Export/Chronik.rst">.RST</a>, <a href="Export/Chronik.rtf">.RTF</a>, <a href="Export/Chronik.tex">.TEX</a>, <a href="Export/Chronik.textile">.TEXTILE</a>, <a href="Export/Chronik.wiki">.WIKI</a>.</li>
+</ul>
+<h2 class="setext" id="👏-danksagung">👏 Danksagung</h2>
+<p>Herzlichen Dank an alle die bei dieser Chronik mitgeholfen haben:</p>
+<ul>
+<li>An Karl Fleschutz und seinen Großvater für ihre Ahnenforschung und ihre Chronik der Familie Fleschutz in Burg.</li>
+<li>An <a href="https://data.matricula-online.eu/de/">Matricula Online</a> für das Einscannen der vielen Kirchenbücher in Europa.</li>
+<li>Ans <a href="https://www.gda.bayern.de/augsburg">Staatsarchiv Augsburg</a> für die Einsichtnahme in die Urkunden und Akten.</li>
+<li>An <a href="https://www.transkribus.org/de/kurrentschrift-uebersetzen">Transkribus</a> für die maschinelle Schriftübersetzung.</li>
+<li>An Bernhard für die Sterbebilder und an Jörg für den Hinweis zu Matricula Online.</li>
+<li>An Andrea für das schwierige Entziffern der Handschriften.</li>
+<li>Und natürlich an Manuel, der für ein Schulprojekt den (Chronik-)Stein ins Rollen brachte 😊</li>
+</ul>
+</article>
+  
 </body>
 </html>
